@@ -135,10 +135,11 @@ Taskade is not a static tool. It's **living software** — where every app you c
 **Agent capabilities:**
 
 - 🤖 **Custom AI Agents** — Build agents with custom instructions, knowledge, and personality
-- 🧠 **Agent Memory** — Long-term memory across conversations and projects
+- 🧠 **Long-Term Memory (LTM)** — Persistent memory across conversations, projects, and sessions — your agents get smarter over time
 - 👥 **Multi-Agent Teams** — Orchestrate agents that collaborate and delegate tasks
 - 🔧 **Agent Tools** — Web scraper, site reader, YouTube transcriber, DALL-E, and more
 - 🎯 **Autonomous Execution** — Agents that edit, prioritize, and reschedule tasks independently
+- 🌍 **Multi-Language** — Global language support with 39,000+ translation keys
 - 🌐 **Public Sharing** — Share agents publicly with password protection
 - 🔄 **Human-in-the-Loop** — Approve, guide, or override agent decisions at any step
 - ⚙️ **AI Kits** — Pre-built agent + automation bundles for common workflows
@@ -272,7 +273,7 @@ Also available on: [**Microsoft Store**](https://taskade.com/downloads) · [**Sn
 |---|---|
 | **Communication** | Slack · Discord · Microsoft Teams · WhatsApp Business |
 | **Email & Marketing** | Gmail · MailChimp |
-| **CRM & Payments** | HubSpot · Stripe · Apollo |
+| **CRM & Payments** | HubSpot · Stripe · Shopify · Apollo |
 | **Google Workspace** | Sheets · Drive · Calendar · Docs · Forms |
 | **Developer** | GitHub |
 | **Social Media** | LinkedIn · X/Twitter · Facebook · Reddit · YouTube |
@@ -354,20 +355,21 @@ curl -X GET "https://api.taskade.com/v2/workspaces" \
 
 ### MCP Server
 
-Connect Taskade to Claude, Cursor, Windsurf, and any MCP-compatible AI assistant.
+Connect Taskade to ChatGPT, Claude, Cursor, Windsurf, VS Code, and any MCP-compatible AI assistant.
 
 ```bash
 npx @taskade/mcp
 ```
 
-🔌 [**Taskade MCP Server →**](https://github.com/taskade/mcp) · ⭐ Star the MCP repo
+🔌 [**Taskade MCP Server (v2) →**](https://github.com/taskade/mcp) · ⭐ Star the MCP repo
 
 ### Developer Tools
 
 | Tool | Description |
 |---|---|
 | **[REST API v2](https://developers.taskade.com)** | Full workspace, project, and agent management |
-| **[MCP Server](https://github.com/taskade/mcp)** | Model Context Protocol for AI assistants |
+| **[MCP Server v2](https://github.com/taskade/mcp)** | Model Context Protocol for ChatGPT, Claude, Cursor, VS Code |
+| **[Agent API](https://developers.taskade.com)** | Deploy and manage agents programmatically |
 | **Webhooks** | Receive real-time events from your workspace |
 | **OAuth 2.0** | Secure third-party authentication |
 | **BYOK** | Bring your own AI model keys (Business plan) |
