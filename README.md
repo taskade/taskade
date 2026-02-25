@@ -42,7 +42,7 @@
 ---
 
 <div align="center">
-  <img src="https://www.taskade.com/static_images/genesis-interface/taskade-genesis-interface.jpg" alt="Taskade Genesis — AI-Native Workspace Platform" width="800">
+  <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/taskade-genesis-interface.jpg" alt="Taskade Genesis — AI-Native Workspace Platform" width="800">
   <br><br>
   <sub><b>Taskade Genesis</b> — One prompt creates a live app with AI agents, real-time data, and automation workflows.</sub>
 </div>
@@ -55,7 +55,7 @@
 
 Built on **Workspace DNA** — three interconnected pillars that make every workspace alive:
 
-| <img src="https://www.taskade.com/static_images/genesis-interface/projects-memory-pillar.jpg" width="280" alt="Projects as Memory"> | <img src="https://www.taskade.com/static_images/genesis-interface/agents-intelligence-pillar.jpg" width="280" alt="AI Agents as Intelligence"> | <img src="https://www.taskade.com/static_images/genesis-interface/automations-execution-pillar.jpg" width="280" alt="Automations as Motion"> |
+| <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/projects-memory-pillar.jpg" width="280" alt="Projects as Memory"> | <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/agents-intelligence-pillar.jpg" width="280" alt="AI Agents as Intelligence"> | <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/automations-execution-pillar.jpg" width="280" alt="Automations as Motion"> |
 |:---:|:---:|:---:|
 | **Projects as Memory** | **AI Agents as Intelligence** | **Automations as Motion** |
 | Structure, context, and knowledge that persist across your workspace | Autonomous agents that reason, plan, and execute tasks 24/7 | Triggers, actions, and workflows that keep everything running |
@@ -87,7 +87,7 @@ Taskade is not a static tool. It's **living software** — where every app you c
 > **Describe any business need in plain English. Watch Genesis create complete applications with AI agents, real-time data, and automation workflows. Your ideas become working software in minutes.**
 
 <div align="center">
-  <img src="https://www.taskade.com/static_images/genesis-interface/generated-app-ui-split-view-chat-preview.jpg" alt="Genesis AI App Builder — Prompt to Live App" width="800">
+  <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/generated-app-ui-split-view-chat-preview.jpg" alt="Genesis AI App Builder — Prompt to Live App" width="800">
 </div>
 
 <br>
@@ -99,7 +99,7 @@ Taskade is not a static tool. It's **living software** — where every app you c
 
 | Community Gallery | Model Selection | Publish & Share |
 |:---:|:---:|:---:|
-| <img src="https://www.taskade.com/static_images/genesis-interface/community-gallery.jpg" width="280" alt="Community App Gallery"> | <img src="https://www.taskade.com/static_images/genesis-interface/prompt-model-selector.jpg" width="280" alt="AI Model Selection"> | <img src="https://www.taskade.com/static_images/genesis-interface/app-publish-modal.jpg" width="280" alt="Publish & Share Apps"> |
+| <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/community-gallery.jpg" width="280" alt="Community App Gallery"> | <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/prompt-model-selector.jpg" width="280" alt="AI Model Selection"> | <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/app-publish-modal.jpg" width="280" alt="Publish & Share Apps"> |
 | Browse, fork, and remix from the community gallery | Frontier models from OpenAI, Anthropic, Google | Publish live apps with custom branding and domains |
 
 **What you can build with Genesis:**
@@ -122,7 +122,7 @@ Taskade is not a static tool. It's **living software** — where every app you c
 > **Create intelligent AI agents that reason through problems, execute workflows, and work 24/7. Train them on your business, deploy them everywhere, and watch them handle complex tasks autonomously.**
 
 <div align="center">
-  <img src="https://www.taskade.com/static_images/genesis-interface/agent-training-interface.jpg" alt="Taskade AI Agent Training Interface" width="800">
+  <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/agent-training-interface.jpg" alt="Taskade AI Agent Training Interface" width="800">
 </div>
 
 <br>
@@ -152,7 +152,7 @@ Taskade is not a static tool. It's **living software** — where every app you c
 > **Automate anything. Trigger actions from form submissions, updates, emails, or integrations — without lifting a finger.**
 
 <div align="center">
-  <img src="https://www.taskade.com/static_images/genesis-interface/automation-building-interface.jpg" alt="Taskade Automation Builder Interface" width="800">
+  <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/automation-building-interface.jpg" alt="Taskade Automation Builder Interface" width="800">
 </div>
 
 <br>
