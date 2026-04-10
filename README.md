@@ -55,12 +55,38 @@
 
 Built on **Workspace DNA** — three interconnected pillars that make every workspace alive:
 
-| <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/projects-memory-pillar.jpg" width="280" alt="Projects as Memory"> | <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/agents-intelligence-pillar.jpg" width="280" alt="AI Agents as Intelligence"> | <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/automations-execution-pillar.jpg" width="280" alt="Automations as Motion"> |
+| <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/projects-memory-pillar.jpg" width="280" alt="Projects as Memory"> | <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/agents-intelligence-pillar.jpg" width="280" alt="AI Agents as Intelligence"> | <img src="https://www.taskade.com/static_images/blog-assets/genesis-interface/automations-execution-pillar.jpg" width="280" alt="Automations as Execution"> |
 |:---:|:---:|:---:|
-| **Projects as Memory** | **AI Agents as Intelligence** | **Automations as Motion** |
+| **Projects as Memory** | **AI Agents as Intelligence** | **Automations as Execution** |
 | Structure, context, and knowledge that persist across your workspace | Autonomous agents that reason, plan, and execute tasks 24/7 | Triggers, actions, and workflows that keep everything running |
 
 Taskade is not a static tool. It's **living software** — where every app you create is connected to your data, powered by AI, and automated from day one.
+
+> **TL;DR:** Taskade Genesis is the only AI app builder that delivers living software with built-in agents, automations, and 100+ integrations. 150,000+ apps built since launch. One prompt to production. Starting at $0/month. [Try it free →](https://taskade.com/create)
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                  THE WORKSPACE DNA LOOP                      │
+└──────────────────────────────────────────────────────────────┘
+
+  You type a prompt:
+  "Build me a CRM with pipeline and email automation"
+                         ↓
+       ┌───────────────────────────────────┐
+       │         TASKADE GENESIS           │
+       └───────────────────────────────────┘
+            ↓             ↓             ↓
+       MEMORY        INTELLIGENCE   EXECUTION
+      (Projects)     (AI Agents)   (Automations)
+            ↓             ↓             ↓
+       ┌───────────────────────────────────┐
+       │   LIVE APP — deployed in minutes  │
+       │  No code. No hosting. No DevOps.  │
+       └───────────────────────────────────┘
+
+  Memory feeds Intelligence → Intelligence triggers Execution
+  → Execution creates Memory → SELF-REINFORCING LOOP
+```
 
 **[Get Started Free →](https://taskade.com/signup)**
 
@@ -74,7 +100,7 @@ Taskade is not a static tool. It's **living software** — where every app you c
 | 🤖 | [**Custom AI Agents**](#-ai-agents) | Build, train, and deploy intelligent agents that work autonomously |
 | ⚡ | [**Workflow Automation**](#-automations) | Triggers, actions, and multi-step flows connected to 100+ services |
 | 👥 | [**Real-Time Collaboration**](#-collaboration--views) | Multiplayer editing, video calls, and AI + human workflows |
-| 📊 | [**8 Workspace Views**](#-collaboration--views) | List, board, mind map, org chart, calendar, table, Gantt, action view |
+| 📊 | [**7 Workspace Views**](#-collaboration--views) | List, board, mind map, org chart, calendar, table, Gantt |
 | 🧠 | [**Knowledge Ingestion**](#-knowledge--ai-training) | Train AI on PDFs, docs, spreadsheets, web pages, and YouTube |
 | 🔗 | [**100+ Integrations**](#-integrations) | Slack, Google, GitHub, HubSpot, Stripe, Discord, and more |
 | 🔌 | [**Developer API & MCP**](#-for-developers) | Public REST API, MCP server, webhooks, and OAuth |
@@ -180,14 +206,14 @@ Taskade is not a static tool. It's **living software** — where every app you c
 
 ## 📊 Collaboration & Views
 
-> **Think visually. Act structurally. Switch between 8 views — your data, your way.**
+> **Think visually. Act structurally. Switch between 7 views — your data, your way.**
 
 | List View | Board View | Mind Map View |
 |:---:|:---:|:---:|
 | <img src="https://www.taskade.com/static_images/demo/list_demo.png" width="280" alt="Taskade List View"> | <img src="https://www.taskade.com/static_images/demo/board_demo.png" width="280" alt="Taskade Board View"> | <img src="https://www.taskade.com/static_images/demo/mindmap_demo.png" width="280" alt="Taskade Mind Map View"> |
 | Structured task lists with hierarchy and nesting | Kanban boards for visual workflow management | Visual brainstorming and idea mapping |
 
-**8 workspace views:** List · Board · Mind Map · Org Chart · Calendar · Table · Gantt · Action View
+**7 workspace views:** List · Board · Mind Map · Org Chart · Calendar · Table · Gantt
 
 **Collaboration features:**
 
@@ -378,6 +404,37 @@ npx @taskade/mcp
 
 ---
 
+## Vibe Coding & Agentic Engineering
+
+Taskade bridges both paradigms defined by Andrej Karpathy:
+
+**Vibe Coding** (coined Feb 2025): Describe what you want in natural language → AI builds it. Taskade Genesis is a vibe coding platform that goes further — apps come with built-in intelligence (AI agents, automations, databases), not just code files.
+
+**Agentic Engineering** (coined Feb 2026): Orchestrate AI agents with human oversight. Taskade AI Agents v2 implements this — custom tools, multi-agent teams, persistent memory, slash commands, and human-in-the-loop controls.
+
+```
+  VIBE CODING                    AGENTIC ENGINEERING
+  ───────────                    ────────────────────
+  "Build me a CRM"              "Deploy a sales agent team"
+       ↓                               ↓
+  Taskade Genesis                Taskade AI Agents v2
+  builds the app                 deploys the agents
+       ↓                               ↓
+  Living app with                Multi-agent team with
+  DB + agents + automations      custom tools + memory
+       ↓                               ↓
+  ┌──────────────────────────────────────────────────┐
+  │       WORKSPACE DNA: THE LIVING SYSTEM           │
+  │   Memory ↔ Intelligence ↔ Execution (loop)      │
+  └──────────────────────────────────────────────────┘
+```
+
+**Unlike code generators** (Cursor, Bolt, Lovable, Replit) that output files, Taskade creates deployed, intelligent living systems. **Unlike project management tools** (Notion, Monday, Asana) that organize work, Taskade executes it with AI.
+
+➡️ [**What is Vibe Coding →**](https://taskade.com/blog/what-is-vibe-coding) · [**Best Vibe Coding Tools →**](https://taskade.com/blog/best-vibe-coding-tools)
+
+---
+
 ## Feature Comparison
 
 <details>
@@ -524,7 +581,7 @@ npx @taskade/mcp
 
 | | |
 |:---:|:---:|
-| **100K+** live apps | **500K+** agents deployed |
+| **150K+** live apps | **500K+** agents deployed |
 | **100+** integrations | **4.8★** rating (9,300+ reviews) |
 
 <br>
@@ -587,6 +644,82 @@ Join the Taskade community — builders, makers, and teams:
 |---|---|---|---|
 | 🔴 [Reddit](https://reddit.com/r/taskade) | 🐦 [X / Twitter](https://x.com/taskade) | 📺 [YouTube](https://youtube.com/@taskade) | 💼 [LinkedIn](https://linkedin.com/company/taskade) |
 | 📘 [Facebook](https://facebook.com/taskade) | 📸 [Instagram](https://instagram.com/taskade) | 🎵 [TikTok](https://tiktok.com/@taskade) | 📝 [Blog](https://taskade.com/blog) |
+
+---
+
+## FAQ
+
+<details>
+<summary><b>Can I build an app without coding?</b></summary>
+<br>
+Yes. Taskade Genesis builds complete apps from natural language prompts — describe what you need ("Build me a CRM with pipeline and email automation") and get a production-ready app in 2-15 minutes. No code, no deployment, no hosting. 150,000+ apps built this way since October 2025.
+</details>
+
+<details>
+<summary><b>How does Taskade compare to Cursor, Bolt, or Lovable?</b></summary>
+<br>
+Code generators (Cursor, Bolt, Lovable) output files you deploy yourself. Taskade Genesis creates deployed, intelligent living systems with built-in AI agents, workflow automations, and databases. Apps are live instantly. Pricing starts at $0/month.
+</details>
+
+<details>
+<summary><b>How does Taskade compare to Notion, Monday, or Asana?</b></summary>
+<br>
+Notion, Monday, and Asana organize work. Taskade executes it — with AI agents that think and act, automations that run 24/7 across 100+ integrations, and Genesis apps you can build from a prompt.
+</details>
+
+<details>
+<summary><b>What AI models does Taskade use?</b></summary>
+<br>
+Powered by 11+ frontier models from OpenAI, Anthropic, and Google. The system automatically selects the best model for each task. Premium plans unlock the latest models.
+</details>
+
+<details>
+<summary><b>Can I train AI agents on my own data?</b></summary>
+<br>
+Yes. Train agents on PDFs, DOCX, XLSX, web links, YouTube videos, and Taskade project data. Agents retain persistent memory across conversations and get smarter over time.
+</details>
+
+<details>
+<summary><b>Can I use Taskade with Claude, Cursor, or Windsurf?</b></summary>
+<br>
+Yes. The <a href="https://github.com/taskade/mcp">Taskade MCP Server</a> connects your workspace to any MCP-compatible AI assistant. 50+ tools for workspaces, projects, tasks, agents, knowledge bases, templates, and automations.
+</details>
+
+<details>
+<summary><b>What is Workspace DNA?</b></summary>
+<br>
+Taskade's architecture where three pillars form a self-reinforcing loop: <b>Memory</b> (Projects) feeds <b>Intelligence</b> (AI Agents), Intelligence triggers <b>Execution</b> (Automations), Execution creates new Memory. This is what makes Taskade apps "living software."
+</details>
+
+<details>
+<summary><b>What is vibe coding?</b></summary>
+<br>
+Vibe coding (coined by Andrej Karpathy, Feb 2025) means describing what you want in natural language and letting AI build it. Taskade Genesis is a vibe coding platform that goes further — apps come with built-in intelligence, not just code files.
+</details>
+
+<details>
+<summary><b>What is agentic engineering?</b></summary>
+<br>
+Agentic engineering (coined by Andrej Karpathy, Feb 2026) means orchestrating AI agents with human oversight. Taskade AI Agents v2 implements this with custom tools, multi-agent teams, persistent memory, and human-in-the-loop controls.
+</details>
+
+<details>
+<summary><b>Is there a free plan?</b></summary>
+<br>
+Yes. The free plan includes 1,000 AI credits/month, 1 AI agent, 3 apps, and all 7 project views. No credit card required. Starter starts at $6/month (annual).
+</details>
+
+<details>
+<summary><b>How do I migrate from Notion, Asana, or other tools?</b></summary>
+<br>
+One-click import from 30+ tools: Notion, Trello, Asana, Monday.com, ClickUp, Todoist, Obsidian, Google Docs, Apple Reminders, and more.
+</details>
+
+<details>
+<summary><b>What can I build with Taskade Genesis?</b></summary>
+<br>
+CRMs, client portals, dashboards, invoice systems, booking apps, habit trackers, project trackers, knowledge bases, chatbots, landing pages, storefronts, forms, and any business tool — from a single prompt. <a href="https://taskade.com/create">Try it now →</a>
+</details>
 
 ---
 
