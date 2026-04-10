@@ -35,7 +35,7 @@
 [![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/taskade/id1490048917)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.taskade.mobile)
 [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/taskade/)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/)
 
 </div>
 
@@ -140,6 +140,18 @@ Taskade is not a static tool. It's **living software** — where every app you c
 - 💬 **Chatbots** — AI-powered conversational interfaces
 
 ➡️ [**Create with Genesis →**](https://taskade.com/create) · [**Explore AI App Builder →**](https://taskade.com/ai/apps) · [**Browse Community Apps →**](https://taskade.com/community)
+
+### Real-World Apps Built with Genesis
+
+| Client Portal | CRM Dashboard | Shopify-Style Storefront |
+|:---:|:---:|:---:|
+| <img src="https://www.taskade.com/static_images/newsletter-gifs/2026-04-08-client-portal-dashboard.gif" width="280" alt="Client portal with project tracking built with Taskade Genesis"> | <img src="https://www.taskade.com/static_images/newsletter-gifs/2026-04-08-crm-for-sales-teams.gif" width="280" alt="CRM for sales teams built with Taskade Genesis"> | <img src="https://www.taskade.com/static_images/newsletter-gifs/2026-04-08-shopify-style-storefront.gif" width="280" alt="Shopify-style storefront built with Taskade Genesis"> |
+| Project tracking, file sharing, real-time updates | Pipeline, leads, deals, automated outreach | Product catalog, cart, checkout — from one prompt |
+
+| Habit Tracker | Project Tracker | Company Knowledge Base |
+|:---:|:---:|:---:|
+| <img src="https://www.taskade.com/static_images/newsletter-gifs/2026-04-01-habit-tracker-with-streaks.gif" width="280" alt="Habit tracker with streaks built with Taskade Genesis"> | <img src="https://www.taskade.com/static_images/newsletter-gifs/2026-04-01-project-tracker.gif" width="280" alt="Project tracker built with Taskade Genesis"> | <img src="https://www.taskade.com/static_images/newsletter-gifs/2026-04-01-company-knowledge-base.gif" width="280" alt="Company knowledge base built with Taskade Genesis"> |
+| Daily habits with streaks, analytics, reminders | Multi-view tracker with Gantt, board, and table | AI-powered search across all company docs |
 
 ---
 
@@ -258,7 +270,7 @@ Taskade runs everywhere. Your workspace syncs in real-time across all devices.
 
 | Web | macOS | Windows | Linux | iOS | Android | Chrome | Firefox |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [**Launch**](https://taskade.com) | [**Download**](https://apps.apple.com/app/taskade-ai-agents-to-do-lists/id1264713923) | [**Download**](https://taskade.com/downloads) | [**Download**](https://taskade.com/downloads) | [**App Store**](https://apps.apple.com/app/taskade/id1490048917) | [**Play Store**](https://play.google.com/store/apps/details?id=com.taskade.mobile) | [**Install**](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf) | [**Install**](https://addons.mozilla.org/en-US/firefox/addon/taskade/) |
+| [**Launch**](https://taskade.com) | [**Download**](https://apps.apple.com/app/taskade-ai-agents-to-do-lists/id1264713923) | [**Download**](https://taskade.com/downloads) | [**Download**](https://taskade.com/downloads) | [**App Store**](https://apps.apple.com/app/taskade/id1490048917) | [**Play Store**](https://play.google.com/store/apps/details?id=com.taskade.mobile) | [**Install**](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf) | [**Install**](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/) |
 
 </div>
 
@@ -430,6 +442,11 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 ```
 
 **Unlike code generators** (Cursor, Bolt, Lovable, Replit) that output files, Taskade creates deployed, intelligent living systems. **Unlike project management tools** (Notion, Monday, Asana) that organize work, Taskade executes it with AI.
+
+| Vibe Code an App | Pick Your AI Model | Publish & Own Your Page |
+|:---:|:---:|:---:|
+| <img src="https://www.taskade.com/static_images/newsletter-gifs/2026-02-08-click-to-edit-apps-visually.gif" width="280" alt="Vibe coding — click to edit apps visually in Taskade Genesis"> | <img src="https://www.taskade.com/static_images/newsletter-gifs/2026-03-19-pick-your-model-per-agent.gif" width="280" alt="Pick your AI model per agent — OpenAI, Anthropic, Google"> | <img src="https://www.taskade.com/static_images/newsletter-gifs/2026-03-19-publish-apps-own-your-page.gif" width="280" alt="Publish AI apps to your own page in the Community Gallery"> |
+| Click-to-edit visual builder — no code required | 11+ frontier models from OpenAI, Anthropic, Google | Publish to community, custom domains, analytics |
 
 ➡️ [**What is Vibe Coding →**](https://taskade.com/blog/what-is-vibe-coding) · [**Best Vibe Coding Tools →**](https://taskade.com/blog/best-vibe-coding-tools)
 
