@@ -17,7 +17,7 @@
 
 <br>
 
-### The AI-Native Workspace Platform.<br>Build Apps. Deploy Agents. Automate Workflows. From One Prompt.
+### The AI-Native Workspace Platform.<br>Projects remember. Agents think. Automations execute.<br><sub>Build apps, deploy agents, automate workflows — one prompt to production.</sub>
 
 <br>
 
@@ -37,6 +37,10 @@
 [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/)
 
+<br>
+
+<sub>150,000+ live apps &nbsp;·&nbsp; 500K+ agents deployed &nbsp;·&nbsp; 4.8★ (9,300+ reviews) &nbsp;·&nbsp; free to start</sub>
+
 </div>
 
 ---
@@ -46,6 +50,21 @@
   <br><br>
   <sub><b>Taskade Genesis</b> — One prompt creates a live app with AI agents, real-time data, and automation workflows.</sub>
 </div>
+
+---
+
+## 🐛 Bug Reports · 💡 Feature Requests · ✨ Show & Tell
+
+**This is the official public hub for Taskade feedback and community.** Found a bug? Have an idea? Built something cool? You're in the right place.
+
+| | Action | Link |
+|:---:|---|---|
+| 🐛 | **Report a bug** — steps to reproduce, platform, screenshot | [New Bug Report →](https://github.com/taskade/taskade/issues/new?template=bug_report.md) |
+| 💡 | **Request a feature** — describe the use case and expected behavior | [New Feature Request →](https://github.com/taskade/taskade/issues/new?template=feature_request.md) |
+| ✨ | **Show what you built** — share apps, agents, or workflows with the community | [New App Showcase →](https://github.com/taskade/taskade/issues/new?template=app_showcase.md) |
+| 💬 | **Ask a question or start a discussion** | [GitHub Discussions →](https://github.com/taskade/taskade/discussions) |
+
+> For real-time help, join us on [Reddit](https://reddit.com/r/taskade) or reach out at [taskade.com/contact](https://taskade.com/contact).
 
 ---
 
@@ -90,6 +109,16 @@ Taskade is not a static tool. It's **living software** — where every app you c
 
 **[Get Started Free →](https://taskade.com/signup)**
 
+### Quick Start — First app in 60 seconds
+
+```
+1. Go to → taskade.com/create
+2. Describe what you want to build (e.g. "CRM with email automation and a pipeline view")
+3. Watch Genesis generate a live, intelligent app — agents, automations, and data included
+```
+
+No credit card. No DevOps. No setup. [Try it now →](https://taskade.com/create)
+
 ---
 
 ## Key Features
@@ -104,6 +133,7 @@ Taskade is not a static tool. It's **living software** — where every app you c
 | 🧠 | [**Knowledge Ingestion**](#-knowledge--ai-training) | Train AI on PDFs, docs, spreadsheets, web pages, and YouTube |
 | 🔗 | [**100+ Integrations**](#-integrations) | Slack, Google, GitHub, HubSpot, Stripe, Discord, and more |
 | 🔌 | [**Developer API & MCP**](#-for-developers) | Public REST API, MCP server, webhooks, and OAuth |
+| 🌊 | [**Vibe Coding & Agentic Engineering**](#vibe-coding--agentic-engineering) | Prompt-to-app with living software — no code, no deployment |
 | 🌐 | [**Cross-Platform**](#-platforms--downloads) | Web, macOS, Windows, Linux, iOS, Android, Chrome, Firefox |
 
 ---
@@ -416,6 +446,22 @@ npx @taskade/mcp
 
 ---
 
+## 🌐 Taskade on GitHub
+
+The Taskade GitHub ecosystem — open tools, docs, and resources for builders:
+
+| Repo | Stars | Description |
+|---|:---:|---|
+| [**taskade/mcp**](https://github.com/taskade/mcp) | ⭐ 120+ | Official MCP server — connect Taskade to Claude, Cursor, Windsurf, VS Code, and any MCP-compatible AI |
+| [**taskade/taskade**](https://github.com/taskade/taskade) | ⭐ | This repo — product hub, bug reports, feature requests, community showcase |
+| [**taskade/docs**](https://github.com/taskade/docs) | ⭐ 12 | Public documentation source |
+| [**taskade/taskade-sample-app**](https://github.com/taskade/taskade-sample-app) | ⭐ | Genesis App Kit — Workspace DNA starter template |
+| [**taskade/awesome-vibe-coding**](https://github.com/taskade/awesome-vibe-coding) | ⭐ 14 | The complete guide to vibe coding — tools, frameworks, and resources |
+
+> **Bug reports and feature requests** for all Taskade products live here at [taskade/taskade](https://github.com/taskade/taskade/issues). Start there.
+
+---
+
 ## Vibe Coding & Agentic Engineering
 
 Taskade bridges both paradigms defined by Andrej Karpathy:
@@ -662,6 +708,14 @@ Join the Taskade community — builders, makers, and teams:
 | 🔴 [Reddit](https://reddit.com/r/taskade) | 🐦 [X / Twitter](https://x.com/taskade) | 📺 [YouTube](https://youtube.com/@taskade) | 💼 [LinkedIn](https://linkedin.com/company/taskade) |
 | 📘 [Facebook](https://facebook.com/taskade) | 📸 [Instagram](https://instagram.com/taskade) | 🎵 [TikTok](https://tiktok.com/@taskade) | 📝 [Blog](https://taskade.com/blog) |
 
+**On GitHub:**
+
+- [⭐ Star this repo](https://github.com/taskade/taskade) — helps others discover Taskade
+- [🐛 File a bug](https://github.com/taskade/taskade/issues/new?template=bug_report.md) — detailed reports get fast responses
+- [💡 Request a feature](https://github.com/taskade/taskade/issues/new?template=feature_request.md) — describe the use case
+- [💬 Start a discussion](https://github.com/taskade/taskade/discussions) — Q&A, ideas, and community showcases
+- [🔌 Use the MCP server](https://github.com/taskade/mcp) — connect Taskade to Claude, Cursor, and more
+
 ---
 
 ## FAQ
@@ -770,6 +824,8 @@ CRMs, client portals, dashboards, invoice systems, booking apps, habit trackers,
 
 <br>
 
-**If you find Taskade useful, give this repo a ⭐**
+**If Taskade is useful, [give this repo a ⭐](https://github.com/taskade/taskade) — it helps others find us.**
+
+**Found a bug or have an idea? [Open an issue →](https://github.com/taskade/taskade/issues/new/choose)**
 
 </div>
