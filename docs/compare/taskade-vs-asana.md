@@ -36,7 +36,7 @@ We'll say it plainly: Asana is one of the most mature work-management platforms 
 - **AI embedded in the work graph.** Asana's AI isn't a detached chat panel bolted onto the side. It reads the existing work graph — projects, tasks, dependencies, and relationships — with full context, and it's permission-aware, so it respects who can see what. That's a meaningfully better foundation than a generic assistant.
 - **AI Studio for no-code automation.** AI Studio lets teams build agentic workflows and "AI Teammates" without code, running them against real project context. It's a serious, well-integrated capability.
 - **Enterprise governance and reporting.** Mature admin controls, granular permissions, universal reporting, and audit features built for large, governed organizations. If compliance and oversight matter, Asana is built for it.
-- **Roadmap signal.** Asana acquired **StackAI in May 2026** to run agent workflows across enterprise systems — a clear bet on agents reaching beyond Asana's own walls.
+- **Roadmap signal.** Asana has reportedly acquired StackAI (2026) to run agent workflows across enterprise systems — a signal it's betting on agents reaching beyond its own walls. Check Asana's site for the latest.
 
 If you run a large portfolio with real governance requirements and a team to administer it, Asana rewards that investment.
 

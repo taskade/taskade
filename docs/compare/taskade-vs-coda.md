@@ -18,7 +18,7 @@ This page is written to be fair. Coda is an excellent product, and for power use
 | --- | --- | --- |
 | **Core model** | AI-native workspace + prompt-to-hosted-app (Genesis). | Doc-database hybrid: documents that behave like apps. |
 | **Building approach** | Describe the app in plain English; Genesis builds it. | A human assembles tables, formulas, buttons, and Packs by hand. |
-| **AI & agents** | AI-native core: custom multi-agent teams with shared memory and tools. | Coda AI (Chat / Assistant / Column) and Coda Brain — credit-metered per Doc Maker. |
+| **AI & agents** | AI-native core: custom multi-agent teams with shared memory and tools. | Coda AI (Chat / Assistant / Column), plus Coda Brain (reportedly folding into Superhuman Go — verify) — credit-metered per Doc Maker. |
 | **Multi-agent** | Multi-agent workspaces — agents collaborate, hand off, and run as a team. | Single-assistant style AI; not designed around teams of agents working together. |
 | **App output** | A standalone, hosted app with login/auth, payments, and a custom domain. | An interactive doc that lives inside Coda. |
 | **Automations** | Visual automation flows plus an AI workflow generator; describe it, get a flow. | Automations and buttons inside a doc; mature and flexible for in-doc logic. |
