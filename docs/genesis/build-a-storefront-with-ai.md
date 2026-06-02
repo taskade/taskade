@@ -2,7 +2,7 @@
 
 You want to sell something. A product, a small line, a digital download, a limited drop. What stands between you and your first sale isn't the product — it's the *commerce stack*. A catalog. A cart. A checkout that takes real money without leaking card numbers. An orders database. Customer accounts. The confirmation email. The inventory count that has to go down when something sells. Hosting. A domain. Normally that's a project, a budget, and a developer or three.
 
-**Genesis collapses that into one prompt.** Describe the shop you want in plain English and Taskade's **AI storefront builder** assembles a real, hosted store — product catalog, Stripe checkout, an orders table, customer login, the order automations, and a sales dashboard — wired together and live on a URL you can share the same afternoon. No commerce stack to bolt together. No code.
+**Taskade Genesis collapses that into one prompt.** Describe the shop you want in plain English and Taskade's **AI storefront builder** assembles a real, hosted store — product catalog, Stripe checkout, an orders table, customer login, the order automations, and a sales dashboard — wired together and live on a URL you can share the same afternoon. No commerce stack to bolt together. No code.
 
 This page shows exactly what that looks like: the prompt, what Genesis builds from it, how you go from words to a working store, and how you customize and publish it on your own domain.
 

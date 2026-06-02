@@ -7,7 +7,7 @@ If you're searching for a Notion alternative, you usually have a specific itch: 
 ## The short version
 
 - **Notion** is a best-in-class *document and database* workspace. If most of your work is writing, wikis, and flexible relational databases, Notion is hard to beat.
-- **Taskade** is an *AI-native* workspace. Projects, notes, and tasks are the foundation, but the point is what sits on top: AI agents, multi-agent teams, built-in automations, and **Genesis** — describe an app in plain English and get a hosted, working app with a database, auth, payments, and a custom domain.
+- **Taskade** is an *AI-native* workspace. Projects, notes, and tasks are the foundation, but the point is what sits on top: AI agents, multi-agent teams, built-in automations, and **Taskade Genesis** — describe an app in plain English and get a hosted, working app with a database, auth, payments, and a custom domain.
 
 Both can hold your notes and projects. The real decision is whether you mainly want a place to *store and structure* knowledge (Notion's strength) or a place to *act on* it with AI and ship software (Taskade's strength).
 

@@ -172,7 +172,7 @@ What that means in practice:
 | <img src="media/apps/habit-tracker.gif" width="280" alt="Habit tracker with streaks built with Taskade Genesis"> | <img src="media/apps/project-tracker.gif" width="280" alt="Project tracker built with Taskade Genesis"> | <img src="media/apps/knowledge-base.gif" width="280" alt="Company knowledge base built with Taskade Genesis"> |
 | Daily habits with streaks, analytics, reminders | Multi-view tracker with Gantt, board, and table | AI-powered search across all company docs |
 
-**Take payments from day one.** Genesis apps come with built-in Stripe checkout — sell products, accept deposits, or run a storefront without wiring up a payment gateway yourself.
+**Take payments from day one.** Taskade Genesis apps come with built-in Stripe checkout — sell products, accept deposits, or run a storefront without wiring up a payment gateway yourself.
 
 <div align="center">
   <a href="https://www.taskade.com/ai/apps"><img src="media/apps/app-payments.gif" width="640" alt="Accept Stripe payments in a Taskade Genesis storefront app"></a>
