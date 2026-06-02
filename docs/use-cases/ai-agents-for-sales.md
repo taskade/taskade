@@ -170,6 +170,21 @@ Your workspace data stays in your workspace. You control what agents can see and
 
 ---
 
+## Clone a ready-made app kit
+
+Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
+
+| App kit | What it does | |
+|---|---|---|
+| **[Sales Agent Studio](https://www.taskade.com/share/apps/uo9fc7tfidydkdw9)** | Your always-on AI sales rep, working leads in the background. | [Clone →](https://www.taskade.com/share/apps/uo9fc7tfidydkdw9) |
+| **[Neon CRM Dashboard](https://www.taskade.com/share/apps/nsrm12wns3e1cgni)** | Track leads and close deals at a glance. | [Clone →](https://www.taskade.com/share/apps/nsrm12wns3e1cgni) |
+| **[Sales Pipeline Dashboard](https://www.taskade.com/share/apps/j1n0746e1z0olf6r)** | Forecast deals by stage in real time. | [Clone →](https://www.taskade.com/share/apps/j1n0746e1z0olf6r) |
+| **[Client Connect Dashboard](https://www.taskade.com/share/apps/avl35iqxc8t7wk3e)** | See your pipeline and revenue, live. | [Clone →](https://www.taskade.com/share/apps/avl35iqxc8t7wk3e) |
+
+Browse all of them in the [App Kits Gallery →](../genesis/app-kits.md).
+
+---
+
 ## Related
 
 - [How to build a multi-agent workspace](../guides/multi-agent-workspace.md) — the pattern behind agent teams that hand off work

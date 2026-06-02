@@ -15,6 +15,7 @@ All assets are © Taskade and provided for use in coverage, documentation, and p
 | `genesis/` | The Genesis app builder — create, edit, build on phone, publish & share. |
 | `views/` | Project views — List, Board, Mind Map. |
 | `screenshots/` | Product screenshots. |
+| `app-kits/` | Screenshots of clone-ready Taskade Genesis app kits — see the [App Kits Gallery](../docs/genesis/app-kits.md). |
 
 ## Featured clips (GIF + MP4 source)
 
@@ -35,6 +36,11 @@ All assets are © Taskade and provided for use in coverage, documentation, and p
 | `apps/task-manager.gif` | Planning and tracking tasks. |
 | `apps/invoice-generator.gif` | An Invoice Generator app built with Taskade Genesis. |
 | `apps/stripe-checkout.gif` | Stripe-powered checkout and orders inside a Taskade Genesis app. |
+| `apps/live-wiki.gif` | A Smart Wiki app that answers questions across your docs. |
+| `apps/live-hiring.gif` | A hiring board tracking candidates through stages. |
+| `apps/live-meetings.gif` | A meeting scheduler with availability voting. |
+| `apps/team-pulse-chatbot.gif` | A deployed chatbot agent for daily team check-ins. |
+| `apps/product-launch-dashboard.gif` | A shop / product-launch dashboard with inventory and orders. |
 
 > Note: GitHub renders animated **GIFs** inline in Markdown; **MP4** files are included as downloadable high-quality sources and may not preview inline.
 

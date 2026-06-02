@@ -23,11 +23,17 @@ Both can hold your data. The difference is what happens *next*.
 | **AI agents acting ON your data** | AI add-ons can summarize and generate text in fields. Agents that take actions across records are limited. | Native. AI agents read your projects, answer questions, draft content, update tasks, and run steps against your data. |
 | **Multi-agent teams** | Not a native concept. | Native. Multiple agents with different roles collaborate in one workspace. |
 | **Automations** | Strong, mature automations and scripting (with a learning curve for advanced logic). | Built-in automations and workflow generation you can describe in plain English. |
-| **App-building / interfaces** | Interface Designer: powerful, hand-built layouts on top of your tables. | **Genesis** builds a complete hosted app — database, UI, agents, auth, payments, custom domain — from a description. |
+| **App-building / interfaces** | Interface Designer: powerful, hand-built layouts on top of your tables. | **Taskade Genesis** builds a complete hosted app — database, UI, agents, auth, payments, custom domain — from a description. |
 | **Conversational generation** | Limited. You design interfaces and automations manually. | Describe what you want; Taskade generates the structure, the app, the workflow, or the agent. |
 | **Templates** | Large template gallery, mostly bases and interfaces. | [Template library](https://www.taskade.com/templates) spanning projects, agents, automations, and apps. |
 | **Learning curve** | Gentle to start; steeper for formulas, rollups, scripting, and Interface Designer. | Gentle throughout; plain-English prompts replace most formula and config work. |
 | **Pricing** | Free tier; paid plans priced per seat, with AI and advanced features on higher tiers. | Free tier; paid plans include AI agents and automations. See current [pricing](https://www.taskade.com). |
+| **Multi-agent AI teams** | Not a native concept. Airtable's AI assists within a base; it doesn't run a team of role-based agents collaborating on shared data. | Native. Spin up multiple agents with distinct roles (sales, support, research) that hand work to each other over the same workspace. |
+| **Persistent agent memory** | Records persist as data, but there's no agent that carries context across sessions and acts on it; AI features are largely per-prompt. | Agents draw on your projects, notes, and uploaded knowledge as a persistent memory layer, so context carries across conversations and runs. |
+| **Build an app from a prompt (Taskade Genesis)** | No. Airtable Cobuilder can scaffold a base or interface from a prompt, but you still assemble and design the app yourself. | Taskade Genesis turns a plain-English prompt into a complete, hosted app — database, UI, agents, automations, auth, payments, and domain — not just a starter base. |
+| **In-app payments (Stripe checkout)** | Not built in. Collecting payments means an extension, a third-party form, or custom scripting wired up by hand. | Genesis apps can include Stripe checkout so a generated app can take payments out of the box, no separate billing tool to stitch in. |
+| **App hosting & custom domains** | Interfaces are shared within Airtable; there's no native public app on your own custom domain. | Genesis apps publish to a live hosted URL and can run on your own custom domain — no deploy step, no engineer. |
+| **Automations / workflows** | Strong, mature automations, triggers, and scripting — capable, with a learning curve for advanced logic. | Built-in automations plus workflow generation you describe in plain English; agents can run as steps inside a flow. |
 
 A note on honesty: pricing and feature tiers change for both products. Treat the table as a map of *categories*, not a quote. Check each vendor's live pricing page before you decide.
 
@@ -54,7 +60,7 @@ With **[Genesis](https://www.taskade.com/ai/apps)**, you describe the app in pla
 
 One enterprise customer who shipped a production business app this way put it bluntly: *"What I accomplished in a few weeks would have taken a team of 40+ and 18 months in the Fortune 500."* That's a person describing an outcome, not configuring a tool.
 
-If you want to see the difference concretely, walk through [building a CRM with AI](../genesis/build-a-crm-with-ai.md) — the same kind of app you'd model by hand in Airtable, generated from a description instead.
+If you want to see the difference concretely, walk through [building a CRM with AI](../genesis/build-a-crm-with-ai.md) — the same kind of app you'd model by hand in Airtable, generated from a description instead. For the latest on what Genesis can build — in-app payments, hosting, custom domains — see [what's new in Genesis](../genesis/whats-new.md).
 
 The mental shift is worth naming. In Airtable, the unit of work is the *base*: you think in tables, fields, and relationships, and the app emerges from how well you wire them. In Taskade, the unit of work is the *outcome*: you think in what the thing should do for people, and the structure emerges from the description. Neither is wrong. They reward different instincts — one rewards data modeling, the other rewards clear thinking about results.
 

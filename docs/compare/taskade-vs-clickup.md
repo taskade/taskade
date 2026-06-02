@@ -6,7 +6,7 @@ This page is written to be fair. ClickUp is a strong, mature product, and for so
 
 [![Build and run automation flows in Taskade](../../media/automations/automation-flows.gif)](https://www.taskade.com)
 
-> Short version: **ClickUp** is a deep, highly configurable project-management platform. **Taskade** is an AI-native workspace where memory (projects + notes), intelligence (multi-agent teams), and execution (automations + Genesis apps) live together. If you want maximum PM configurability, ClickUp is excellent. If you want AI that does the work and a path to ship apps without code, Taskade fits better.
+> Short version: **ClickUp** is a deep, highly configurable project-management platform. **Taskade** is an AI-native workspace where memory (projects + notes), intelligence (multi-agent teams), and execution (automations + Taskade Genesis apps) live together. If you want maximum PM configurability, ClickUp is excellent. If you want AI that does the work and a path to ship apps without code, Taskade fits better.
 
 ---
 
@@ -23,6 +23,12 @@ This page is written to be fair. ClickUp is a strong, mature product, and for so
 | **Performance / speed** | Light, quick workspace built around writing and doing. | Feature-dense; can feel weighty as workspaces and automations grow. |
 | **Pricing** | Free tier; paid plans add more AI usage, agents, and automation runs. | Free tier; paid plans scale by features and seats. (Check each site for current pricing.) |
 | **Best for** | Teams that want AI to do real work and ship apps without engineers. | Teams that want a deeply customizable, all-in-one PM system with rich reporting. |
+| **Multi-agent AI teams** | Yes — multiple agents collaborate, hand off tasks, and run as a team in one workspace. | No — ClickUp Brain is a single assistant, not a team of agents working together. |
+| **Persistent agent memory** | Yes — agents remember your projects, notes, and uploaded knowledge across sessions. | Brain can reference workspace content, but there is no trainable, persistent per-agent memory. |
+| **Build an app from a prompt (Taskade Genesis)** | Yes — describe an app in plain English and get a complete, working app. | No — you configure ClickUp itself; it does not generate standalone apps. |
+| **In-app payments (Stripe checkout)** | Yes — Genesis apps can take payments via Stripe checkout out of the box. | No — ClickUp manages work internally and does not ship customer-facing payment apps. |
+| **App hosting & custom domains** | Yes — Genesis apps are hosted with login/auth and can run on your own custom domain. | No — there is no hosted, shareable app product to publish to a domain. |
+| **Automations / workflows** | Visual automation flows plus an AI workflow generator that builds a flow from a sentence. | Mature, rule-based automations (triggers/actions) with a large, well-documented action library. |
 
 *Feature availability and pricing change often. Verify current details on [taskade.com](https://www.taskade.com) and clickup.com before deciding.*
 
@@ -127,7 +133,7 @@ Both do automations. ClickUp offers mature rule-based triggers and actions. Task
 Partly. Taskade has views and tables that cover common tracking needs, but if your team relies on rich custom dashboards, workload reports, and time tracking, ClickUp is currently deeper there. Be honest with yourself about how much reporting you actually use.
 
 **What can Taskade do that ClickUp can't?**
-Two big things: **multi-agent teams** that collaborate on work, and **Genesis** — building a complete, hosted app (database, auth, payments, UI, custom domain) from a plain-English description. ClickUp is a platform you configure; Genesis ships a standalone product. See [Genesis](https://www.taskade.com/blog/introducing-taskade-genesis).
+Two big things: **multi-agent teams** that collaborate on work, and **Genesis** — building a complete, hosted app (database, auth, payments, UI, custom domain) from a plain-English description. ClickUp is a platform you configure; Genesis ships a standalone product. See [Genesis](https://www.taskade.com/blog/introducing-taskade-genesis), and follow the latest capabilities in [what's new in Genesis](../genesis/whats-new.md).
 
 **Is migrating from ClickUp hard?**
 Most teams start small: move one project or stand up one agent in Taskade, run it alongside ClickUp, and expand from there. You don't have to migrate everything at once.

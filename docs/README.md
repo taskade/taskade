@@ -21,6 +21,8 @@ Plain-English guides to building **real, working apps** with [Taskade](https://w
 | [Taskade vs Notion](compare/taskade-vs-notion.md) | Deciding between a flexible doc/database tool and an AI-native workspace. |
 | [Taskade vs ClickUp](compare/taskade-vs-clickup.md) | Swapping feature-maximalist project management for AI that does the work. |
 | [Taskade vs Airtable](compare/taskade-vs-airtable.md) | Moving from relational tables to describe-it-and-it's-built apps. |
+| [Taskade vs Monday.com](compare/taskade-vs-monday.md) | Choosing between a heavyweight Work OS and an AI-native workspace that builds apps. |
+| [Taskade vs Trello](compare/taskade-vs-trello.md) | Keeping simple Kanban, or adding AI agents, automations, and Genesis apps on top. |
 
 ## 🤖 AI Agents by Use Case
 
@@ -39,6 +41,8 @@ Plain-English guides to building **real, working apps** with [Taskade](https://w
 | [Build a CRM with AI](genesis/build-a-crm-with-ai.md) | Customers, deals, agents, automations, and a dashboard — from one prompt. |
 | [Build a Helpdesk with AI](genesis/build-a-helpdesk-with-ai.md) | Tickets, a knowledge base, triage agents, and a customer portal. |
 | [Build a Storefront with AI](genesis/build-a-storefront-with-ai.md) | A catalog, Stripe checkout, orders, and a sales dashboard. |
+| [Deploy Agents & Launch Shops](genesis/deploy-agents-launch-shops.md) | Deploy chatbot agents, run a shop, and automate payments — the deploy → sell → get-paid loop. |
+| [Clone-Ready App Kits](genesis/app-kits.md) | A gallery of 20+ live apps to clone in ~60 seconds across sales, support, marketing, and ops. |
 | [What's New in Taskade Genesis](genesis/whats-new.md) | Release highlights — multi-agent workspace, memory, app payments, cloning, and more. |
 
 ## 🧰 Free AI Tools
@@ -57,6 +61,7 @@ Plain-English guides to building **real, working apps** with [Taskade](https://w
 | [Schedule Meetings](use-cases/schedule-meetings.md) | Find a time, capture notes, and turn decisions into tracked tasks. |
 | [Clone & Customize Apps](use-cases/clone-and-customize-apps.md) | Start from a finished community app, make it yours, add login, and publish on your domain. |
 | [Personal Productivity](use-cases/personal-productivity.md) | Map your mind, plan tasks, and track habits in one AI-native daily operating system. |
+| [Live Workspace Apps](use-cases/live-workspace-apps.md) | Wiki, hiring, and meeting-scheduling apps you can stand up and run today. |
 
 ---
 
@@ -64,6 +69,7 @@ Plain-English guides to building **real, working apps** with [Taskade](https://w
 
 - 🚀 **[Open Genesis →](https://www.taskade.com/ai/apps)** — describe your app and watch it come to life.
 - 🧩 **[Browse templates →](https://www.taskade.com/templates)** — clone a finished app and make it yours.
+- 🗂️ **[Clone-Ready App Kits →](genesis/app-kits.md)** — 20+ live apps to clone in about a minute.
 - 📖 **[Read the Genesis story →](https://www.taskade.com/blog/introducing-taskade-genesis)**
 - 🛠️ **[Developer docs & API →](https://developers.taskade.com)**
 

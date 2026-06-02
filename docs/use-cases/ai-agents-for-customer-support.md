@@ -171,6 +171,19 @@ Yes, and you should. Begin with one agent on one repetitive question. Once you t
 
 ---
 
+## Clone a ready-made app kit
+
+Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
+
+| App kit | What it does | |
+|---|---|---|
+| **[Support Agent](https://www.taskade.com/share/apps/et6hqn2e00ayy26n)** | AI-first ticket triage that answers around the clock. | [Clone →](https://www.taskade.com/share/apps/et6hqn2e00ayy26n) |
+| **[Support Workflow Manager](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv)** | Route tickets and resolve them faster. | [Clone →](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv) |
+| **[Customer Health Dashboard](https://www.taskade.com/share/apps/564685gvoq7j7oua)** | Spot churn risk early and drive renewals. | [Clone →](https://www.taskade.com/share/apps/564685gvoq7j7oua) |
+| **[Onboarding Guide Portal](https://www.taskade.com/share/apps/cjom1t44r0lf9diu)** | Guide new hires or customers from day 1 to day 30. | [Clone →](https://www.taskade.com/share/apps/cjom1t44r0lf9diu) |
+
+Browse all of them in the [App Kits Gallery →](../genesis/app-kits.md).
+
 ## Related
 
 - [Build a Helpdesk with AI](../genesis/build-a-helpdesk-with-ai.md) — the step-by-step Genesis build for the support app itself

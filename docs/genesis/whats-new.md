@@ -24,6 +24,18 @@ So when a release says "Memory. Agents. Workflows." it's telling you which of th
 
 Newest themes first. Each one is a real capability you can use today, not a roadmap promise.
 
+### Introducing Live Workspace Apps — Wiki. Hiring. Meetings.
+
+The newest release turns three jobs that usually eat a whole afternoon into apps that just run. A **wiki that answers questions across your docs** — ask it something and it reads everything you've written to reply, instead of making you hunt through pages. A **hiring board that nudges you on follow-ups** — candidates move through stages and the board reminds you who's waiting on a reply. And a **meeting scheduler with availability voting and AI-drafted invites** — people vote on the times that work, and the invite writes itself.
+
+What it means for you: the knowledge base, the applicant tracker, and the meeting wrangling that each used to be a separate tool (and a separate subscription) are now three live apps inside the same workspace — sharing the same memory and the same agents, ready to use instead of set up.
+
+[![Live Smart Wiki app answering questions across your docs](../../media/apps/live-wiki.gif)](https://www.taskade.com/ai/apps)
+[![Live hiring board app with follow-up nudges](../../media/apps/live-hiring.gif)](https://www.taskade.com/ai/apps)
+[![Live meeting scheduler app with availability voting](../../media/apps/live-meetings.gif)](https://www.taskade.com/ai/apps)
+
+[Read the announcement →](https://www.taskade.com/newsletters/w/00ZsB1NYPSr9A9WfJmUBEA)
+
 ### The Multi-Agent Workspace — Memory. Agents. Workflows.
 
 For a long time an AI agent was a goldfish: smart in the moment, forgetting everything the second the chat closed. This release changed the shape of the whole product. Your workspace now has **memory** — the projects, notes, and context your agents draw on — plus **multiple agents** that can work as a team, and **workflows** that string their work into something repeatable.
@@ -132,6 +144,8 @@ The announcements tell you *what* shipped. These guides show you *how* to use it
 - **[Build a storefront with AI](build-a-storefront-with-ai.md)** — the commerce releases made concrete: a real, hosted shop with Stripe checkout, an orders table, and accounts, from one prompt.
 - **[The multi-agent workspace](../guides/multi-agent-workspace.md)** — what it means to have memory, multiple agents, and workflows in one place, and how to set up a team of agents that share context.
 - **[Personal productivity](../use-cases/personal-productivity.md)** — mind maps, task planning, and habit tracking for getting your own work in order, not just shipping apps for others.
+- **[Live workspace apps](../use-cases/live-workspace-apps.md)** — the wiki, hiring board, and meeting scheduler made concrete: three live apps that share your workspace's memory and agents instead of living in separate tools.
+- **[Deploy agents & launch shops](../genesis/deploy-agents-launch-shops.md)** — take it past internal apps: deploy chatbot agents, launch a hosted shop, and automate the payment side end to end.
 
 ---
 

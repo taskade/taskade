@@ -174,6 +174,19 @@ You can start at [taskade.com](https://www.taskade.com) and build your first sto
 
 ---
 
+## Clone a ready-made app kit
+
+Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
+
+| App kit | What it does | |
+|---|---|---|
+| **[Inventory Management](https://www.taskade.com/share/apps/94o8cjl33yz7z8ke)** | Track SKUs and stock with low-stock alerts. | [Clone →](https://www.taskade.com/share/apps/94o8cjl33yz7z8ke) |
+| **[Invoice Tracker](https://www.taskade.com/share/apps/rsltpd5cegha5ulc)** | Track hours, rates, and earnings — and get paid. | [Clone →](https://www.taskade.com/share/apps/rsltpd5cegha5ulc) |
+
+Browse all of them in the [App Kits Gallery →](app-kits.md).
+
+---
+
 ## Related
 
 - [The AI Workspace, explained](../guides/ai-workspace.md) — how memory, agents, and automations fit together in the one workspace your store lives in

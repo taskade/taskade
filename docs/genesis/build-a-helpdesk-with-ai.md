@@ -193,6 +193,20 @@ Yes. The customer portal includes login, so customers can submit new tickets and
 
 ---
 
+## Clone a ready-made app kit
+
+Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
+
+| App kit | What it does | |
+|---|---|---|
+| **[Support Agent](https://www.taskade.com/share/apps/et6hqn2e00ayy26n)** | AI-first ticket triage that answers around the clock. | [Clone →](https://www.taskade.com/share/apps/et6hqn2e00ayy26n) |
+| **[Support Workflow Manager](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv)** | Route tickets and resolve them faster. | [Clone →](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv) |
+| **[Customer Health Dashboard](https://www.taskade.com/share/apps/564685gvoq7j7oua)** | Spot churn risk early and drive renewals. | [Clone →](https://www.taskade.com/share/apps/564685gvoq7j7oua) |
+
+Browse all of them in the [App Kits Gallery →](app-kits.md).
+
+---
+
 ## Related
 
 - [AI Agents for Customer Support](../use-cases/ai-agents-for-customer-support.md) — the agent strategy and the support pod that powers this app

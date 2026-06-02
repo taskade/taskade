@@ -29,8 +29,11 @@ Both can hold your notes and projects. The real decision is whether you mainly w
 | Offline | Limited / improving | Limited |
 | Pricing model | Per-seat, AI as paid add-on | Per-seat with AI included in the workspace |
 | Learning curve | Steeper for advanced databases | Lower for AI/automation; you describe, it builds |
+| Persistent agent memory | AI references page/database context within a request | Agents carry memory across sessions, trained on your workspace knowledge |
+| In-app payments (Stripe checkout) | Not built in; needs third-party tools or embeds | Genesis apps include Stripe checkout, so customers can pay inside the app |
+| App hosting & custom domains | Public page sharing; not standalone hosted apps | Genesis apps are hosted at a real URL with custom-domain support |
 
-A note on fairness: both products move fast and add features constantly, so treat the table as a snapshot of the *shape* of each tool rather than a frozen spec sheet. Check both vendors' current plans before deciding — especially on pricing and AI limits.
+A note on fairness: both products move fast and add features constantly, so treat the table as a snapshot of the *shape* of each tool rather than a frozen spec sheet. Check both vendors' current plans before deciding — especially on pricing and AI limits. For the latest on the agent, payments, and hosting capabilities above, see [recent Taskade Genesis updates](../genesis/whats-new.md).
 
 ## Where Notion shines
 

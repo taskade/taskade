@@ -171,6 +171,20 @@ Build the app for one open role, get the Screener's rubric right, then add roles
 
 ---
 
+## Clone a ready-made app kit
+
+Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
+
+| App kit | What it does | |
+|---|---|---|
+| **[Recruitment Workflow](https://www.taskade.com/share/apps/b3by4yg754xrdjut)** | Pipeline candidates and hire faster, application to offer. | [Clone →](https://www.taskade.com/share/apps/b3by4yg754xrdjut) |
+| **[HR Dashboard](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb)** | Manage headcount, reviews, and leave in one place. | [Clone →](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb) |
+| **[Onboarding Guide Portal](https://www.taskade.com/share/apps/cjom1t44r0lf9diu)** | Guide new hires or customers from day 1 to day 30. | [Clone →](https://www.taskade.com/share/apps/cjom1t44r0lf9diu) |
+
+Browse all of them in the [App Kits Gallery →](../genesis/app-kits.md).
+
+---
+
 ## Related
 
 - [AI agents for recruiting](../use-cases/ai-agents-for-recruiting.md) — the Screener → Outreach-Writer → Scheduler agent team in depth

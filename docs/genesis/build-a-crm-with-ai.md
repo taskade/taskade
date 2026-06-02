@@ -171,6 +171,21 @@ Yes. Browse the [Taskade template gallery](https://www.taskade.com/templates) fo
 
 ---
 
+## Clone a ready-made app kit
+
+Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
+
+| App kit | What it does | |
+|---|---|---|
+| **[Neon CRM Dashboard](https://www.taskade.com/share/apps/nsrm12wns3e1cgni)** | Track leads and close deals at a glance. | [Clone →](https://www.taskade.com/share/apps/nsrm12wns3e1cgni) |
+| **[Client Connect Dashboard](https://www.taskade.com/share/apps/avl35iqxc8t7wk3e)** | See your pipeline and revenue, live. | [Clone →](https://www.taskade.com/share/apps/avl35iqxc8t7wk3e) |
+| **[Sales Pipeline Dashboard](https://www.taskade.com/share/apps/j1n0746e1z0olf6r)** | Forecast deals by stage in real time. | [Clone →](https://www.taskade.com/share/apps/j1n0746e1z0olf6r) |
+| **[Client Portal Nexus](https://www.taskade.com/share/apps/1s4lv2y3jb9z7zpf)** | A branded, self-serve portal your clients log in to. | [Clone →](https://www.taskade.com/share/apps/1s4lv2y3jb9z7zpf) |
+
+Browse all of them in the [App Kits Gallery →](app-kits.md).
+
+---
+
 ## Related
 
 - [AI agents for sales](../use-cases/ai-agents-for-sales.md) — the agent team that runs the CRM you just built

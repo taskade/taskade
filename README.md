@@ -800,6 +800,8 @@ Deep dives, honest comparisons, and step-by-step builds.
 - [**Taskade vs Notion**](docs/compare/taskade-vs-notion.md) — Where Notion's docs-and-databases shine, and where Taskade's agents and automations pull ahead.
 - [**Taskade vs ClickUp**](docs/compare/taskade-vs-clickup.md) — Task management depth versus an AI-native workspace that builds and runs apps.
 - [**Taskade vs Airtable**](docs/compare/taskade-vs-airtable.md) — Structured databases versus living apps with built-in AI and automation.
+- [**Taskade vs Monday.com**](docs/compare/taskade-vs-monday.md) — A heavyweight Work OS versus an AI-native workspace that builds and runs apps.
+- [**Taskade vs Trello**](docs/compare/taskade-vs-trello.md) — Simple Kanban versus boards plus AI agents, automations, and Genesis apps.
 
 **Use Cases**
 
@@ -814,6 +816,8 @@ Deep dives, honest comparisons, and step-by-step builds.
 - [**Build a CRM with AI**](docs/genesis/build-a-crm-with-ai.md) — Pipeline, contacts, and automated follow-up from a single prompt.
 - [**Build a Helpdesk with AI**](docs/genesis/build-a-helpdesk-with-ai.md) — Ticket intake, routing, and AI-assisted replies in one app.
 - [**Build a Storefront with AI**](docs/genesis/build-a-storefront-with-ai.md) — Catalog, cart, and Stripe checkout without writing code.
+- [**Deploy Agents & Launch Shops**](docs/genesis/deploy-agents-launch-shops.md) — Deploy chatbot agents, run an online shop, and automate payments.
+- [**Clone-Ready App Kits**](docs/genesis/app-kits.md) — A gallery of live apps to clone in ~60 seconds — CRM, support, marketing, ops, and more.
 - [**Taskade Genesis — What's New**](docs/genesis/whats-new.md) — Release highlights: multi-agent workspace, memory, app payments, cloning, and more.
 
 **Tools**
@@ -828,6 +832,7 @@ Deep dives, honest comparisons, and step-by-step builds.
 - [**Schedule Meetings**](docs/use-cases/schedule-meetings.md) — Coordinate availability and book meetings with automation.
 - [**Clone & Customize Apps**](docs/use-cases/clone-and-customize-apps.md) — Start from a finished community app, make it yours, add login, and publish.
 - [**Personal Productivity**](docs/use-cases/personal-productivity.md) — Map your mind, plan tasks, and track habits in one AI-native daily OS.
+- [**Live Workspace Apps**](docs/use-cases/live-workspace-apps.md) — Wiki, hiring, and meeting apps you can stand up and run today.
 
 ---
 

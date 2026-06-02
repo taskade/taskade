@@ -166,6 +166,21 @@ You can start at [taskade.com](https://www.taskade.com) and explore agents, auto
 
 ---
 
+## Clone a ready-made app kit
+
+Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
+
+| App kit | What it does | |
+|---|---|---|
+| **[Campaign Planning Portal](https://www.taskade.com/share/apps/r6lxd31ymwsthdmn)** | Plan campaigns end to end, across every channel. | [Clone →](https://www.taskade.com/share/apps/r6lxd31ymwsthdmn) |
+| **[Content Workflow](https://www.taskade.com/share/apps/hvu1z1ab0fyp9dkh)** | Brief, draft, and ship content without juggling tools. | [Clone →](https://www.taskade.com/share/apps/hvu1z1ab0fyp9dkh) |
+| **[Testimonial Portal](https://www.taskade.com/share/apps/3htncuaiwhxiblzn)** | Collect customer quotes and turn them into social proof. | [Clone →](https://www.taskade.com/share/apps/3htncuaiwhxiblzn) |
+| **[Neon Data Visualizer](https://www.taskade.com/share/apps/7m161f2tjo6rj8ku)** | Turn your numbers into charts that pop. | [Clone →](https://www.taskade.com/share/apps/7m161f2tjo6rj8ku) |
+
+Browse all of them in the [App Kits Gallery →](../genesis/app-kits.md).
+
+---
+
 ## Related
 
 - [AI Agents for Sales](../use-cases/ai-agents-for-sales.md) — the same agent-team model applied to pipeline and outreach

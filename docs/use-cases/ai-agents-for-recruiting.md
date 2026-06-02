@@ -177,6 +177,19 @@ Build the tracker for one open role, get the Screener's rubric right, then add t
 
 ---
 
+## Clone a ready-made app kit
+
+Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
+
+| App kit | What it does | |
+|---|---|---|
+| **[Recruitment Workflow](https://www.taskade.com/share/apps/b3by4yg754xrdjut)** | Pipeline candidates and hire faster, application to offer. | [Clone →](https://www.taskade.com/share/apps/b3by4yg754xrdjut) |
+| **[HR Dashboard](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb)** | Manage headcount, reviews, and leave in one place. | [Clone →](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb) |
+
+Browse all of them in the [App Kits Gallery →](../genesis/app-kits.md).
+
+---
+
 ## Related
 
 - [Run hiring and applicant tracking](./run-hiring-applicant-tracking.md) — the pipeline from a project-first angle
