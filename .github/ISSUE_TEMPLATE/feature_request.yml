@@ -1,0 +1,24 @@
+name: 💡 Feature or doc request
+description: Suggest a new guide, comparison, app kit, or improvement
+title: "[Request]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea for a guide, comparison, or improvement? We'd love to hear it. For open-ended ideas, a [Discussion](https://github.com/taskade/taskade/discussions) works great too.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+      description: Describe the guide, page, or improvement and who it would help.
+      placeholder: e.g. A "Build an event-planning app with AI" guide for non-technical organizers.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it useful?
+      description: What outcome would it help someone achieve?
+    validations:
+      required: false

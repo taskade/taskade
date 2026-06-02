@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Ideas & discussion
+    url: https://github.com/taskade/taskade/discussions
+    about: Share ideas, ask questions, and show what you've built with the community.
+  - name: 🚀 Try Taskade Genesis
+    url: https://www.taskade.com/ai/apps
+    about: Describe an app in plain English and get a working, hosted app.
+  - name: 📚 Docs & Learn hub
+    url: https://github.com/taskade/taskade/tree/main/docs
+    about: Guides, honest comparisons, tools, and the App Kits Gallery.
+  - name: 🆘 Product support
+    url: https://www.taskade.com
+    about: For help with your Taskade account or the product itself.

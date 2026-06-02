@@ -51,6 +51,22 @@
 
 ---
 
+<div align="center">
+
+⭐ **Find this useful? [Star the repo](https://github.com/taskade/taskade)** to follow new guides, honest comparisons, and clone-ready app kits.
+
+</div>
+
+## Contents
+
+- [What is Taskade?](#what-is-taskade) · [Why Taskade](#why-taskade--build-without-permission)
+- [Feature Comparison](#feature-comparison) · [Learn & Compare](#learn--compare) · [Taskade Ecosystem](#taskade-ecosystem)
+- [FAQ](#faq) · [Getting Started](#getting-started) · [Community](#community)
+
+_Also below: Genesis · AI Agents · Automations · Collaboration & Views · Knowledge & AI Training · Integrations · For Developers._
+
+---
+
 ## What is Taskade?
 
 **Taskade is an AI-native workspace platform that turns a single prompt into a complete, running application.** It combines project management, AI agents, and workflow automation into one unified system with real-time collaboration across web, desktop, and mobile.
@@ -91,6 +107,23 @@ Taskade is not a static tool. It's **living software** — where every app you c
 ```
 
 **[Get Started Free →](https://taskade.com/signup)**
+
+**One prompt → a complete, running app:**
+
+```mermaid
+flowchart TD
+    P["Describe your app in plain English"] --> G["Taskade Genesis"]
+    G --> DB["Database: projects and data"]
+    G --> AG["AI agents"]
+    G --> AU["Automations"]
+    G --> UI["App interface"]
+    G --> AX["Login and payments"]
+    DB --> L["Live app on your own domain"]
+    AG --> L
+    AU --> L
+    UI --> L
+    AX --> L
+```
 
 ---
 
@@ -795,6 +828,12 @@ Deep dives, honest comparisons, and step-by-step builds.
 - [**AI Workspace**](docs/guides/ai-workspace.md) — What an AI-native workspace is and how it differs from bolting AI onto an old tool.
 - [**Connect Tools & Automate**](docs/guides/connect-tools-and-automate.md) — Agent memory, 100+ integrations, and plain-English automations that run themselves.
 
+**Start Here & Reference**
+
+- [**What is Taskade Genesis?**](docs/genesis/what-is-taskade-genesis.md) — The full capabilities pillar: prompt → hosted app, with diagrams.
+- [**FAQ**](docs/faq.md) — Plain answers to the most common questions about Taskade Genesis.
+- [**Glossary**](docs/glossary.md) — Definitions for AI workspace, multi-agent, agent memory, MCP, and more.
+
 **Compare**
 
 - [**Taskade vs Notion**](docs/compare/taskade-vs-notion.md) — Where Notion's docs-and-databases shine, and where Taskade's agents and automations pull ahead.
@@ -802,6 +841,10 @@ Deep dives, honest comparisons, and step-by-step builds.
 - [**Taskade vs Airtable**](docs/compare/taskade-vs-airtable.md) — Structured databases versus living apps with built-in AI and automation.
 - [**Taskade vs Monday.com**](docs/compare/taskade-vs-monday.md) — A heavyweight Work OS versus an AI-native workspace that builds and runs apps.
 - [**Taskade vs Trello**](docs/compare/taskade-vs-trello.md) — Simple Kanban versus boards plus AI agents, automations, and Genesis apps.
+- [**Taskade vs Asana**](docs/compare/taskade-vs-asana.md) — Enterprise work management versus an AI-native workspace with built-in agents.
+- [**Taskade vs Coda**](docs/compare/taskade-vs-coda.md) — Docs-as-apps you assemble by hand versus a prompt that builds a hosted app.
+- [**Taskade vs AI Agent Tools**](docs/compare/taskade-vs-ai-agent-tools.md) — Lindy, Gumloop, and Zapier Agents versus agents that live in your workspace.
+- [**All comparisons →**](docs/compare/README.md) — The full comparison hub.
 
 **Use Cases**
 
@@ -833,6 +876,22 @@ Deep dives, honest comparisons, and step-by-step builds.
 - [**Clone & Customize Apps**](docs/use-cases/clone-and-customize-apps.md) — Start from a finished community app, make it yours, add login, and publish.
 - [**Personal Productivity**](docs/use-cases/personal-productivity.md) — Map your mind, plan tasks, and track habits in one AI-native daily OS.
 - [**Live Workspace Apps**](docs/use-cases/live-workspace-apps.md) — Wiki, hiring, and meeting apps you can stand up and run today.
+
+---
+
+## Taskade Ecosystem
+
+Taskade is more than this repo — explore the rest of the ecosystem (and star what's useful):
+
+| Project | What it is | Stars |
+|---|---|---|
+| [**Taskade MCP**](https://github.com/taskade/mcp) | Official Model Context Protocol server — connect Taskade to Claude, Cursor, and any MCP client. | [![mcp stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp) |
+| [**Awesome Vibe Coding**](https://github.com/taskade/awesome-vibe-coding) | A curated guide to building software with AI — the vibe-coding movement. | [![awesome-vibe-coding stars](https://img.shields.io/github/stars/taskade/awesome-vibe-coding?style=social)](https://github.com/taskade/awesome-vibe-coding) |
+| [**Genesis Sample App**](https://github.com/taskade/taskade-sample-app) | A Workspace DNA template for building AI-powered Taskade Genesis apps. | [![sample-app stars](https://img.shields.io/github/stars/taskade/taskade-sample-app?style=social)](https://github.com/taskade/taskade-sample-app) |
+
+### Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=taskade/taskade,taskade/mcp,taskade/awesome-vibe-coding&type=Date)](https://star-history.com/#taskade/taskade&taskade/mcp&taskade/awesome-vibe-coding&Date)
 
 ---
 

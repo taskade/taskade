@@ -23,6 +23,20 @@ The key word is **workspace**. The agents don't live in a chat window that forge
 
 Put simply: a chatbot is a conversation, a single assistant is a helper, and a multi-agent workspace is an operation. The first two wait for your next message. The third keeps working — picking up where the last agent left off, against context that's still there tomorrow.
 
+One prompt fans out to a team of specialized agents, who all read and write the same workspace memory, and the finished work comes back to you:
+
+```mermaid
+flowchart LR
+    U["You: one prompt"] --> O["Lead agent"]
+    O --> A["Researcher"]
+    O --> B["Writer"]
+    O --> C["Reviewer"]
+    A --> MEM[("Shared workspace memory")]
+    B --> MEM
+    C --> MEM
+    MEM --> R["Finished work"]
+```
+
 ---
 
 ## Why a team beats one assistant
@@ -68,7 +82,7 @@ Most tools give you one of these. The combination is what makes a workspace.
 
 - **Memory** — projects, notes, and knowledge the agents draw on. Persistent, shared, searchable.
 - **Intelligence** — the agent team that reasons over that memory and decides what to do.
-- **Execution** — [automations and workflows](../guides/ai-workspace.md) plus [Genesis](https://www.taskade.com/ai/apps) apps that turn decisions into finished work — tasks created, records filled, customers emailed, an app shipped.
+- **Execution** — [automations and workflows](../guides/ai-workspace.md) plus [Taskade Genesis](https://www.taskade.com/ai/apps) apps that turn decisions into finished work — tasks created, records filled, customers emailed, an app shipped.
 
 ```
                  ┌──────────────────────────────────────┐

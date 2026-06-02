@@ -10,6 +10,7 @@ Plain-English guides to building **real, working apps** with [Taskade](https://w
 
 | Guide | What you'll learn |
 |---|---|
+| [What is Taskade Genesis?](genesis/what-is-taskade-genesis.md) | The capabilities pillar — how a plain-English prompt becomes a complete, hosted app, with diagrams. |
 | [What is an AI Workspace?](guides/ai-workspace.md) | The AI-native workspace explained — Memory, Intelligence, Execution — and why it beats AI bolted onto an old tool. |
 | [The Multi-Agent Workspace](guides/multi-agent-workspace.md) | How a *team* of AI agents shares memory, delegates, and gets real work done — not just a single chatbot. |
 | [Connect Tools & Automate](guides/connect-tools-and-automate.md) | Agent memory, 100+ integrations, and plain-English automations that run on their own. |
@@ -23,6 +24,10 @@ Plain-English guides to building **real, working apps** with [Taskade](https://w
 | [Taskade vs Airtable](compare/taskade-vs-airtable.md) | Moving from relational tables to describe-it-and-it's-built apps. |
 | [Taskade vs Monday.com](compare/taskade-vs-monday.md) | Choosing between a heavyweight Work OS and an AI-native workspace that builds apps. |
 | [Taskade vs Trello](compare/taskade-vs-trello.md) | Keeping simple Kanban, or adding AI agents, automations, and Genesis apps on top. |
+| [Taskade vs Asana](compare/taskade-vs-asana.md) | Enterprise work + portfolio management versus an agent-native workspace that ships apps. |
+| [Taskade vs Coda](compare/taskade-vs-coda.md) | Building docs-as-apps by hand versus describing an app and having it built. |
+| [Taskade vs AI Agent Tools](compare/taskade-vs-ai-agent-tools.md) | Lindy / Gumloop / Zapier Agents versus agents that live in your workspace. |
+| [All comparisons →](compare/README.md) | The full comparison hub, grouped by category. |
 
 ## 🤖 AI Agents by Use Case
 
@@ -51,6 +56,13 @@ Plain-English guides to building **real, working apps** with [Taskade](https://w
 |---|---|
 | [AI Mind Map Generator](tools/ai-mind-map-generator.md) | Turn a topic into a full branching map — then into a working project. |
 | [AI Flowchart Generator](tools/ai-flowchart-generator.md) | Turn a process description into a diagram — then into a running automation. |
+
+## 📖 Reference
+
+| Page | What's inside |
+|---|---|
+| [FAQ](faq.md) | Plain-English answers to the most common questions about Taskade Genesis. |
+| [Glossary](glossary.md) | Definitions for AI workspace, multi-agent, agent memory, MCP, vibe coding, and more. |
 
 ## 🧩 More Things to Build
 

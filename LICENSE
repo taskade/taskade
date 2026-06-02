@@ -1,0 +1,28 @@
+# License & Usage
+
+This repository is the public documentation and press-kit hub for **Taskade**
+(https://taskade.com). It contains no application source code.
+
+## Documentation and written content
+
+The written documentation in this repository — the Markdown files under `docs/`
+and `README.md` — may be read, quoted, and referenced freely **with attribution
+to Taskade**. If you build on it (for example, in articles, comparisons, or
+integrations), a link back to https://taskade.com or this repository is
+appreciated.
+
+## Brand assets and media
+
+The **Taskade name and logo**, and all **product screenshots, GIFs, and videos**
+in `media/` (and elsewhere in this repository) are © Taskade, Inc. — all rights
+reserved. You may use them for **editorial coverage, documentation, reviews, and
+partner materials with attribution**, but please do not modify them to
+misrepresent the product or use them to imply endorsement or partnership that
+does not exist.
+
+## Anything else
+
+For any other use, or to request brand assets, contact Taskade via
+https://taskade.com.
+
+© Taskade, Inc. All rights reserved.
