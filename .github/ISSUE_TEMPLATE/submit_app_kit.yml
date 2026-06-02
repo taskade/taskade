@@ -1,0 +1,60 @@
+name: 🚀 Submit an app kit
+description: Share an app you built with Taskade Genesis to be featured in the App Kits Gallery
+title: "[App Kit]: "
+labels: ["app-kit", "community"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Built something with [Taskade Genesis](https://www.taskade.com/ai/apps)? Share it and we may feature it in the [App Kits Gallery](https://github.com/taskade/taskade/blob/main/docs/genesis/app-kits.md), with credit and a link back to you.
+  - type: input
+    id: name
+    attributes:
+      label: App name
+      placeholder: e.g. Freelance Invoice Tracker
+    validations:
+      required: true
+  - type: input
+    id: share_link
+    attributes:
+      label: Public share link
+      description: Your app's public share URL.
+      placeholder: https://www.taskade.com/share/apps/...
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What does it do? (one line, outcome-first)
+      placeholder: e.g. Turns billable hours into branded invoices and tracks who has paid.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Sales
+        - Customer support
+        - Marketing
+        - Operations
+        - Finance
+        - Personal productivity
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: Credit (your name / handle / site)
+      description: How should we credit you if we feature it?
+      placeholder: e.g. @yourhandle
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: This app is mine to share and the link is public.
+          required: true

@@ -1,0 +1,32 @@
+name: 🐛 Bug report
+description: Report a broken link, wrong information, broken image, or any other issue in this repo
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the Taskade docs accurate! Please share enough detail for us to reproduce and fix the issue.
+  - type: textarea
+    id: what
+    attributes:
+      label: What's wrong?
+      description: Describe the problem. For a broken link or image, paste the link and the page it's on.
+      placeholder: e.g. The link to "Build a CRM with AI" on docs/README.md returns a 404.
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Where? (file or URL)
+      description: Which page or file does this affect?
+      placeholder: e.g. docs/genesis/app-kits.md
+    validations:
+      required: false
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect instead?
+      placeholder: e.g. The link should open the CRM guide.
+    validations:
+      required: false

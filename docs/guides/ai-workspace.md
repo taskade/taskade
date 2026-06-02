@@ -34,6 +34,15 @@ Capable, low-cost models changed the economics of that middle step. For the firs
 
 An AI-native workspace stands on three layers. Remove any one and it collapses into something narrower — a notes app, a chatbot, or a no-code builder. Together, they're a workspace that thinks and acts.
 
+The three layers form a loop — Memory feeds Intelligence, Intelligence drives Execution, and Execution writes back to Memory:
+
+```mermaid
+flowchart LR
+    M["Memory<br/>projects, notes, docs"] --> I["Intelligence<br/>multi-agent teams"]
+    I --> E["Execution<br/>automations and Taskade Genesis apps"]
+    E --> M
+```
+
 ### Layer 1 — Memory: projects and notes as living context
 
 Memory is everything your workspace knows: your projects, tasks, notes, mind maps, uploaded documents, and the way they connect. In a traditional tool this is *storage* — inert files you open and read. In an AI-native workspace it's **context the AI can use**.
@@ -55,7 +64,7 @@ One agent drafts. Another fact-checks against your uploaded sources. A third tur
 Knowing and thinking are worthless if nothing happens. Execution is the layer that turns intent into action.
 
 - **Automations / workflows** handle the recurring work: when a form comes in, route it; every Monday, compile the report; when a task is marked done, notify the channel. You describe the trigger and the steps in plain English; the workspace runs them on its own.
-- **Genesis** goes further. Describe an app in plain English and Genesis builds a complete, hosted, working application — database, AI agents, automations, UI, login and auth, payments, and a custom domain. Not a mockup. A real app your team or customers can use today. See it at the [Genesis app builder](https://www.taskade.com/ai/apps).
+- **Taskade Genesis** goes further. Describe an app in plain English and Genesis builds a complete, hosted, working application — database, AI agents, automations, UI, login and auth, payments, and a custom domain. Not a mockup. A real app your team or customers can use today. See it at the [Genesis app builder](https://www.taskade.com/ai/apps).
 
 This is the layer that separates an AI-native workspace from a smarter notebook. The output isn't just text — it's running software and live processes.
 
