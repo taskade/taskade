@@ -486,8 +486,9 @@ npx @taskade/mcp
 | **[REST API v2](https://developers.taskade.com)** | Full workspace, project, and agent management |
 | **[MCP Server v2](https://github.com/taskade/mcp)** | Model Context Protocol for ChatGPT, Claude, Cursor, VS Code |
 | **[Agent API](https://developers.taskade.com)** | Deploy and manage agents programmatically |
-| **Webhooks** | Receive real-time events from your workspace |
-| **OAuth 2.0** | Secure third-party authentication |
+| **[Integration Kit](https://github.com/taskade/integrations)** | Open-source Zapier/n8n actions & triggers built on the public API |
+| **[Webhooks](https://docs.taskade.com/apis-and-developer/webhooks)** | Receive real-time events from your workspace |
+| **[OAuth 2.0](https://docs.taskade.com/apis-and-developer/authentication)** | Secure third-party authentication |
 | **BYOK** | Bring your own AI model keys (Business plan) |
 | **Custom Agent Tools** | Extend agents with custom API integrations |
 | **Embeddable Apps** | Embed Taskade apps and agents anywhere |
@@ -888,10 +889,12 @@ Taskade is more than this repo — explore the rest of the ecosystem (and star w
 | [**Taskade MCP**](https://github.com/taskade/mcp) | Official Model Context Protocol server — connect Taskade to Claude, Cursor, and any MCP client. | [![mcp stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp) |
 | [**Awesome Vibe Coding**](https://github.com/taskade/awesome-vibe-coding) | A curated guide to building software with AI — the vibe-coding movement. | [![awesome-vibe-coding stars](https://img.shields.io/github/stars/taskade/awesome-vibe-coding?style=social)](https://github.com/taskade/awesome-vibe-coding) |
 | [**Genesis Sample App**](https://github.com/taskade/taskade-sample-app) | A Workspace DNA template for building AI-powered Taskade Genesis apps. | [![sample-app stars](https://img.shields.io/github/stars/taskade/taskade-sample-app?style=social)](https://github.com/taskade/taskade-sample-app) |
+| [**Taskade Docs**](https://github.com/taskade/docs) | Source for [docs.taskade.com](https://docs.taskade.com) — REST & Action API reference, Genesis app building, AI agents, and automations. PRs welcome. | [![docs stars](https://img.shields.io/github/stars/taskade/docs?style=social)](https://github.com/taskade/docs) |
+| [**Integration Kit**](https://github.com/taskade/integrations) | Public source-of-truth for Taskade actions & triggers across Zapier and n8n — built on the public API. | [![integrations stars](https://img.shields.io/github/stars/taskade/integrations?style=social)](https://github.com/taskade/integrations) |
 
 ### Star history
 
-[![Star History Chart](https://api.star-history.com/svg?repos=taskade/taskade,taskade/mcp,taskade/awesome-vibe-coding&type=Date)](https://star-history.com/#taskade/taskade&taskade/mcp&taskade/awesome-vibe-coding&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=taskade/taskade,taskade/mcp,taskade/awesome-vibe-coding,taskade/docs&type=Date)](https://star-history.com/#taskade/taskade&taskade/mcp&taskade/awesome-vibe-coding&taskade/docs&Date)
 
 ---
 
