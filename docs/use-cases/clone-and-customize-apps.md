@@ -6,9 +6,9 @@ That is the whole idea behind cloning community apps in **Taskade Genesis**. Ins
 
 This guide is for the builder who would rather remix than reinvent. It covers what a clone actually copies (more than you'd guess), how to make a cloned app your own, how to add login without touching a server, how to run the built-in agents, how to publish on a domain you own, and which community apps are worth cloning first.
 
-[![Clone and customize community apps in Taskade Genesis](../../media/apps/community-creators.gif)](https://www.taskade.com/templates)
+[![Clone and customize community apps in Taskade Genesis](../../media/apps/community-creators.gif)](https://www.taskade.com/apps)
 
-> Start from a finished app, not a blank screen — [browse clonable apps in the template gallery](https://www.taskade.com/templates).
+> Start from a finished app, not a blank screen — [browse clonable apps in the template gallery](https://www.taskade.com/apps).
 
 ---
 
@@ -67,7 +67,7 @@ Everything in that middle box arrives connected. When you later change a field o
 
 Clonable apps live in two places, and both are open to browse before you commit.
 
-- **The template gallery.** The [Taskade template gallery](https://www.taskade.com/templates) is the front door — a browsable shelf of complete apps and layouts you can clone and bend to your needs. Skim by category, open one to see how it's built, and clone it if it's close.
+- **The template gallery.** The [Taskade template gallery](https://www.taskade.com/apps) is the front door — a browsable shelf of complete apps and layouts you can clone and bend to your needs. Skim by category, open one to see how it's built, and clone it if it's close.
 - **Apps shared by other builders.** Community creators publish working Genesis apps for others to clone. You are not just getting Taskade's official starters — you're getting real apps real people shipped, which means you often find something closer to your exact case than a generic template.
 
 A good cloning instinct: do not hunt for the *perfect* match. Find the one that's 70% there — the right shape, the right kind of agents — and clone it. The last 30% is faster to customize than it is to find.
@@ -153,7 +153,7 @@ No. You clone with a click, customize by describing changes in plain English or 
 A blank prompt builds an app from your description. Cloning starts from an app someone already built and shipped, so the architecture decisions are made for you. Cloning is faster when something close exists; a fresh prompt is better when your idea is genuinely new. You can also clone first and then reshape it with a Genesis prompt — the two mix freely.
 
 **Where do clonable apps come from?**
-From the [Taskade template gallery](https://www.taskade.com/templates) and from community creators who publish their working apps for others to clone. You're often cloning a real app a real builder shipped, not just a generic starter.
+From the [Taskade template gallery](https://www.taskade.com/apps) and from community creators who publish their working apps for others to clone. You're often cloning a real app a real builder shipped, not just a generic starter.
 
 **How do I add login without a backend?**
 You turn on authentication in the app and invite the people who should have access. Genesis hosts the login layer for you — no auth service to integrate, no user table to design, no server to run. You decide who gets in and what they can see.
@@ -174,8 +174,8 @@ Yes — Genesis includes a payments layer, so a cloned storefront or a portal th
 - [Build a CRM with AI](../genesis/build-a-crm-with-ai.md) — the full anatomy of one app you can clone and customize
 - [Connect tools and automate](../guides/connect-tools-and-automate.md) — give your cloned app's agents memory and wire in the tools you already use
 - [What is an AI workspace?](../guides/ai-workspace.md) — the pillar concept behind memory, agents, and execution in one place
-- [Browse the template gallery](https://www.taskade.com/templates) — the shelf of clonable apps and layouts
+- [Browse the template gallery](https://www.taskade.com/apps) — the shelf of clonable apps and layouts
 
 ---
 
-**Ready to remix?** [Browse clonable apps in the gallery →](https://www.taskade.com/templates), or [start from a prompt in Taskade Genesis](https://www.taskade.com/ai/apps) — clone, customize, and ship.
+**Ready to remix?** [Browse clonable apps in the gallery →](https://www.taskade.com/apps), or [start from a prompt in Taskade Genesis](https://www.taskade.com/ai/apps) — clone, customize, and ship.

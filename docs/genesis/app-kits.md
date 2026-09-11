@@ -4,7 +4,7 @@ Start from a finished app, not a blank page. Every app kit below is a **real, li
 
 > **Three ways to start:** describe what you want and have it built, **clone one of the kits below**, or hire a pre-built AI agent (a CFO, CMO, COO, or CEO role) to run it for you.
 
-These are picks from **Team Taskade**. There are 150+ more in the [community gallery](https://www.taskade.com/templates) and from [community creators](https://www.taskade.com).
+These are picks from **Team Taskade**. There are 150+ more in the [Apps gallery](https://www.taskade.com/apps) and from [community creators](https://www.taskade.com).
 
 ---
 
@@ -82,4 +82,4 @@ No code. No setup. No starting from scratch.
 - [Build a CRM with AI](build-a-crm-with-ai.md) · [Build a Helpdesk with AI](build-a-helpdesk-with-ai.md) · [Build a Storefront with AI](build-a-storefront-with-ai.md)
 - [What's New in Taskade Genesis](whats-new.md)
 
-**Ready to start?** [Clone an app kit](https://www.taskade.com/templates) or [build your own from a prompt →](https://www.taskade.com/ai/apps)
+**Ready to start?** [Clone an app kit](https://www.taskade.com/apps) or [build your own from a prompt →](https://www.taskade.com/ai/apps)

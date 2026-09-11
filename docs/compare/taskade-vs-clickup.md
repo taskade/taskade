@@ -18,7 +18,7 @@ This page is written to be fair. ClickUp is a strong, mature product, and for so
 | **Multi-agent** | Multi-agent workspaces — agents collaborate, hand off, and run as a team. | Single-assistant model; not designed around teams of agents working together. |
 | **Automations** | Visual automation flows plus an AI workflow generator; describe it, get a flow. | Mature, rule-based automations (triggers/actions) with a large action library. |
 | **App-building** | Genesis: describe an app in plain English → hosted app with database, auth, payments, UI. | Not an app builder. You configure ClickUp; you don't ship standalone apps. |
-| **Project views** | 7 views: List, Board, Calendar, Table, Mind Map, Gantt, Org Chart. | 15+ views including List, Board, Calendar, Gantt, Timeline, Workload, and more. |
+| **Project views** | List, Board, Calendar, Table, Mind Map, Gantt, Org Chart. | 15+ views including List, Board, Calendar, Gantt, Timeline, Workload, and more. |
 | **Simplicity / onboarding** | Fast to start; plain-English setup; sensible defaults. | Powerful but heavier; more configuration before it fits your process. |
 | **Performance / speed** | Light, quick workspace built around writing and doing. | Feature-dense; can feel weighty as workspaces and automations grow. |
 | **Pricing** | Free tier; paid plans add more AI usage, agents, and automation runs. | Free tier; paid plans scale by features and seats. (Check each site for current pricing.) |
@@ -115,7 +115,7 @@ If you're evaluating a switch, these are the jobs where people most often find T
 - **An AI sales team.** Agents that research accounts, draft outreach, and qualify leads. See [AI agents for sales](../use-cases/ai-agents-for-sales.md).
 - **A coordinated agent team.** Multiple agents that pass work between them — research, drafting, review. See [the multi-agent workspace guide](../guides/multi-agent-workspace.md).
 - **A real, shippable app.** A CRM, client portal, or storefront built from a plain-English description and hosted on your own domain, via [Taskade Genesis](https://www.taskade.com/ai/apps).
-- **A faster general workspace.** Notes, tasks, and 7 views without the configuration overhead — a lighter home base for everyday work.
+- **A faster general workspace.** Notes, tasks, and multiple project views without the configuration overhead — a lighter home base for everyday work.
 
 You don't need to commit your whole org on day one. Pick one of these, run it in Taskade for a couple of weeks, and compare it honestly against how the same job feels in ClickUp.
 
@@ -124,7 +124,7 @@ You don't need to commit your whole org on day one. Pick one of these, run it in
 ## FAQ
 
 **Is Taskade a real ClickUp alternative?**
-Yes, for most teams — especially if AI and app-building matter to you. Taskade covers core project work (tasks, notes, and 7 views including List, Board, Calendar, Table, Mind Map, Gantt, and Org Chart) and adds agents, automations, and Genesis app-building. It's lighter on advanced reporting and very granular PM configuration than ClickUp.
+Yes, for most teams — especially if AI and app-building matter to you. Taskade covers core project work (tasks, notes, and project views including List, Board, Calendar, Table, Mind Map, Gantt, and Org Chart) and adds agents, automations, and Genesis app-building. It's lighter on advanced reporting and very granular PM configuration than ClickUp.
 
 **Does Taskade do automations like ClickUp?**
 Both do automations. ClickUp offers mature rule-based triggers and actions. Taskade offers visual automation flows plus an AI workflow generator that can build a flow from a plain-English description. Different style, overlapping outcomes.

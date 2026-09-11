@@ -18,7 +18,7 @@ This page is written to be fair. Asana is a genuinely strong, mature platform, a
 | **Multi-agent** | Multi-agent workspaces — agents collaborate, hand off, and run as a team. | AI Teammates and AI Studio workflows; oriented around automating the existing work graph rather than teams of collaborating agents. |
 | **AI pricing model** | AI is included in the workspace; paid plans add more usage. | Per-seat tiered pricing, with AI Studio sold as a **credit-metered add-on on top of seats**. AI is not fully bundled. |
 | **App-building** | Genesis: describe an app in plain English → hosted app with database, auth, payments, UI, custom domain. | Not an app builder. You configure Asana; you don't ship standalone hosted apps. |
-| **Project / portfolio depth** | 7 views: List, Board, Calendar, Table, Mind Map, Gantt, Org Chart. Lighter structure. | Timeline/Gantt, Workload, Goals/OKRs, Portfolios — genuinely deep, mature portfolio management. |
+| **Project / portfolio depth** | List, Board, Calendar, Table, Mind Map, Gantt, Org Chart. Lighter structure. | Timeline/Gantt, Workload, Goals/OKRs, Portfolios — genuinely deep, mature portfolio management. |
 | **Enterprise governance** | Lighter, faster time-to-value. | Mature admin, permissions, reporting, and audit — built for large, governed orgs. |
 | **Simplicity / onboarding** | Fast to start; plain-English setup; sensible defaults. | Powerful but heavier; more setup and administration before it fits a large org. |
 | **Pricing** | Free tier; paid plans add more AI usage, agents, and automation runs. | Free Personal tier; Starter / Advanced / Enterprise per seat, plus metered AI Studio. (Check each site for current pricing.) |
@@ -76,7 +76,7 @@ In Asana, you'll typically create a project, choose a structure, set up fields a
 Asana's AI is context-aware and permission-aware: AI Studio can build workflows and AI Teammates that act on your real project graph, which is a strong model — just remember it's metered on top of seats. In Taskade, AI is the substrate. You can stand up a dedicated agent, train it on your own documents, choose its model, and give it tools, with usage included in the workspace. The mental model shifts from "AI that understands my projects" to "a team of teammates I assign work to."
 
 **Managing a large portfolio.**
-This is Asana's home turf. Workload, Goals, Timeline, and Portfolios are built for coordinating and reporting across many teams at once. If that's your core job, Asana is deeper here, and we won't pretend otherwise. Taskade covers project work well with 7 views, but it's lighter on executive portfolio rollups and capacity planning.
+This is Asana's home turf. Workload, Goals, Timeline, and Portfolios are built for coordinating and reporting across many teams at once. If that's your core job, Asana is deeper here, and we won't pretend otherwise. Taskade covers project work well with multiple project views, but it's lighter on executive portfolio rollups and capacity planning.
 
 **Shipping something for people outside the team.**
 This is where the products diverge most. Asana is for running work *inside* an organization. When you need a customer-facing app — a portal, a storefront, an intake tool with its own login and payments — Asana isn't built for that. Genesis is. You describe the app and it's hosted, with a database and auth, on a domain you can share.
@@ -120,7 +120,7 @@ If you're evaluating a switch, these are the jobs where people most often find T
 - **A coordinated agent team.** Multiple agents that pass work between them — research, drafting, review. See [the multi-agent workspace guide](../guides/multi-agent-workspace.md).
 - **A real, shippable app.** A CRM, client portal, or storefront built from a plain-English description and hosted on your own domain, via [Taskade Genesis](https://www.taskade.com/ai/apps). Worked example: [build a CRM with AI](../genesis/build-a-crm-with-ai.md).
 - **AI included, not metered separately.** A workspace where agents and automations are part of the product rather than a credit add-on layered on seats.
-- **A faster general workspace.** Notes, tasks, and 7 views without the administration overhead — a lighter home base for everyday work. See [what an AI-native workspace is](../guides/ai-workspace.md).
+- **A faster general workspace.** Notes, tasks, and multiple project views without the administration overhead — a lighter home base for everyday work. See [what an AI-native workspace is](../guides/ai-workspace.md).
 
 You don't need to commit your whole org on day one. Pick one of these, run it in Taskade for a couple of weeks, and compare it honestly against how the same job feels in Asana.
 
@@ -129,7 +129,7 @@ You don't need to commit your whole org on day one. Pick one of these, run it in
 ## FAQ
 
 **Is Taskade a real Asana alternative?**
-Yes, for most teams — especially if AI agents and app-building matter to you. Taskade covers core project work (tasks, notes, and 7 views including List, Board, Calendar, Table, Mind Map, Gantt, and Org Chart) and adds multi-agent teams, automations, and Genesis app-building. It's lighter on advanced portfolio management, capacity planning, and enterprise reporting than Asana.
+Yes, for most teams — especially if AI agents and app-building matter to you. Taskade covers core project work (tasks, notes, and project views including List, Board, Calendar, Table, Mind Map, Gantt, and Org Chart) and adds multi-agent teams, automations, and Genesis app-building. It's lighter on advanced portfolio management, capacity planning, and enterprise reporting than Asana.
 
 **Does Asana have AI agents?**
 Yes. Asana's AI is embedded in its work graph, with AI Studio (a no-code agent and workflow builder) and AI Teammates that act on your real project context. It's well-integrated and permission-aware. The thing to watch on cost: AI Studio is a credit-metered add-on on top of per-seat pricing, not fully bundled.
