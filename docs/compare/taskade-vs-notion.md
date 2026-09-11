@@ -23,7 +23,7 @@ Both can hold your notes and projects. The real decision is whether you mainly w
 | App building | Not designed for this | Genesis: prompt → hosted app (DB, auth, payments, domain) |
 | Databases | Very strong, flexible relations | Tables + structured project views; less relational depth |
 | Docs / wiki | Excellent — a primary strength | Solid docs/notes; not the headline feature |
-| Project views | Several (table, board, calendar, etc.) | 7 views: List, Board, Calendar, Table, Mind Map, Gantt, Org Chart |
+| Project views | Several (table, board, calendar, etc.) | List, Board, Calendar, Table, Mind Map, Gantt, Org Chart |
 | Templates | Huge community library | Curated [templates](https://www.taskade.com/templates) + AI-generated structures |
 | Integrations | Broad ecosystem, many third-party tools | 100+ integrations |
 | Offline | Limited / improving | Limited |

@@ -83,6 +83,6 @@ Plain-English guides to building **real, working apps** with [Taskade](https://w
 - 🧩 **[Browse templates →](https://www.taskade.com/templates)** — clone a finished app and make it yours.
 - 🗂️ **[Clone-Ready App Kits →](genesis/app-kits.md)** — 20+ live apps to clone in about a minute.
 - 📖 **[Read the Genesis story →](https://www.taskade.com/blog/introducing-taskade-genesis)**
-- 🛠️ **[Developer docs & API →](https://developers.taskade.com)**
+- 🛠️ **[Developer docs & API →](https://www.taskade.com/docs)**
 
 ← Back to the [main README](../README.md)

@@ -62,7 +62,7 @@ The pattern is the same across all of them: the agent does the reading and the w
 
 You may run into the term **MCP** (Model Context Protocol). Here's the only explanation you need: it's a shared standard for plugging tools into AI, the way **USB-C is a shared standard for plugging devices into a laptop.**
 
-Before USB-C, every device had its own connector and you hunted for the right cable. Before a standard like MCP, every AI integration was a one-off custom job. MCP means a tool that speaks the standard can plug into your agents without a bespoke build — and it means Taskade can act as both a place that *uses* connected tools and a tool other AI systems can connect *to*. You don't have to think about any of this to get value; it's just why "connect tools" keeps getting easier. If you want the technical depth, it lives at [developers.taskade.com](https://developers.taskade.com).
+Before USB-C, every device had its own connector and you hunted for the right cable. Before a standard like MCP, every AI integration was a one-off custom job. MCP means a tool that speaks the standard can plug into your agents without a bespoke build — and it means Taskade can act as both a place that *uses* connected tools and a tool other AI systems can connect *to*. You don't have to think about any of this to get value; it's just why "connect tools" keeps getting easier. If you want the technical depth, it lives at [taskade.com/docs](https://www.taskade.com/docs).
 
 ---
 
@@ -173,7 +173,7 @@ It's a shared standard for plugging tools into AI — "USB-C for AI tools" — s
 You control which tools are connected and what your agents and flows can see. Memory is what *you* put in the workspace — your projects, notes, and uploads — and access stays in your hands.
 
 **What if my exact tool isn't in the 100+ integrations?**
-The list keeps growing, and because the workspace speaks open standards like MCP, more tools connect over time. The developer docs at [developers.taskade.com](https://developers.taskade.com) cover the technical paths for connecting custom systems.
+The list keeps growing, and because the workspace speaks open standards like MCP, more tools connect over time. The developer docs at [taskade.com/docs](https://www.taskade.com/docs) cover the technical paths for connecting custom systems.
 
 ---
 

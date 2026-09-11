@@ -18,7 +18,7 @@ This page is written to be fair. Monday.com is a genuinely good product with rea
 | **Multi-agent teams** | Multi-agent workspaces — agents collaborate, hand off, and run as a coordinated team. | Single-assistant model; not designed around teams of agents working together. |
 | **Automations** | Visual automation flows plus an AI workflow generator: describe the process, get a flow. | Mature, recipe-based automations (when *this*, do *that*) with a large, dependable library. |
 | **App-building** | Taskade Genesis: describe an app in plain English → hosted app with database, AI agents, automations, UI, login/auth, payments, and a custom domain. | Not an app builder in this sense. You build *boards* and configure the Work OS; you don't ship a standalone hosted product. |
-| **Work OS / project views** | 7 views: List, Board, Calendar, Table, Mind Map, Gantt, Org Chart. | Broad Work OS with many board views (Table, Kanban, Timeline, Gantt, Calendar, Workload, Chart) and product lines (Work Management, CRM, Dev). |
+| **Work OS / project views** | List, Board, Calendar, Table, Mind Map, Gantt, Org Chart. | Broad Work OS with many board views (Table, Kanban, Timeline, Gantt, Calendar, Workload, Chart) and product lines (Work Management, CRM, Dev). |
 | **Dashboards & reporting** | Tables and views cover common tracking; lighter on rich cross-board reporting. | A core strength: custom dashboards, widgets, and cross-board roll-ups for ops and leadership. |
 | **Pricing model** | Free tier; paid plans add more AI usage, agents, and automation runs. | No free *plan* for most use (limited free trial / free tier with seat minimums); paid plans priced per seat in tiers, often with seat minimums. |
 | **Best for** | Teams that want AI to do real work and ship apps without engineers; SMBs and solo builders. | Mid-market and enterprise teams that need a mature, visual Work OS with strong reporting and scale. |
@@ -114,7 +114,7 @@ If you're evaluating a switch, these are the jobs where people most often find T
 - **A coordinated agent team.** Multiple agents that pass work between them — research, drafting, review — instead of a single assistant. See [the multi-agent workspace guide](../guides/multi-agent-workspace.md).
 - **An AI-native home base.** A workspace where agents, memory, and automation are the foundation, not an add-on. Read [the AI workspace pillar](../guides/ai-workspace.md).
 - **A real, shippable app.** A CRM, client portal, or storefront built from a plain-English description and hosted on your own domain, via [Taskade Genesis](https://www.taskade.com/ai/apps).
-- **A lighter, faster workspace.** Notes, tasks, and 7 views without the seat minimums and dashboard overhead — a nimbler home for everyday work.
+- **A lighter, faster workspace.** Notes, tasks, and multiple project views without the seat minimums and dashboard overhead — a nimbler home for everyday work.
 
 You don't need to commit your whole org on day one. Pick one of these, run it in Taskade for a couple of weeks, and compare it honestly against how the same job feels in Monday.com.
 
@@ -123,7 +123,7 @@ You don't need to commit your whole org on day one. Pick one of these, run it in
 ## FAQ
 
 **Is Taskade a real Monday.com alternative?**
-Yes, for most teams — especially if AI and app-building matter to you. Taskade covers core project work (tasks, notes, and 7 views including List, Board, Calendar, Table, Mind Map, Gantt, and Org Chart) and adds agents, automations, and Genesis app-building. It's lighter on rich cross-board dashboards and enterprise Work OS governance than Monday.com.
+Yes, for most teams — especially if AI and app-building matter to you. Taskade covers core project work (tasks, notes, and project views including List, Board, Calendar, Table, Mind Map, Gantt, and Org Chart) and adds agents, automations, and Genesis app-building. It's lighter on rich cross-board dashboards and enterprise Work OS governance than Monday.com.
 
 **Does Taskade do automations like Monday.com?**
 Both do automations. Monday.com offers a mature, recipe-based builder (when *this* happens, do *that*). Taskade offers visual automation flows plus an AI workflow generator that can build a flow from a plain-English description. Different style, overlapping outcomes.
