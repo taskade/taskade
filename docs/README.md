@@ -4,6 +4,8 @@ Plain-English guides to building **real, working apps** with [Taskade](https://w
 
 > **Build without permission.** Describe what you need in plain English and ship a live app — no engineers, no code, no months of waiting.
 
+Also on taskade.com: [Developer Docs (taskade.com/docs)](https://www.taskade.com/docs) · [Learn & Help (taskade.com/learn)](https://www.taskade.com/learn) · [llms.txt (taskade.com/llms.txt)](https://www.taskade.com/llms.txt)
+
 ---
 
 ## 📘 Guides (start here)
