@@ -1,5 +1,5 @@
-name: 💡 Feature or doc request
-description: Suggest a new guide, comparison, app kit, or improvement
+name: 💡 Docs or guide request
+description: Suggest a new guide, comparison, or improvement to the docs in this repo
 title: "[Request]: "
 labels: ["enhancement"]
 body:

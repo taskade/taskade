@@ -1,0 +1,76 @@
+name: 🐞 Product bug (taskade.com)
+description: Report something broken in the Taskade app, a Genesis app, an agent, or an automation
+title: "[Product]: "
+labels: ["bug", "product"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting this. Public reports help everyone: other people can search them, add detail, and see the fix land.
+
+        **Please do not paste passwords, API keys, personal access tokens, or customer data.** This issue is public.
+        For anything account-specific (billing, a private workspace, a data question), use [taskade.com/contact](https://www.taskade.com/contact) instead.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Describe what went wrong and what you saw on screen.
+      placeholder: e.g. Clicking Publish on my Genesis app shows a spinner that never finishes.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Number the steps so we can follow the same path.
+      placeholder: |
+        1. Open a workspace
+        2. Create an app from a prompt
+        3. Click Publish
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect instead?
+      placeholder: e.g. The app publishes and I get a share link.
+    validations:
+      required: false
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which part of Taskade?
+      options:
+        - Genesis apps
+        - AI agents
+        - Automations and flows
+        - Projects and tasks
+        - Templates and app kits
+        - Sharing and permissions
+        - Billing and plans
+        - Mobile or desktop app
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser, operating system, and app version
+      description: The version is in Settings, at the bottom of the left panel.
+      placeholder: e.g. Chrome 140 on macOS 15, web app v6.223
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots, screen recordings, or error text
+      description: Drag files in here. Blur anything private first.
+    validations:
+      required: false
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Before you post
+      options:
+        - label: This report contains no passwords, tokens, or customer data.
+          required: true

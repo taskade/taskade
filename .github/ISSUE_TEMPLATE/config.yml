@@ -9,6 +9,9 @@ contact_links:
   - name: 📚 Docs & Learn hub
     url: https://github.com/taskade/taskade/tree/main/docs
     about: Guides, honest comparisons, tools, and the App Kits Gallery.
-  - name: 🆘 Product support
-    url: https://www.taskade.com
-    about: For help with your Taskade account or the product itself.
+  - name: 🗳️ Request a feature
+    url: https://www.reddit.com/r/taskade/submit?selftext=true
+    about: Ask for a product feature or an app kit on r/taskade, where others can vote on it.
+  - name: 🆘 Account support
+    url: https://www.taskade.com/contact
+    about: Billing, a private workspace, or anything else specific to your account.
