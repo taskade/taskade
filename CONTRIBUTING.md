@@ -9,8 +9,10 @@ plain English.
 
 | I want to… | Do this |
 |---|---|
-| 🐛 Report a bug (broken link, wrong info, broken image) | [Open a bug report](https://github.com/taskade/taskade/issues/new?template=bug_report.yml) |
-| 💡 Request a feature or doc | [Open a feature request](https://github.com/taskade/taskade/issues/new?template=feature_request.yml) |
+| 🐞 Report a product bug (taskade.com, a Genesis app, an agent, an automation) | [Open a product bug report](https://github.com/taskade/taskade/issues/new?template=product_bug.yml) |
+| 🗳️ Request a product feature or an app kit | [Post it on r/taskade](https://www.reddit.com/r/taskade/submit/?type=TEXT&selftext=true&text=**What+are+you+trying+to+do%3F**%0A%0A%0A**What+would+you+like+Taskade+to+do%3F**%0A%0A%0A**How+do+you+work+around+it+today%3F**%0A) |
+| 📄 Report a docs bug (broken link, wrong info, broken image) | [Open a docs bug report](https://github.com/taskade/taskade/issues/new?template=bug_report.yml) |
+| 💡 Request a docs page or guide | [Open a docs request](https://github.com/taskade/taskade/issues/new?template=feature_request.yml) |
 | 🚀 Submit an app you built with Taskade Genesis | [Submit an app kit](https://github.com/taskade/taskade/issues/new?template=submit_app_kit.yml) |
 | 💬 Ask a question or share an idea | [Start a Discussion](https://github.com/taskade/taskade/discussions) |
 | ✍️ Improve the docs | Open a pull request (see below) |

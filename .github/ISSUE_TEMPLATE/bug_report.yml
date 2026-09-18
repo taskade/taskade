@@ -1,7 +1,7 @@
-name: 🐛 Bug report
-description: Report a broken link, wrong information, broken image, or any other issue in this repo
+name: 📄 Docs bug report
+description: Report a broken link, wrong information, or a broken image in the docs and guides in this repo
 title: "[Bug]: "
-labels: ["bug"]
+labels: ["bug", "documentation"]
 body:
   - type: markdown
     attributes:
