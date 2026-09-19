@@ -729,6 +729,7 @@ Paid prices are per seat. Annual row is billed annually. Full matrix: [taskade.c
 | 🔌 MCP Server | [github.com/taskade/mcp](https://github.com/taskade/mcp) |
 | 📰 Changelog | [taskade.com/changelog](https://taskade.com/changelog) |
 | 📚 Learn | [taskade.com/learn](https://taskade.com/learn) |
+| 🤖 llms.txt | [taskade.com/llms.txt](https://www.taskade.com/llms.txt) |
 
 ---
 
