@@ -140,7 +140,7 @@ What that means in practice:
 - **Before:** Connecting forms, email, payments, and your CRM means stitching together five tools and a developer. **After:** One workspace handles intake, automation, and follow-up across 100+ integrations, with no glue code.
 
 > *"What I accomplished in a few weeks would have taken a team of 40+ and 18 months in the Fortune 500."*
-> An enterprise customer
+> (an enterprise customer)
 
 ➡️ [**Start Building Free →**](https://taskade.com/signup) · [**Explore the AI App Builder →**](https://www.taskade.com/ai/apps)
 
@@ -526,7 +526,7 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 
 | Vibe Code an App | Pick Your AI Model | Publish & Own Your Page |
 |:---:|:---:|:---:|
-| <img src="media/genesis/click-to-edit.gif" width="280" alt="Vibe coding: click to edit apps visually in Taskade Genesis"> | <img src="media/agents/model-selector.gif" width="280" alt="Pick your AI model per agent from frontier models"> | <img src="media/genesis/publish-and-share.gif" width="280" alt="Publish AI apps to your own page in the Community Gallery"> |
+| <img src="media/genesis/click-to-edit.gif" width="280" alt="Vibe coding — click to edit apps visually in Taskade Genesis"> | <img src="media/agents/model-selector.gif" width="280" alt="Pick your AI model per agent — 15+ frontier models"> | <img src="media/genesis/publish-and-share.gif" width="280" alt="Publish AI apps to your own page in the Community Gallery"> |
 | Click-to-edit visual builder — no code required | 15+ frontier models from OpenAI, Anthropic, and open-weight providers | Publish to community, custom domains, analytics |
 
 ➡️ [**What is Vibe Coding →**](https://taskade.com/blog/what-is-vibe-coding) · [**Best Vibe Coding Tools →**](https://taskade.com/blog/best-vibe-coding-tools)
@@ -887,7 +887,7 @@ Taskade is more than this repo. Explore the rest of the ecosystem (and star what
 | Project | What it is | Stars |
 |---|---|---|
 | [**Taskade MCP**](https://github.com/taskade/mcp) | Official Model Context Protocol server — connect Taskade to Claude, Cursor, and any MCP client. | [![mcp stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp) |
-| [**Awesome Vibe Coding**](https://github.com/taskade/awesome-vibe-coding) | A curated guide to building software with AI and the vibe-coding movement. | [![awesome-vibe-coding stars](https://img.shields.io/github/stars/taskade/awesome-vibe-coding?style=social)](https://github.com/taskade/awesome-vibe-coding) |
+| [**Awesome Vibe Coding**](https://github.com/taskade/awesome-vibe-coding) | A curated guide to building software with AI, the vibe-coding movement. | [![awesome-vibe-coding stars](https://img.shields.io/github/stars/taskade/awesome-vibe-coding?style=social)](https://github.com/taskade/awesome-vibe-coding) |
 | [**Genesis Sample App**](https://github.com/taskade/taskade-sample-app) | A Workspace DNA template for building AI-powered Taskade Genesis apps. | [![sample-app stars](https://img.shields.io/github/stars/taskade/taskade-sample-app?style=social)](https://github.com/taskade/taskade-sample-app) |
 | [**Taskade Docs**](https://github.com/taskade/docs) | Source for [docs.taskade.com](https://docs.taskade.com): REST & Action API reference, Genesis app building, AI agents, and automations. PRs welcome. | [![docs stars](https://img.shields.io/github/stars/taskade/docs?style=social)](https://github.com/taskade/docs) |
 | [**Integration Kit**](https://github.com/taskade/integrations) | Public source-of-truth for Taskade actions & triggers across Zapier and n8n, built on the public API. | [![integrations stars](https://img.shields.io/github/stars/taskade/integrations?style=social)](https://github.com/taskade/integrations) |
