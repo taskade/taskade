@@ -31,10 +31,10 @@
 <br>
 
 [![Web](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://taskade.com)
-[![macOS](https://img.shields.io/badge/macOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/taskade-ai-agents-to-do-lists/id1264713923)
+[![macOS](https://img.shields.io/badge/macOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/taskade/id1490048917)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://taskade.com/downloads)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://taskade.com/downloads)
-[![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/taskade/id1490048917)
+[![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/taskade-ai-agents-to-do-lists/id1264713923)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.taskade.mobile)
 [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/)
@@ -63,7 +63,7 @@ This repo is public docs, honest comparisons, and clone-ready App Kits — not t
 
 - [What is Taskade?](#what-is-taskade) · [Why Taskade](#why-taskade--build-without-permission)
 - [Feature Comparison](#feature-comparison) · [Learn & Compare](#learn--compare) · [Taskade Ecosystem](#taskade-ecosystem)
-- [FAQ](#faq) · [Getting Started](#getting-started) · [Community](#community)
+- [Use Taskade from your AI agent](#use-taskade-from-your-ai-agent) · [FAQ](#faq) · [Getting Started](#getting-started) · [Community](#community)
 
 _Also below: Genesis · AI Agents · Automations · Collaboration & Views · Knowledge & AI Training · Integrations · For Developers._
 
@@ -350,7 +350,7 @@ Taskade runs everywhere. Your workspace syncs in real-time across all devices.
 
 | Web | macOS | Windows | Linux | iOS | Android | Chrome | Firefox |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [**Launch**](https://taskade.com) | [**Download**](https://apps.apple.com/app/taskade-ai-agents-to-do-lists/id1264713923) | [**Download**](https://taskade.com/downloads) | [**Download**](https://taskade.com/downloads) | [**App Store**](https://apps.apple.com/app/taskade/id1490048917) | [**Play Store**](https://play.google.com/store/apps/details?id=com.taskade.mobile) | [**Install**](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf) | [**Install**](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/) |
+| [**Launch**](https://taskade.com) | [**Download**](https://apps.apple.com/app/taskade/id1490048917) | [**Download**](https://taskade.com/downloads) | [**Download**](https://taskade.com/downloads) | [**App Store**](https://apps.apple.com/app/taskade-ai-agents-to-do-lists/id1264713923) | [**Play Store**](https://play.google.com/store/apps/details?id=com.taskade.mobile) | [**Install**](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf) | [**Install**](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/) |
 
 </div>
 
@@ -459,38 +459,54 @@ PDF · DOCX · XLSX · CSV · PPTX · Markdown · TXT · EPUB
 
 ## 🔌 For Developers
 
+### Use Taskade from your AI agent
+
+Work in your Taskade workspace from Claude, ChatGPT, Cursor, VS Code, Codex, or any agent that speaks MCP. Pick the door that fits your tool:
+
+| Your tool | How to connect |
+|---|---|
+| **Claude Code** | Install the Taskade plugin (below). It connects the hosted MCP server and adds 7 skills. |
+| **Claude, ChatGPT, Cursor, VS Code, Codex** | Add the hosted MCP server `https://www.taskade.com/mcp` and sign in with your Taskade account (OAuth). |
+| **Any other agent** | Give it `https://www.taskade.com/SKILL.md`, or run `npx skills add https://www.taskade.com/SKILL.md`. |
+| **Stdio-only clients and scripts** | Run the `@taskade/mcp-server` package with a [personal access token](https://www.taskade.com/settings/api). |
+
+**What your agent can do:** 50 hosted tools for workspaces, projects, tasks, AI agents, and knowledge. It can run a "When asked" automation and read its run history. It cannot create or edit automations or build an app: Taskade EVE builds Taskade Genesis apps inside Taskade. MCP access needs a paid plan.
+
+### Claude Code plugin
+
+```bash
+claude plugin marketplace add taskade/mcp
+claude plugin install taskade@taskade
+```
+
+Then run `/mcp` in Claude Code and select **taskade** to sign in. The plugin adds 7 skills: a front door, import a spreadsheet, fix an app, status report, back up an app, plan a new app, and getting started.
+
+🔌 [**Taskade MCP and plugin →**](https://github.com/taskade/mcp) · 🤖 [**llms.txt**](https://www.taskade.com/llms.txt) · ⭐ Star the MCP repo
+
 ### Public API
 
-Build on Taskade with the REST API. Create workspaces, manage projects, deploy agents, and automate workflows programmatically.
+Build on Taskade with the REST API. Manage workspaces, projects, tasks, and AI agents programmatically.
 
 ```bash
-# List all workspaces
-curl -X GET "https://api.taskade.com/v2/workspaces" \
-  -H "Authorization: Bearer YOUR_API_KEY"
+# List your workspaces
+curl -X POST "https://www.taskade.com/api/v2/listSpaces" \
+  -H "Authorization: Bearer YOUR_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{}'
 ```
 
-📖 [**API Documentation →**](https://www.taskade.com/docs)
-
-### MCP Server
-
-Connect Taskade to ChatGPT, Claude, Cursor, Windsurf, VS Code, and any MCP-compatible AI assistant.
-
-```bash
-npx @taskade/mcp
-```
-
-🔌 [**Taskade MCP Server (v2) →**](https://github.com/taskade/mcp) · ⭐ Star the MCP repo
+Create a key in [Settings > API](https://www.taskade.com/settings/api). 📖 [**API Reference (v2) →**](https://www.taskade.com/api/documentation/v2)
 
 ### Developer Tools
 
 | Tool | Description |
 |---|---|
-| **[REST API v2](https://www.taskade.com/docs)** | Full workspace, project, and agent management |
-| **[MCP Server v2](https://github.com/taskade/mcp)** | Model Context Protocol for ChatGPT, Claude, Cursor, VS Code |
+| **[REST API v2](https://www.taskade.com/api/documentation/v2)** | Workspace, project, task, and agent management |
+| **[MCP Server](https://github.com/taskade/mcp)** | Hosted at `https://www.taskade.com/mcp` with 50 tools, for Claude, ChatGPT, Cursor, VS Code, and Codex |
 | **[Agent API](https://www.taskade.com/docs)** | Deploy and manage agents programmatically |
 | **[Integration Kit](https://github.com/taskade/integrations)** | Open-source Zapier/n8n actions & triggers built on the public API |
-| **[Webhooks](https://docs.taskade.com/apis-and-developer/webhooks)** | Receive real-time events from your workspace |
-| **[OAuth 2.0](https://docs.taskade.com/apis-and-developer/authentication)** | Secure third-party authentication |
+| **[Webhooks](https://docs.taskade.com/developers/webhooks)** | Receive real-time events from your workspace |
+| **[OAuth 2.0](https://docs.taskade.com/developers/authentication)** | Secure third-party authentication |
 | **BYOK** | Bring your own AI model keys (Business plan) |
 | **Custom Agent Tools** | Extend agents with custom API integrations |
 | **Embeddable Apps** | Embed Taskade apps and agents anywhere |
@@ -776,9 +792,9 @@ Yes. Train agents on PDFs, DOCX, XLSX, web links, YouTube videos, and Taskade pr
 </details>
 
 <details>
-<summary><b>Can I use Taskade with Claude, Cursor, or Windsurf?</b></summary>
+<summary><b>Can I use Taskade with Claude, ChatGPT, Cursor, or another AI agent?</b></summary>
 <br>
-Yes. The <a href="https://github.com/taskade/mcp">Taskade MCP Server</a> connects your workspace to any MCP-compatible AI assistant. 50+ tools for workspaces, projects, tasks, agents, knowledge bases, templates, and automations.
+Yes. Add the hosted <a href="https://github.com/taskade/mcp">Taskade MCP server</a> at <code>https://www.taskade.com/mcp</code>, or install the Taskade plugin in Claude Code. Your agent gets 50 tools for workspaces, projects, tasks, AI agents, and knowledge, and it can run a "When asked" automation. MCP access needs a paid plan. <a href="#use-taskade-from-your-ai-agent">How to connect →</a>
 </details>
 
 <details>
@@ -886,7 +902,7 @@ Taskade is more than this repo — explore the rest of the ecosystem (and star w
 
 | Project | What it is | Stars |
 |---|---|---|
-| [**Taskade MCP**](https://github.com/taskade/mcp) | Official Model Context Protocol server — connect Taskade to Claude, Cursor, and any MCP client. | [![mcp stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp) |
+| [**Taskade MCP**](https://github.com/taskade/mcp) | Official MCP server and Claude Code plugin. Connect Taskade to Claude, ChatGPT, Cursor, and any MCP client. | [![mcp stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp) |
 | [**Awesome Vibe Coding**](https://github.com/taskade/awesome-vibe-coding) | A curated guide to building software with AI — the vibe-coding movement. | [![awesome-vibe-coding stars](https://img.shields.io/github/stars/taskade/awesome-vibe-coding?style=social)](https://github.com/taskade/awesome-vibe-coding) |
 | [**Genesis Sample App**](https://github.com/taskade/taskade-sample-app) | A Workspace DNA template for building AI-powered Taskade Genesis apps. | [![sample-app stars](https://img.shields.io/github/stars/taskade/taskade-sample-app?style=social)](https://github.com/taskade/taskade-sample-app) |
 | [**Taskade Docs**](https://github.com/taskade/docs) | Source for [docs.taskade.com](https://docs.taskade.com) — REST & Action API reference, Genesis app building, AI agents, and automations. PRs welcome. | [![docs stars](https://img.shields.io/github/stars/taskade/docs?style=social)](https://github.com/taskade/docs) |
