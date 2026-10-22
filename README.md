@@ -472,9 +472,9 @@ Work in your Taskade workspace from Claude, ChatGPT, Cursor, VS Code, Codex, or 
 | **Claude Code** | Install the Taskade plugin (below). It connects the hosted MCP server and adds 7 skills. |
 | **Claude, ChatGPT, Cursor, VS Code, Codex** | Add the hosted MCP server `https://www.taskade.com/mcp` and sign in with your Taskade account (OAuth). |
 | **Any other agent** | Give it `https://www.taskade.com/SKILL.md`, or run `npx skills add https://www.taskade.com/SKILL.md`. |
-| **Stdio-only clients and scripts** | Run the `@taskade/mcp-server` package with a [personal access token](https://www.taskade.com/settings/api). |
+| **Stdio-only clients and scripts** | Run `npx -y @taskade/mcp-server` with a [personal access token](https://www.taskade.com/settings/api) in the `TASKADE_API_KEY` environment variable. [Setup →](https://github.com/taskade/mcp/tree/main/packages/server) |
 
-**What your agent can do:** Work with your workspaces, projects, tasks, AI agents, and knowledge. It can also run a "When asked" automation and read its run history. It cannot create or edit automations or build an app: Taskade EVE builds Taskade Genesis apps inside Taskade. MCP access needs a paid plan.
+**What the hosted server and the plugin can do:** Work with your workspaces, projects, tasks, AI agents, and knowledge. It can also run a "When asked" automation and read its run history. It cannot create or edit automations or build an app: Taskade EVE builds Taskade Genesis apps inside Taskade. MCP access needs a paid plan.
 
 ### Claude Code plugin
 
@@ -546,7 +546,7 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 
 | Vibe Code an App | Pick Your AI Model | Publish & Own Your Page |
 |:---:|:---:|:---:|
-| <img src="media/genesis/click-to-edit.gif" width="280" alt="Vibe coding — click to edit apps visually in Taskade Genesis"> | <img src="media/agents/model-selector.gif" width="280" alt="Pick your AI model per agent — 15+ frontier models"> | <img src="media/genesis/publish-and-share.gif" width="280" alt="Publish AI apps to your own page in the Community Gallery"> |
+| <img src="media/genesis/click-to-edit.gif" width="280" alt="Vibe coding: click to edit apps visually in Taskade Genesis"> | <img src="media/agents/model-selector.gif" width="280" alt="Pick your AI model per agent from frontier models"> | <img src="media/genesis/publish-and-share.gif" width="280" alt="Publish AI apps to your own page in the Community Gallery"> |
 | Click-to-edit visual builder, no code required | Frontier models from top AI labs | Publish to community, custom domains, analytics |
 
 ➡️ [**What is Vibe Coding →**](https://taskade.com/blog/what-is-vibe-coding) · [**Best Vibe Coding Tools →**](https://taskade.com/blog/best-vibe-coding-tools)
