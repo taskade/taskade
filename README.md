@@ -48,9 +48,9 @@
 ---
 
 <div align="center">
-  <img src="media/screenshots/genesis-interface.jpg" alt="Taskade Genesis, the AI-native workspace platform" width="800">
+  <img src="media/screenshots/genesis-interface.jpg" alt="Taskade Genesis — AI-Native Workspace Platform" width="800">
   <br><br>
-  <sub><b>Taskade Genesis</b>: one prompt creates a live app with AI agents, real-time data, and automation workflows.</sub>
+  <sub><b>Taskade Genesis</b> — One prompt creates a live app with AI agents, real-time data, and automation workflows.</sub>
 </div>
 
 ---
@@ -61,13 +61,13 @@
 
 </div>
 
-This repo holds public docs, honest comparisons, and clone-ready App Kits. It is not the Taskade source. Bug reports and doc fixes are welcome.
+This repo is public docs, honest comparisons, and clone-ready App Kits — not the Taskade source. Bug reports and doc fixes welcome.
 
 ## Contents
 
 - [What is Taskade?](#what-is-taskade) · [Why Taskade](#why-taskade-build-without-permission) · [Key Features](#key-features)
 - [AI App Builder](#-taskade-genesis-ai-app-builder) · [AI Agents](#-ai-agents) · [Workflow Automation](#-workflow-automation) · [Collaboration & Views](#-collaboration--views) · [Knowledge & AI Training](#-knowledge--ai-training)
-- [Use Taskade from your AI agent](#use-taskade-from-your-ai-agent) · [Claude Code plugin](#claude-code-plugin) · [MCP server](#mcp-server) · [Public API](#public-api)
+- [Use Taskade from your AI agent](#use-taskade-from-your-ai-agent) · [Claude Code plugin](#claude-code-plugin) · [Public API](#public-api)
 - [Platforms & Downloads](#-platforms--downloads) · [Integrations](#-integrations) · [Feature Comparison](#feature-comparison) · [Getting Started](#getting-started)
 - [FAQ](#faq) · [Learn & Compare](#learn--compare) · [Taskade Ecosystem](#taskade-ecosystem) · [Community](#community)
 
@@ -77,14 +77,14 @@ This repo holds public docs, honest comparisons, and clone-ready App Kits. It is
 
 **Taskade is an AI-native workspace platform that turns a single prompt into a complete, running application.** It combines project management, AI agents, and workflow automation into one unified system with real-time collaboration across web, desktop, and mobile.
 
-Built on **Workspace DNA**: three interconnected pillars that make every workspace alive:
+Built on **Workspace DNA** — three interconnected pillars that make every workspace alive:
 
 | <img src="media/screenshots/projects-memory.jpg" width="280" alt="Projects as Memory"> | <img src="media/screenshots/agents-intelligence.jpg" width="280" alt="AI Agents as Intelligence"> | <img src="media/screenshots/automations-execution.jpg" width="280" alt="Automations as Execution"> |
 |:---:|:---:|:---:|
 | **Projects as Memory** | **AI Agents as Intelligence** | **Automations as Execution** |
 | Structure, context, and knowledge that persist across your workspace | Autonomous agents that reason, plan, and execute tasks 24/7 | Triggers, actions, and workflows that keep everything running |
 
-Taskade is not a static tool. It's **living software**, where every app you create is connected to your data, powered by AI, and automated from day one.
+Taskade is not a static tool. It's **living software** — where every app you create is connected to your data, powered by AI, and automated from day one.
 
 > **TL;DR:** Taskade Genesis is the only AI app builder that delivers living software with built-in agents, automations, and 100+ integrations. 150,000+ apps built since launch. One prompt to production. Starting at $0/month. [Try it free →](https://taskade.com/create)
 
@@ -104,7 +104,7 @@ Taskade is not a static tool. It's **living software**, where every app you crea
       (Projects)     (AI Agents)   (Automations)
             ↓             ↓             ↓
        ┌───────────────────────────────────┐
-       │   LIVE APP - deployed in minutes  │
+       │   LIVE APP — deployed in minutes  │
        │  No code. No hosting. No DevOps.  │
        └───────────────────────────────────┘
 
@@ -135,16 +135,16 @@ flowchart TD
 
 ## Why Taskade: Build Without Permission
 
-You no longer have to wait on an engineering team, a roadmap slot, or a budget approval to ship the tool your business needs. Describe it in plain English and Taskade builds the real thing: a hosted app with a database, AI agents, automations, login, and a domain. You stay in control of the outcome; the software gets out of your way.
+You no longer have to wait on an engineering team, a roadmap slot, or a budget approval to ship the tool your business needs. Describe it in plain English and Taskade builds the real thing — a hosted app with a database, AI agents, automations, login, and a domain. You stay in control of the outcome; the software gets out of your way.
 
 What that means in practice:
 
 - **Before:** You file a ticket and wait months for engineering to scope, build, and deploy an internal tool. **After:** You describe the tool and have a working, hosted version the same afternoon.
 - **Before:** Your knowledge lives in scattered docs that nobody reads and your team re-answers the same questions. **After:** Agents trained on your projects and files answer instantly, with memory that compounds over time.
-- **Before:** Connecting forms, email, payments, and your CRM means stitching together five tools and a developer. **After:** One workspace handles intake, automation, and follow-up across 100+ integrations, with no glue code.
+- **Before:** Connecting forms, email, payments, and your CRM means stitching together five tools and a developer. **After:** One workspace handles intake, automation, and follow-up across 100+ integrations — no glue code.
 
 > *"What I accomplished in a few weeks would have taken a team of 40+ and 18 months in the Fortune 500."*
-> An enterprise customer
+> — an enterprise customer
 
 ➡️ [**Start Building Free →**](https://taskade.com/signup) · [**Explore the AI App Builder →**](https://www.taskade.com/ai/apps)
 
@@ -171,7 +171,7 @@ What that means in practice:
 > **Describe any business need in plain English. Watch Genesis create complete applications with AI agents, real-time data, and automation workflows. Your ideas become working software in minutes.**
 
 <div align="center">
-  <img src="media/screenshots/genesis-split-view.jpg" alt="Taskade Genesis AI app builder: prompt to live app" width="800">
+  <img src="media/screenshots/genesis-split-view.jpg" alt="Genesis AI App Builder — Prompt to Live App" width="800">
 </div>
 
 <br>
@@ -179,7 +179,7 @@ What that means in practice:
 | Build Apps From One Prompt | AI Agents That Think | Workflows That Run |
 |:---:|:---:|:---:|
 | <img src="media/genesis/create-app.gif" width="280" alt="Build App in Minutes"> | <img src="media/agents/agent-generator.gif" width="280" alt="AI Agent Generator"> | <img src="media/automations/automation-flows.gif" width="280" alt="Automation Flows"> |
-| Dashboards, CRMs, portals, and forms, generated in seconds | Agents that reason, plan, and execute tasks autonomously | Multi-step flows with triggers, actions, and branching |
+| Dashboards, CRMs, portals, forms — generated in seconds | Agents that reason, plan, and execute tasks autonomously | Multi-step flows with triggers, actions, and branching |
 
 | Community Gallery | Model Selection | Publish & Share |
 |:---:|:---:|:---:|
@@ -188,14 +188,14 @@ What that means in practice:
 
 **What you can build with Genesis:**
 
-- 📊 **Dashboards**: Real-time data views with live agents
-- 🌐 **Websites & Portals**: Client portals, landing pages, public-facing sites
-- 📝 **Forms & Surveys**: AI-powered data collection with automation triggers
-- 📈 **CRMs**: Customer management with built-in AI workflows
-- 📅 **Project Trackers**: Task boards, timelines, and team coordination
-- 🛒 **Business Tools**: Inventory, booking, e-commerce, and operations
-- 🎓 **Educational Apps**: Study tools, quizzes, course managers
-- 💬 **Chatbots**: AI-powered conversational interfaces
+- 📊 **Dashboards** — Real-time data views with live agents
+- 🌐 **Websites & Portals** — Client portals, landing pages, public-facing sites
+- 📝 **Forms & Surveys** — AI-powered data collection with automation triggers
+- 📈 **CRMs** — Customer management with built-in AI workflows
+- 📅 **Project Trackers** — Task boards, timelines, and team coordination
+- 🛒 **Business Tools** — Inventory, booking, e-commerce, and operations
+- 🎓 **Educational Apps** — Study tools, quizzes, course managers
+- 💬 **Chatbots** — AI-powered conversational interfaces
 
 ➡️ [**Create with Genesis →**](https://taskade.com/create) · [**Explore AI App Builder →**](https://taskade.com/ai/apps) · [**Browse Apps →**](https://www.taskade.com/apps)
 
@@ -204,19 +204,19 @@ What that means in practice:
 | Client Portal | CRM Dashboard | Shopify-Style Storefront |
 |:---:|:---:|:---:|
 | <img src="media/apps/client-portal.gif" width="280" alt="Client portal with project tracking built with Taskade Genesis"> | <img src="media/apps/crm-dashboard.gif" width="280" alt="CRM for sales teams built with Taskade Genesis"> | <img src="media/apps/storefront.gif" width="280" alt="Shopify-style storefront built with Taskade Genesis"> |
-| Project tracking, file sharing, real-time updates | Pipeline, leads, deals, automated outreach | Product catalog, cart, checkout, from one prompt |
+| Project tracking, file sharing, real-time updates | Pipeline, leads, deals, automated outreach | Product catalog, cart, checkout — from one prompt |
 
 | Habit Tracker | Project Tracker | Company Knowledge Base |
 |:---:|:---:|:---:|
 | <img src="media/apps/habit-tracker.gif" width="280" alt="Habit tracker with streaks built with Taskade Genesis"> | <img src="media/apps/project-tracker.gif" width="280" alt="Project tracker built with Taskade Genesis"> | <img src="media/apps/knowledge-base.gif" width="280" alt="Company knowledge base built with Taskade Genesis"> |
 | Daily habits with streaks, analytics, reminders | Multi-view tracker with Gantt, board, and table | AI-powered search across all company docs |
 
-**Take payments from day one.** Taskade Genesis apps come with built-in Stripe checkout. Sell products, accept deposits, or run a storefront without wiring up a payment gateway yourself.
+**Take payments from day one.** Taskade Genesis apps come with built-in Stripe checkout — sell products, accept deposits, or run a storefront without wiring up a payment gateway yourself.
 
 <div align="center">
   <a href="https://www.taskade.com/ai/apps"><img src="media/apps/app-payments.gif" width="640" alt="Accept Stripe payments in a Taskade Genesis storefront app"></a>
   <br>
-  <sub>Stripe checkout in a Genesis storefront: from one prompt to a live, paid order.</sub>
+  <sub>Stripe checkout in a Genesis storefront — from one prompt to a live, paid order.</sub>
 </div>
 
 ---
@@ -236,7 +236,7 @@ What that means in practice:
 | <img src="media/agents/agent-generator.gif" width="280" alt="AI Agent Generator"> | <img src="media/agents/customize-agent.gif" width="280" alt="Multi-Agent Collaboration"> | <img src="media/features/ai-agents-tools.gif" width="280" alt="AI Agent Tools"> |
 | Build agents trained on your data and workflows | Teams of agents that brainstorm, draft, and execute together | Web scraping, search, file processing, and 100+ connectors |
 
-**Watch a multi-agent team run.** Assign a goal and a team of agents plans, delegates, and executes together: researching, drafting, and handing off work without you driving each step.
+**Watch a multi-agent team run.** Assign a goal and a team of agents plans, delegates, and executes together — researching, drafting, and handing off work without you driving each step.
 
 <div align="center">
   <a href="https://www.taskade.com/ai/apps"><img src="media/agents/multi-agent-run.gif" width="640" alt="A multi-agent team planning and executing a task together in Taskade"></a>
@@ -246,15 +246,15 @@ What that means in practice:
 
 **Agent capabilities:**
 
-- 🤖 **Custom AI Agents**: Build agents with custom instructions, knowledge, and personality
-- 🧠 **Long-Term Memory (LTM)**: Persistent memory across conversations, projects, and sessions. Your agents get smarter over time
-- 👥 **Multi-Agent Teams**: Orchestrate agents that collaborate and delegate tasks
+- 🤖 **Custom AI Agents** — Build agents with custom instructions, knowledge, and personality
+- 🧠 **Long-Term Memory (LTM)** — Persistent memory across conversations, projects, and sessions — your agents get smarter over time
+- 👥 **Multi-Agent Teams** — Orchestrate agents that collaborate and delegate tasks
 - 🔧 **Agent Tools**: Web scraper, site reader, YouTube transcriber, image generation, and more
-- 🎯 **Autonomous Execution**: Agents that edit, prioritize, and reschedule tasks independently
+- 🎯 **Autonomous Execution** — Agents that edit, prioritize, and reschedule tasks independently
 - 🌍 **Multi-Language**: Global language support
-- 🌐 **Public Sharing**: Share agents publicly with password protection
-- 🔄 **Human-in-the-Loop**: Approve, guide, or override agent decisions at any step
-- ⚙️ **AI Kits**: Pre-built agent + automation bundles for common workflows
+- 🌐 **Public Sharing** — Share agents publicly with password protection
+- 🔄 **Human-in-the-Loop** — Approve, guide, or override agent decisions at any step
+- ⚙️ **AI Kits** — Pre-built agent + automation bundles for common workflows
 
 ➡️ [**Explore AI Agents →**](https://taskade.com/agents) · [**AI Agent Builder →**](https://taskade.com/ai/agents)
 
@@ -262,7 +262,7 @@ What that means in practice:
 
 ## ⚡ Workflow Automation
 
-> **Automate anything. Trigger actions from form submissions, updates, emails, or integrations, without lifting a finger.**
+> **Automate anything. Trigger actions from form submissions, updates, emails, or integrations — without lifting a finger.**
 
 <div align="center">
   <img src="media/screenshots/automation-builder.jpg" alt="Taskade Automation Builder Interface" width="800">
@@ -277,14 +277,14 @@ What that means in practice:
 
 **Automation capabilities:**
 
-- ⚡ **AI Automation Generator**: Describe workflows in natural language, get complete automations
-- 🔄 **Triggers**: Form submissions, webhooks, schedules, task events, RSS feeds, custom fields
-- 🎯 **Actions**: Send emails, update records, call APIs, generate content, notify teams
-- 🔀 **Flow Control**: Branching, loops, filters, and conditional logic
-- 🌐 **100+ Connectors**: Slack, Gmail, Google Sheets, HubSpot, Stripe, GitHub, and more
-- ⏰ **Scheduled Workflows**: Recurring automations on any schedule
-- 🔧 **API & Webhooks**: Custom HTTP requests and webhook triggers
-- 🤖 **AI Team Automations**: Multi-agent reasoning integrated into workflows
+- ⚡ **AI Automation Generator** — Describe workflows in natural language, get complete automations
+- 🔄 **Triggers** — Form submissions, webhooks, schedules, task events, RSS feeds, custom fields
+- 🎯 **Actions** — Send emails, update records, call APIs, generate content, notify teams
+- 🔀 **Flow Control** — Branching, loops, filters, and conditional logic
+- 🌐 **100+ Connectors** — Slack, Gmail, Google Sheets, HubSpot, Stripe, GitHub, and more
+- ⏰ **Scheduled Workflows** — Recurring automations on any schedule
+- 🔧 **API & Webhooks** — Custom HTTP requests and webhook triggers
+- 🤖 **AI Team Automations** — Multi-agent reasoning integrated into workflows
 
 ➡️ [**Explore Automations →**](https://taskade.com/automate) · [**AI Workflow Builder →**](https://taskade.com/ai/automations)
 
@@ -292,7 +292,7 @@ What that means in practice:
 
 ## 📊 Collaboration & Views
 
-> **Think visually. Act structurally. Switch between project views. Your data, your way.**
+> **Think visually. Act structurally. Switch between project views — your data, your way.**
 
 | List View | Board View | Mind Map View |
 |:---:|:---:|:---:|
@@ -306,7 +306,7 @@ What that means in practice:
 - 👥 **Real-time multiplayer editing** with live cursors and presence
 - 📹 **Built-in video calls** for face-to-face collaboration
 - 💬 **Project chat** and threaded comments
-- 🤖 **Shared AI agent conversations**: humans and agents working together
+- 🤖 **Shared AI agent conversations** — humans and agents working together
 - 📎 **@mentions** for users, projects, and AI agents
 - 🔗 **Guest access** and password-protected sharing
 
@@ -320,12 +320,12 @@ What that means in practice:
 
 ### Workspace Memory
 
-Everything you create becomes context. Projects, notes, and uploaded knowledge form a living memory graph that your agents draw on, so answers stay grounded in your work and get sharper the more you build.
+Everything you create becomes context. Projects, notes, and uploaded knowledge form a living memory graph that your agents draw on — so answers stay grounded in your work and get sharper the more you build.
 
 <div align="center">
   <a href="https://www.taskade.com/ai/apps"><img src="media/features/workspace-memory.gif" width="640" alt="Workspace Memory graph connecting projects, notes, and agents in Taskade"></a>
   <br>
-  <sub>Workspace Memory: your projects and knowledge connected into one graph your agents can reason over.</sub>
+  <sub>Workspace Memory — your projects and knowledge connected into one graph your agents can reason over.</sub>
 </div>
 
 **Supported formats:**
@@ -338,11 +338,11 @@ Everything you create becomes context. Projects, notes, and uploaded knowledge f
 **AI intelligence:**
 
 - 🧠 **Frontier AI models**: Use the latest frontier models from top AI labs
-- 📚 **Knowledge ingestion**: Train agents on your files, links, and project data
-- 🔍 **AI-powered search**: Ask questions, get answers from your entire knowledge base
-- ✍️ **AI writing assistant**: Generate, rewrite, summarize, and translate content
+- 📚 **Knowledge ingestion** — Train agents on your files, links, and project data
+- 🔍 **AI-powered search** — Ask questions, get answers from your entire knowledge base
+- ✍️ **AI writing assistant** — Generate, rewrite, summarize, and translate content
 - 🎨 **AI image generation**: Create visuals from a text prompt
-- 📊 **Advanced reasoning**: Complex problem-solving with chain-of-thought
+- 📊 **Advanced reasoning** — Complex problem-solving with chain-of-thought
 
 ---
 
@@ -369,7 +369,7 @@ Also available on: [**Microsoft Store**](https://taskade.com/downloads) · [**Sn
 > **Connect your entire tech stack into unified workflows.**
 
 <details>
-<summary><b>🤖 AI Agents</b>: Intelligent actions powered by AI</summary>
+<summary><b>🤖 AI Agents</b> — Intelligent actions powered by AI</summary>
 
 <br>
 
@@ -387,7 +387,7 @@ Also available on: [**Microsoft Store**](https://taskade.com/downloads) · [**Sn
 </details>
 
 <details>
-<summary><b>🔌 Connectors</b>: 100+ app integrations</summary>
+<summary><b>🔌 Connectors</b> — 100+ app integrations</summary>
 
 <br>
 
@@ -419,7 +419,7 @@ Also available on: [**Microsoft Store**](https://taskade.com/downloads) · [**Sn
 </details>
 
 <details>
-<summary><b>📄 Knowledge Sources</b>: Supported file types</summary>
+<summary><b>📄 Knowledge Sources</b> — Supported file types</summary>
 
 <br>
 
@@ -428,7 +428,7 @@ PDF · DOCX · XLSX · CSV · PPTX · Markdown · TXT · EPUB
 </details>
 
 <details>
-<summary><b>📦 Migrate From</b>: Import from 30+ tools</summary>
+<summary><b>📦 Migrate From</b> — Import from 30+ tools</summary>
 
 <br>
 
@@ -444,7 +444,7 @@ PDF · DOCX · XLSX · CSV · PPTX · Markdown · TXT · EPUB
 </details>
 
 <details>
-<summary><b>🧩 Extend</b>: Browser, desktop, and developer tools</summary>
+<summary><b>🧩 Extend</b> — Browser, desktop, and developer tools</summary>
 
 <br>
 
@@ -474,7 +474,7 @@ Work in your Taskade workspace from Claude, ChatGPT, Cursor, VS Code, Codex, or 
 | **Any other agent** | Give it `https://www.taskade.com/SKILL.md`, or run `npx skills add https://www.taskade.com/SKILL.md`. |
 | **Stdio-only clients and scripts** | Run the `@taskade/mcp-server` package with a [personal access token](https://www.taskade.com/settings/api). |
 
-**What your agent can do:** 50 hosted tools for workspaces, projects, tasks, AI agents, and knowledge. It can run a "When asked" automation and read its run history. It cannot create or edit automations or build an app: Taskade EVE builds Taskade Genesis apps inside Taskade. MCP access needs a paid plan.
+**What your agent can do:** Work with your workspaces, projects, tasks, AI agents, and knowledge. It can also run a "When asked" automation and read its run history. It cannot create or edit automations or build an app: Taskade EVE builds Taskade Genesis apps inside Taskade. MCP access needs a paid plan.
 
 ### Claude Code plugin
 
@@ -483,11 +483,7 @@ claude plugin marketplace add taskade/mcp
 claude plugin install taskade@taskade
 ```
 
-Then run `/mcp` in Claude Code and select **taskade** to sign in. The plugin adds 7 skills: a front door, import a spreadsheet, fix an app, status report, back up an app, plan a new app, and getting started.
-
-### MCP server
-
-The hosted server is `https://www.taskade.com/mcp` (Streamable HTTP, OAuth). Add it as a custom connector in Claude or ChatGPT, or as a remote MCP server in Cursor, VS Code, or Codex. Nothing to install. For a client that runs only local servers, use the `@taskade/mcp-server` package.
+Then run `/mcp` in Claude Code, select the Taskade server, and sign in. The plugin adds 7 skills: a front door, import a spreadsheet, fix an app, status report, back up an app, plan a new app, and getting started.
 
 🔌 [**Taskade MCP and plugin →**](https://github.com/taskade/mcp) · 🤖 [**llms.txt**](https://www.taskade.com/llms.txt) · ⭐ Star the MCP repo
 
@@ -510,7 +506,7 @@ Create a key in [Settings > API](https://www.taskade.com/settings/api). 📖 [**
 | Tool | Description |
 |---|---|
 | **[REST API v2](https://www.taskade.com/api/documentation/v2)** | Workspace, project, task, and agent management |
-| **[MCP Server](https://github.com/taskade/mcp)** | Hosted at `https://www.taskade.com/mcp` with 50 tools, for Claude, ChatGPT, Cursor, VS Code, and Codex |
+| **[MCP Server](https://github.com/taskade/mcp)** | Hosted at `https://www.taskade.com/mcp`, for Claude, ChatGPT, Cursor, VS Code, and Codex |
 | **[Agent API](https://www.taskade.com/docs)** | Deploy and manage agents programmatically |
 | **[Integration Kit](https://github.com/taskade/integrations)** | Open-source Zapier/n8n actions & triggers built on the public API |
 | **[Webhooks](https://docs.taskade.com/developers/webhooks)** | Receive real-time events from your workspace |
@@ -525,9 +521,9 @@ Create a key in [Settings > API](https://www.taskade.com/settings/api). 📖 [**
 
 Taskade bridges both paradigms defined by Andrej Karpathy:
 
-**Vibe Coding** (coined Feb 2025): Describe what you want in natural language → AI builds it. Taskade Genesis is a vibe coding platform that goes further: apps come with built-in intelligence (AI agents, automations, databases), not just code files.
+**Vibe Coding** (coined Feb 2025): Describe what you want in natural language → AI builds it. Taskade Genesis is a vibe coding platform that goes further — apps come with built-in intelligence (AI agents, automations, databases), not just code files.
 
-**Agentic Engineering** (coined Feb 2026): Orchestrate AI agents with human oversight. Taskade AI Agents v2 implements this with custom tools, multi-agent teams, persistent memory, slash commands, and human-in-the-loop controls.
+**Agentic Engineering** (coined Feb 2026): Orchestrate AI agents with human oversight. Taskade AI Agents v2 implements this — custom tools, multi-agent teams, persistent memory, slash commands, and human-in-the-loop controls.
 
 ```
   VIBE CODING                    AGENTIC ENGINEERING
@@ -550,7 +546,7 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 
 | Vibe Code an App | Pick Your AI Model | Publish & Own Your Page |
 |:---:|:---:|:---:|
-| <img src="media/genesis/click-to-edit.gif" width="280" alt="Vibe coding: click to edit apps visually in Taskade Genesis"> | <img src="media/agents/model-selector.gif" width="280" alt="Pick your AI model per agent from frontier models"> | <img src="media/genesis/publish-and-share.gif" width="280" alt="Publish AI apps to your own page in the Community Gallery"> |
+| <img src="media/genesis/click-to-edit.gif" width="280" alt="Vibe coding — click to edit apps visually in Taskade Genesis"> | <img src="media/agents/model-selector.gif" width="280" alt="Pick your AI model per agent — 15+ frontier models"> | <img src="media/genesis/publish-and-share.gif" width="280" alt="Publish AI apps to your own page in the Community Gallery"> |
 | Click-to-edit visual builder, no code required | Frontier models from top AI labs | Publish to community, custom domains, analytics |
 
 ➡️ [**What is Vibe Coding →**](https://taskade.com/blog/what-is-vibe-coding) · [**Best Vibe Coding Tools →**](https://taskade.com/blog/best-vibe-coding-tools)
@@ -560,7 +556,7 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 ## Feature Comparison
 
 <details>
-<summary><b>Genesis Platform</b>: Core app generation, agents, and intelligent workspace features</summary>
+<summary><b>Genesis Platform</b> — Core app generation, agents, and intelligent workspace features</summary>
 
 <br>
 
@@ -569,43 +565,43 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 | **Users Included** | 2 | 3 | 10 | Unlimited | Unlimited |
 | **AI Apps** | 3 | Unlimited | Unlimited | Unlimited | Unlimited |
 | **AI Agents** | 1 | 3 | Unlimited | Unlimited | Unlimited |
-| **Automations** | - | 10 | Unlimited | Unlimited | Unlimited |
+| **Automation runs a month** | 10 | 350 | 1,000 | 10,000 | 10,000 |
 | **Workspaces** | 1 | Unlimited | Unlimited | Unlimited | Unlimited |
-| **Private & Unlisted Apps** | - | ✓ | ✓ | ✓ | ✓ |
-| **Live Web Hosting** | - | - | ✓ | ✓ | ✓ |
-| **Background Agents** | - | - | ✓ | ✓ | ✓ |
+| **Private & Unlisted Apps** | — | ✓ | ✓ | ✓ | ✓ |
+| **Live Web Hosting** | — | — | ✓ | ✓ | ✓ |
+| **Background Agents** | — | — | ✓ | ✓ | ✓ |
 | **Remove Taskade Branding** | - | ✓ | ✓ | ✓ | ✓ |
 | **Connect a Domain** | - | - | Up to 10 | Unlimited | Unlimited |
-| **White-Label & Client Delivery** | - | - | - | ✓ | ✓ |
-| **Team Collaboration** | - | Basic sharing | Guests & teams | Full teams & clients | Enterprise teams |
-| **Admin Dashboard** | - | - | - | ✓ | ✓ |
+| **White-Label & Client Delivery** | — | — | — | ✓ | ✓ |
+| **Team Collaboration** | — | Basic sharing | Guests & teams | Full teams & clients | Enterprise teams |
+| **Admin Dashboard** | — | — | — | ✓ | ✓ |
 | **Community Templates** | Browse 70+ | Fork & customize | Fork & customize | Fork & customize | Fork & customize |
-| **Agent Hosting Infrastructure** | - | - | ✓ | ✓ | ✓ |
-| **Built-in Analytics** | - | - | Real-time dashboard | Advanced analytics | Advanced analytics |
+| **Agent Hosting Infrastructure** | — | — | ✓ | ✓ | ✓ |
+| **Built-in Analytics** | - | - | - | Advanced analytics | Advanced analytics |
 | **Monthly AI Credits** | Earn or buy | 10,000 | 50,000 | 150,000 | Custom |
 
 </details>
 
 <details>
-<summary><b>AI Agents</b>: Build, train, and deploy your digital workforce</summary>
+<summary><b>AI Agents</b> — Build, train, and deploy your digital workforce</summary>
 
 <br>
 
 | Feature | Free | Starter | Pro | Business | Enterprise |
 |---|:---:|:---:|:---:|:---:|:---:|
 | **Custom AI Agents** | 1 | 3 | Unlimited | Unlimited | Unlimited |
-| **Train Agents with Your Data** | - | Limited | Unlimited | Unlimited | Unlimited |
-| **Knowledge Ingestion (Files & Links)** | - | Limited | Unlimited | Unlimited | Unlimited |
-| **Agent Generator** | - | ✓ | ✓ | ✓ | ✓ |
-| **AI Kits** | - | ✓ | ✓ | ✓ | ✓ |
-| **Multi-Agent Teams** | - | - | Limited | Unlimited | Unlimited |
-| **Custom Agent Tools** | - | - | ✓ | ✓ | ✓ |
-| **Private AI Chat** | - | ✓ | ✓ | ✓ | ✓ |
+| **Train Agents with Your Data** | — | Limited | Unlimited | Unlimited | Unlimited |
+| **Knowledge Ingestion (Files & Links)** | — | Limited | Unlimited | Unlimited | Unlimited |
+| **Agent Generator** | — | ✓ | ✓ | ✓ | ✓ |
+| **AI Kits** | — | ✓ | ✓ | ✓ | ✓ |
+| **Multi-Agent Teams** | - | - | ✓ | ✓ | ✓ |
+| **Custom Agent Tools** | — | — | ✓ | ✓ | ✓ |
+| **Private AI Chat** | — | ✓ | ✓ | ✓ | ✓ |
 
 </details>
 
 <details>
-<summary><b>Intelligence</b>: Advanced AI models and dynamic knowledge sync</summary>
+<summary><b>Intelligence</b> — Advanced AI models and dynamic knowledge sync</summary>
 
 <br>
 
@@ -613,31 +609,31 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 |---|:---:|:---:|:---:|:---:|:---:|
 | **AI Models** | Basic | Frontier | Frontier | Frontier | Custom |
 | **Knowledge Sync** | Manual | Daily | Daily | Hourly | Real-time |
-| **Advanced Reasoning** | - | - | ✓ | ✓ | ✓ |
-| **Long-Context Agents** | - | - | ✓ | ✓ | ✓ |
+| **Advanced Reasoning** | — | — | ✓ | ✓ | ✓ |
+| **Long-Context Agents** | — | — | ✓ | ✓ | ✓ |
 
 </details>
 
 <details>
-<summary><b>Automations & Workflows</b>: Intelligent workflows that build, connect, and execute</summary>
+<summary><b>Automations & Workflows</b> — Intelligent workflows that build, connect, and execute</summary>
 
 <br>
 
 | Feature | Free | Starter | Pro | Business | Enterprise |
 |---|:---:|:---:|:---:|:---:|:---:|
-| **AI Automations** | - | ✓ | Unlimited | Unlimited | Unlimited |
-| **Scheduled Workflows** | - | - | ✓ | ✓ | ✓ |
-| **Agentic Workflows** | - | - | ✓ | ✓ | ✓ |
-| **Background Execution** | - | - | ✓ | ✓ | ✓ |
-| **Multi-Step Flows** | - | ✓ | ✓ | ✓ | ✓ |
-| **Web Search & Scraping** | - | - | ✓ | ✓ | ✓ |
-| **Forms & AI Apps** | - | ✓ | ✓ | ✓ | ✓ |
+| **AI Automations** | — | ✓ | Unlimited | Unlimited | Unlimited |
+| **Scheduled Workflows** | — | — | ✓ | ✓ | ✓ |
+| **Agentic Workflows** | — | — | ✓ | ✓ | ✓ |
+| **Background Execution** | — | — | ✓ | ✓ | ✓ |
+| **Multi-Step Flows** | — | ✓ | ✓ | ✓ | ✓ |
+| **Web Search & Scraping** | — | — | ✓ | ✓ | ✓ |
+| **Forms & AI Apps** | — | ✓ | ✓ | ✓ | ✓ |
 | **API & Webhooks** | - | - | ✓ | ✓ | ✓ |
 
 </details>
 
 <details>
-<summary><b>Workspace & Data</b>: Real-time collaboration that adapts and evolves</summary>
+<summary><b>Workspace & Data</b> — Real-time collaboration that adapts and evolves</summary>
 
 <br>
 
@@ -646,41 +642,41 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 | **Real-Time Sync** | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Views** | Basic | All | All | All | All |
 | **Templates** | 5 | Unlimited | Unlimited | Unlimited | Unlimited |
-| **Custom Fields & Schema** | - | ✓ | ✓ | ✓ | ✓ |
+| **Custom Fields & Schema** | — | ✓ | ✓ | ✓ | ✓ |
 | **Version History** | 7 days | 30 days | 1 year | 5 years | 5 years |
 | **Guests & Link Sharing** | Public links | Private links | Password-protected | Client portals | Enterprise sharing |
 
 </details>
 
 <details>
-<summary><b>Integrations</b>: Connect your entire tech stack</summary>
+<summary><b>Integrations</b> — Connect your entire tech stack</summary>
 
 <br>
 
 | Feature | Free | Starter | Pro | Business | Enterprise |
 |---|:---:|:---:|:---:|:---:|:---:|
-| **100+ Integrations** | - | ✓ | ✓ | ✓ | ✓ |
-| **Google Drive, Dropbox, OneDrive** | - | ✓ | ✓ | ✓ | ✓ |
-| **Slack, Discord, Notion, GitHub** | - | ✓ | ✓ | ✓ | ✓ |
-| **Zapier, Make, n8n** | - | ✓ | ✓ | ✓ | ✓ |
-| **Custom Integrations** | - | - | ✓ | ✓ | ✓ |
-| **API Access** | - | - | ✓ | ✓ | ✓ |
+| **100+ Integrations** | — | ✓ | ✓ | ✓ | ✓ |
+| **Google Drive, Dropbox, OneDrive** | — | ✓ | ✓ | ✓ | ✓ |
+| **Slack, Discord, Notion, GitHub** | — | ✓ | ✓ | ✓ | ✓ |
+| **Zapier, Make, n8n** | — | ✓ | ✓ | ✓ | ✓ |
+| **Custom Integrations** | — | — | ✓ | ✓ | ✓ |
+| **API Access** | — | — | ✓ | ✓ | ✓ |
 
 </details>
 
 <details>
-<summary><b>Security & Support</b>: Enterprise-grade security and dedicated support</summary>
+<summary><b>Security & Support</b> — Enterprise-grade security and dedicated support</summary>
 
 <br>
 
 | Feature | Free | Starter | Pro | Business | Enterprise |
 |---|:---:|:---:|:---:|:---:|:---:|
-| **Password-Protected Sharing** | - | - | ✓ | ✓ | ✓ |
-| **MFA** | - | ✓ | ✓ | ✓ | ✓ |
+| **Password-Protected Sharing** | — | — | ✓ | ✓ | ✓ |
+| **MFA** | — | ✓ | ✓ | ✓ | ✓ |
 | **Workspace Backups** | ✓ | ✓ | ✓ | ✓ | ✓ |
-| **Usage Analytics** | - | - | ✓ | ✓ | ✓ |
-| **Priority Processing** | - | - | ✓ | ✓ | ✓ |
-| **SSO / SAML** | - | - | - | ✓ | ✓ |
+| **Usage Analytics** | — | — | ✓ | ✓ | ✓ |
+| **Priority Processing** | — | — | ✓ | ✓ | ✓ |
+| **SSO / SAML** | — | — | — | ✓ | ✓ |
 | **Support** | Community | Email | Priority | Priority + Success | Dedicated |
 
 </details>
@@ -758,7 +754,7 @@ The annual row is billed annually. Every limit is shared by the workspace. Full 
 
 ## Community
 
-Join the Taskade community of builders, makers, and teams:
+Join the Taskade community — builders, makers, and teams:
 
 | | | | |
 |---|---|---|---|
@@ -772,7 +768,7 @@ Join the Taskade community of builders, makers, and teams:
 <details>
 <summary><b>Can I build an app without coding?</b></summary>
 <br>
-Yes. Taskade Genesis builds complete apps from natural language prompts. Describe what you need ("Build me a CRM with pipeline and email automation") and get a production-ready app in 2-15 minutes. No code, no deployment, no hosting. 150,000+ apps built this way since October 2025.
+Yes. Taskade Genesis builds complete apps from natural language prompts — describe what you need ("Build me a CRM with pipeline and email automation") and get a production-ready app in 2-15 minutes. No code, no deployment, no hosting. 150,000+ apps built this way since October 2025.
 </details>
 
 <details>
@@ -784,7 +780,7 @@ Code generators (Cursor, Bolt, Lovable) output files you deploy yourself. Taskad
 <details>
 <summary><b>How does Taskade compare to Notion, Monday, or Asana?</b></summary>
 <br>
-Notion, Monday, and Asana organize work. Taskade executes it with AI agents that think and act, automations that run 24/7 across 100+ integrations, and Genesis apps you can build from a prompt.
+Notion, Monday, and Asana organize work. Taskade executes it — with AI agents that think and act, automations that run 24/7 across 100+ integrations, and Genesis apps you can build from a prompt.
 </details>
 
 <details>
@@ -802,7 +798,7 @@ Yes. Train agents on PDFs, DOCX, XLSX, web links, YouTube videos, and Taskade pr
 <details>
 <summary><b>Can I use Taskade with Claude, ChatGPT, Cursor, or another AI agent?</b></summary>
 <br>
-Yes. Add the hosted <a href="https://github.com/taskade/mcp">Taskade MCP server</a> at <code>https://www.taskade.com/mcp</code>, or install the Taskade plugin in Claude Code. Your agent gets 50 tools for workspaces, projects, tasks, AI agents, and knowledge, and it can run a "When asked" automation. MCP access needs a paid plan. <a href="#use-taskade-from-your-ai-agent">How to connect →</a>
+Yes. Add the hosted <a href="https://github.com/taskade/mcp">Taskade MCP server</a> at <code>https://www.taskade.com/mcp</code>, or install the Taskade plugin in Claude Code. Your agent gets tools for workspaces, projects, tasks, AI agents, and knowledge, and it can run a "When asked" automation. MCP access needs a paid plan. <a href="#use-taskade-from-your-ai-agent">How to connect →</a>
 </details>
 
 <details>
@@ -814,7 +810,7 @@ Taskade's architecture where three pillars form a self-reinforcing loop: <b>Memo
 <details>
 <summary><b>What is vibe coding?</b></summary>
 <br>
-Vibe coding (coined by Andrej Karpathy, Feb 2025) means describing what you want in natural language and letting AI build it. Taskade Genesis is a vibe coding platform that goes further: apps come with built-in intelligence, not just code files.
+Vibe coding (coined by Andrej Karpathy, Feb 2025) means describing what you want in natural language and letting AI build it. Taskade Genesis is a vibe coding platform that goes further — apps come with built-in intelligence, not just code files.
 </details>
 
 <details>
@@ -838,7 +834,7 @@ One-click import from 30+ tools: Notion, Trello, Asana, Monday.com, ClickUp, Tod
 <details>
 <summary><b>What can I build with Taskade Genesis?</b></summary>
 <br>
-CRMs, client portals, dashboards, invoice systems, booking apps, habit trackers, project trackers, knowledge bases, chatbots, landing pages, storefronts, forms, and any business tool, from a single prompt. <a href="https://taskade.com/create">Try it now →</a>
+CRMs, client portals, dashboards, invoice systems, booking apps, habit trackers, project trackers, knowledge bases, chatbots, landing pages, storefronts, forms, and any business tool — from a single prompt. <a href="https://taskade.com/create">Try it now →</a>
 </details>
 
 ---
@@ -849,72 +845,72 @@ Deep dives, honest comparisons, and step-by-step builds.
 
 **Guides**
 
-- [**Multi-Agent Workspace**](docs/guides/multi-agent-workspace.md): What a multi-agent workspace is and why memory, agents, and workflows belong together.
-- [**AI Workspace**](docs/guides/ai-workspace.md): What an AI-native workspace is and how it differs from bolting AI onto an old tool.
-- [**Connect Tools & Automate**](docs/guides/connect-tools-and-automate.md): Agent memory, 100+ integrations, and plain-English automations that run themselves.
+- [**Multi-Agent Workspace**](docs/guides/multi-agent-workspace.md) — What a multi-agent workspace is and why memory, agents, and workflows belong together.
+- [**AI Workspace**](docs/guides/ai-workspace.md) — What an AI-native workspace is and how it differs from bolting AI onto an old tool.
+- [**Connect Tools & Automate**](docs/guides/connect-tools-and-automate.md) — Agent memory, 100+ integrations, and plain-English automations that run themselves.
 
 **Start Here & Reference**
 
-- [**What is Taskade Genesis?**](docs/genesis/what-is-taskade-genesis.md): The full capabilities pillar, from prompt to hosted app, with diagrams.
-- [**FAQ**](docs/faq.md): Plain answers to the most common questions about Taskade Genesis.
-- [**Glossary**](docs/glossary.md): Definitions for AI workspace, multi-agent, agent memory, MCP, and more.
+- [**What is Taskade Genesis?**](docs/genesis/what-is-taskade-genesis.md) — The full capabilities pillar: prompt → hosted app, with diagrams.
+- [**FAQ**](docs/faq.md) — Plain answers to the most common questions about Taskade Genesis.
+- [**Glossary**](docs/glossary.md) — Definitions for AI workspace, multi-agent, agent memory, MCP, and more.
 
 **Compare**
 
-- [**Taskade vs Notion**](docs/compare/taskade-vs-notion.md): Where Notion's docs-and-databases shine, and where Taskade's agents and automations pull ahead.
-- [**Taskade vs ClickUp**](docs/compare/taskade-vs-clickup.md): Task management depth versus an AI-native workspace that builds and runs apps.
-- [**Taskade vs Airtable**](docs/compare/taskade-vs-airtable.md): Structured databases versus living apps with built-in AI and automation.
-- [**Taskade vs Monday.com**](docs/compare/taskade-vs-monday.md): A heavyweight Work OS versus an AI-native workspace that builds and runs apps.
-- [**Taskade vs Trello**](docs/compare/taskade-vs-trello.md): Simple Kanban versus boards plus AI agents, automations, and Genesis apps.
-- [**Taskade vs Asana**](docs/compare/taskade-vs-asana.md): Enterprise work management versus an AI-native workspace with built-in agents.
-- [**Taskade vs Coda**](docs/compare/taskade-vs-coda.md): Docs-as-apps you assemble by hand versus a prompt that builds a hosted app.
-- [**Taskade vs AI Agent Tools**](docs/compare/taskade-vs-ai-agent-tools.md): Lindy, Gumloop, and Zapier Agents versus agents that live in your workspace.
-- [**All comparisons →**](docs/compare/README.md): The full comparison hub.
+- [**Taskade vs Notion**](docs/compare/taskade-vs-notion.md) — Where Notion's docs-and-databases shine, and where Taskade's agents and automations pull ahead.
+- [**Taskade vs ClickUp**](docs/compare/taskade-vs-clickup.md) — Task management depth versus an AI-native workspace that builds and runs apps.
+- [**Taskade vs Airtable**](docs/compare/taskade-vs-airtable.md) — Structured databases versus living apps with built-in AI and automation.
+- [**Taskade vs Monday.com**](docs/compare/taskade-vs-monday.md) — A heavyweight Work OS versus an AI-native workspace that builds and runs apps.
+- [**Taskade vs Trello**](docs/compare/taskade-vs-trello.md) — Simple Kanban versus boards plus AI agents, automations, and Genesis apps.
+- [**Taskade vs Asana**](docs/compare/taskade-vs-asana.md) — Enterprise work management versus an AI-native workspace with built-in agents.
+- [**Taskade vs Coda**](docs/compare/taskade-vs-coda.md) — Docs-as-apps you assemble by hand versus a prompt that builds a hosted app.
+- [**Taskade vs AI Agent Tools**](docs/compare/taskade-vs-ai-agent-tools.md) — Lindy, Gumloop, and Zapier Agents versus agents that live in your workspace.
+- [**All comparisons →**](docs/compare/README.md) — The full comparison hub.
 
 **Use Cases**
 
-- [**AI Agents for Sales**](docs/use-cases/ai-agents-for-sales.md): Qualify leads, draft outreach, and keep the pipeline moving 24/7.
-- [**AI Agents for Customer Support**](docs/use-cases/ai-agents-for-customer-support.md): Answer instantly from your knowledge base and escalate when it matters.
-- [**AI Agents for Recruiting**](docs/use-cases/ai-agents-for-recruiting.md): Screen applicants, schedule interviews, and track candidates end to end.
-- [**AI Agents for Marketing**](docs/use-cases/ai-agents-for-marketing.md): Plan campaigns, generate content, and automate distribution.
-- [**AI Agents for Research**](docs/use-cases/ai-agents-for-research.md): Gather, summarize, and synthesize sources into usable findings.
+- [**AI Agents for Sales**](docs/use-cases/ai-agents-for-sales.md) — Qualify leads, draft outreach, and keep the pipeline moving 24/7.
+- [**AI Agents for Customer Support**](docs/use-cases/ai-agents-for-customer-support.md) — Answer instantly from your knowledge base and escalate when it matters.
+- [**AI Agents for Recruiting**](docs/use-cases/ai-agents-for-recruiting.md) — Screen applicants, schedule interviews, and track candidates end to end.
+- [**AI Agents for Marketing**](docs/use-cases/ai-agents-for-marketing.md) — Plan campaigns, generate content, and automate distribution.
+- [**AI Agents for Research**](docs/use-cases/ai-agents-for-research.md) — Gather, summarize, and synthesize sources into usable findings.
 
 **Genesis**
 
-- [**Build a CRM with AI**](docs/genesis/build-a-crm-with-ai.md): Pipeline, contacts, and automated follow-up from a single prompt.
-- [**Build a Helpdesk with AI**](docs/genesis/build-a-helpdesk-with-ai.md): Ticket intake, routing, and AI-assisted replies in one app.
-- [**Build a Storefront with AI**](docs/genesis/build-a-storefront-with-ai.md): Catalog, cart, and Stripe checkout without writing code.
-- [**Deploy Agents & Launch Shops**](docs/genesis/deploy-agents-launch-shops.md): Deploy chatbot agents, run an online shop, and automate payments.
-- [**Clone-Ready App Kits**](docs/genesis/app-kits.md): A gallery of live apps to clone in ~60 seconds, including CRM, support, marketing, ops, and more.
-- [**Taskade Genesis: What's New**](docs/genesis/whats-new.md): Release highlights, including the multi-agent workspace, memory, app payments, cloning, and more.
+- [**Build a CRM with AI**](docs/genesis/build-a-crm-with-ai.md) — Pipeline, contacts, and automated follow-up from a single prompt.
+- [**Build a Helpdesk with AI**](docs/genesis/build-a-helpdesk-with-ai.md) — Ticket intake, routing, and AI-assisted replies in one app.
+- [**Build a Storefront with AI**](docs/genesis/build-a-storefront-with-ai.md) — Catalog, cart, and Stripe checkout without writing code.
+- [**Deploy Agents & Launch Shops**](docs/genesis/deploy-agents-launch-shops.md) — Deploy chatbot agents, run an online shop, and automate payments.
+- [**Clone-Ready App Kits**](docs/genesis/app-kits.md) — A gallery of live apps to clone in ~60 seconds — CRM, support, marketing, ops, and more.
+- [**Taskade Genesis — What's New**](docs/genesis/whats-new.md) — Release highlights: multi-agent workspace, memory, app payments, cloning, and more.
 
 **Tools**
 
-- [**AI Mind Map Generator**](docs/tools/ai-mind-map-generator.md): Turn a topic or prompt into a structured mind map in seconds.
-- [**AI Flowchart Generator**](docs/tools/ai-flowchart-generator.md): Describe a process and get a clear, editable flowchart.
+- [**AI Mind Map Generator**](docs/tools/ai-mind-map-generator.md) — Turn a topic or prompt into a structured mind map in seconds.
+- [**AI Flowchart Generator**](docs/tools/ai-flowchart-generator.md) — Describe a process and get a clear, editable flowchart.
 
 **More Use Cases**
 
-- [**Build a Wiki**](docs/use-cases/build-a-wiki.md): A searchable, AI-powered knowledge base your whole team can trust.
-- [**Run Hiring & Applicant Tracking**](docs/use-cases/run-hiring-applicant-tracking.md): A lightweight ATS to manage candidates from apply to offer.
-- [**Schedule Meetings**](docs/use-cases/schedule-meetings.md): Coordinate availability and book meetings with automation.
-- [**Clone & Customize Apps**](docs/use-cases/clone-and-customize-apps.md): Start from a finished community app, make it yours, add login, and publish.
-- [**Personal Productivity**](docs/use-cases/personal-productivity.md): Map your mind, plan tasks, and track habits in one AI-native daily OS.
-- [**Live Workspace Apps**](docs/use-cases/live-workspace-apps.md): Wiki, hiring, and meeting apps you can stand up and run today.
+- [**Build a Wiki**](docs/use-cases/build-a-wiki.md) — A searchable, AI-powered knowledge base your whole team can trust.
+- [**Run Hiring & Applicant Tracking**](docs/use-cases/run-hiring-applicant-tracking.md) — A lightweight ATS to manage candidates from apply to offer.
+- [**Schedule Meetings**](docs/use-cases/schedule-meetings.md) — Coordinate availability and book meetings with automation.
+- [**Clone & Customize Apps**](docs/use-cases/clone-and-customize-apps.md) — Start from a finished community app, make it yours, add login, and publish.
+- [**Personal Productivity**](docs/use-cases/personal-productivity.md) — Map your mind, plan tasks, and track habits in one AI-native daily OS.
+- [**Live Workspace Apps**](docs/use-cases/live-workspace-apps.md) — Wiki, hiring, and meeting apps you can stand up and run today.
 
 ---
 
 ## Taskade Ecosystem
 
-Taskade is more than this repo. Explore the rest of the ecosystem (and star what's useful):
+Taskade is more than this repo — explore the rest of the ecosystem (and star what's useful):
 
 | Project | What it is | Stars |
 |---|---|---|
 | [**Taskade MCP**](https://github.com/taskade/mcp) | Official MCP server and Claude Code plugin. Connect Taskade to Claude, ChatGPT, Cursor, and any MCP client. | [![mcp stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp) |
-| [**Awesome Vibe Coding**](https://github.com/taskade/awesome-vibe-coding) | A curated guide to building software with AI and the vibe-coding movement. | [![awesome-vibe-coding stars](https://img.shields.io/github/stars/taskade/awesome-vibe-coding?style=social)](https://github.com/taskade/awesome-vibe-coding) |
+| [**Awesome Vibe Coding**](https://github.com/taskade/awesome-vibe-coding) | A curated guide to building software with AI — the vibe-coding movement. | [![awesome-vibe-coding stars](https://img.shields.io/github/stars/taskade/awesome-vibe-coding?style=social)](https://github.com/taskade/awesome-vibe-coding) |
 | [**Genesis Sample App**](https://github.com/taskade/taskade-sample-app) | A Workspace DNA template for building AI-powered Taskade Genesis apps. | [![sample-app stars](https://img.shields.io/github/stars/taskade/taskade-sample-app?style=social)](https://github.com/taskade/taskade-sample-app) |
-| [**Taskade Docs**](https://github.com/taskade/docs) | Source for [docs.taskade.com](https://docs.taskade.com): REST & Action API reference, Genesis app building, AI agents, and automations. PRs welcome. | [![docs stars](https://img.shields.io/github/stars/taskade/docs?style=social)](https://github.com/taskade/docs) |
-| [**Integration Kit**](https://github.com/taskade/integrations) | Public source-of-truth for Taskade actions & triggers across Zapier and n8n, built on the public API. | [![integrations stars](https://img.shields.io/github/stars/taskade/integrations?style=social)](https://github.com/taskade/integrations) |
+| [**Taskade Docs**](https://github.com/taskade/docs) | Source for [docs.taskade.com](https://docs.taskade.com) — REST & Action API reference, Genesis app building, AI agents, and automations. PRs welcome. | [![docs stars](https://img.shields.io/github/stars/taskade/docs?style=social)](https://github.com/taskade/docs) |
+| [**Integration Kit**](https://github.com/taskade/integrations) | Public source-of-truth for Taskade actions & triggers across Zapier and n8n — built on the public API. | [![integrations stars](https://img.shields.io/github/stars/taskade/integrations?style=social)](https://github.com/taskade/integrations) |
 
 ### Star history
 
@@ -924,11 +920,11 @@ Taskade is more than this repo. Explore the rest of the ecosystem (and star what
 
 ## More
 
-- [**About Taskade**](https://taskade.com/about): Our story, team, and vision
-- [**Security**](https://taskade.com/security): Enterprise-grade privacy and encryption
-- [**Press Kit**](https://taskade.com/press): Brand assets and media resources
-- [**Blog**](https://taskade.com/blog): Product updates, AI insights, and tutorials
-- [**FAQ**](https://taskade.com/faq): Frequently asked questions
+- [**About Taskade**](https://taskade.com/about) — Our story, team, and vision
+- [**Security**](https://taskade.com/security) — Enterprise-grade privacy and encryption
+- [**Press Kit**](https://taskade.com/press) — Brand assets and media resources
+- [**Blog**](https://taskade.com/blog) — Product updates, AI insights, and tutorials
+- [**FAQ**](https://taskade.com/faq) — Frequently asked questions
 - [**Terms of Service**](https://taskade.com/terms)
 - [**Privacy Policy**](https://taskade.com/privacy)
 
@@ -944,7 +940,7 @@ Taskade is more than this repo. Explore the rest of the ecosystem (and star what
 
 <br><br>
 
-**[taskade.com](https://www.taskade.com)**: the AI-native workspace platform.
+**[taskade.com](https://taskade.com)** — The AI-native workspace platform.
 
 *One prompt. One app. Projects remember. Agents think. Automations run.*
 
