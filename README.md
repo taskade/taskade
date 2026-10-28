@@ -197,7 +197,7 @@ What that means in practice:
 - 🎓 **Educational Apps**: Study tools, quizzes, course managers
 - 💬 **Chatbots**: AI-powered conversational interfaces
 
-➡️ [**Create with Genesis →**](https://taskade.com/create) · [**Explore AI App Builder →**](https://taskade.com/ai/apps) · [**Browse Apps →**](https://www.taskade.com/apps)
+➡️ [**Create with Genesis →**](https://taskade.com/create) · [**Browse Apps →**](https://www.taskade.com/apps) · [**All categories →**](https://www.taskade.com/apps/categories)
 
 ### Real-World Apps Built with Genesis
 
@@ -744,7 +744,7 @@ The annual row is billed annually. Every limit is shared by the workspace. Full 
 | ⚡ Automation Templates | [taskade.com/automate](https://taskade.com/automate) |
 | 📋 Project Templates | [taskade.com/templates](https://taskade.com/templates) |
 | ✨ AI Prompt Library | [taskade.com/prompts](https://taskade.com/prompts) |
-| 🌐 Apps | [taskade.com/apps](https://www.taskade.com/apps) |
+| 🌐 Apps | [taskade.com/apps](https://www.taskade.com/apps) · [categories](https://www.taskade.com/apps/categories) |
 | 📖 API Documentation | [taskade.com/docs](https://www.taskade.com/docs) |
 | 🔌 MCP Server | [github.com/taskade/mcp](https://github.com/taskade/mcp) |
 | 📰 Changelog | [taskade.com/changelog](https://taskade.com/changelog) |
