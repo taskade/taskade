@@ -1,4 +1,4 @@
-# Agents Think, Automations Execute
+*Published August 20, 2026.*
 
 ![Agents think, automations execute](https://www.taskade.com/static_images/newsletter-gifs/2026-05-05-stripe-autonomous-workflow.gif)
 

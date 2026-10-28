@@ -1,4 +1,4 @@
-# Collect Files, Scan Receipts, Automate the Paperwork
+*Published August 14, 2026.*
 
 ![Paperwork that files itself](https://www.taskade.com/static_images/newsletter-gifs/2026-01-28-manage-files-with-ai.gif)
 

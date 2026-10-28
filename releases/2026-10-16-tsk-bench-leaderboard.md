@@ -1,4 +1,4 @@
-# TSK-Bench, the AI Task Leaderboard
+*Published October 16, 2026.*
 
 ![TSK-Bench leaderboard](https://www.taskade.com/static_images/newsletter-gifs/2026-10-16-nl-tsk-leaderboard-k7.gif)
 

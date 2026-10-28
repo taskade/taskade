@@ -1,4 +1,4 @@
-# Every Automation Run in One View
+*Published September 2, 2026.*
 
 ![Watch every automation run](https://www.taskade.com/static_images/newsletter-gifs/2026-09-02-runs-tab-lite.gif)
 

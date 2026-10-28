@@ -1,4 +1,4 @@
-# Run Your Business in One Living System
+*Published July 29, 2026.*
 
 ![One living system](https://www.taskade.com/static_images/newsletter-gifs/2026-05-03-embed-apps-anywhere.gif)
 

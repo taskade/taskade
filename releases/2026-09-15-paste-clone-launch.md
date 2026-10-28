@@ -1,4 +1,4 @@
-# Paste Your Website, Clone an App, Launch It
+*Published September 15, 2026.*
 
 ![Paste, clone, launch](https://www.taskade.com/static_images/newsletter-gifs/2026-04-08-storefront-lumiere-lite.gif)
 

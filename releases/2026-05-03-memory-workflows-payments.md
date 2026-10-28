@@ -1,4 +1,4 @@
-# Workspace Memory, Agent Workflows, and App Payments
+*Published May 3, 2026.*
 
 ![Workspace memory, agent workflows, and app payments](https://www.taskade.com/static_images/newsletter-gifs/2026-05-03-dna-knowledge-graph.gif)
 

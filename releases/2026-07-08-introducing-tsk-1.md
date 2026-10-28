@@ -1,4 +1,4 @@
-# Introducing TSK-1
+*Published July 8, 2026.*
 
 ![TSK-1 chooses the model](https://www.taskade.com/static_images/newsletter-gifs/2026-05-03-frontier-models-auto-routed.gif)
 

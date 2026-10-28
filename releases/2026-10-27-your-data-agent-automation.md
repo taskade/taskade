@@ -1,4 +1,4 @@
-# Your Data, Your Agent, Your Automation
+*Published October 27, 2026.*
 
 ![One prompt, one running app](https://www.taskade.com/static_images/blog/your-data-agent-automation/cover.jpg)
 

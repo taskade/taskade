@@ -1,4 +1,4 @@
-# Build It, Run It, Go Live on Your Domain
+*Published August 26, 2026.*
 
 ![Go live on your domain](https://www.taskade.com/static_images/newsletter-gifs/2025-12-01-one-prompt-one-live-app-2.gif)
 

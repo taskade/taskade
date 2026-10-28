@@ -1,4 +1,4 @@
-# One Prompt, a Working System
+*Published July 23, 2026.*
 
 ![Twelve app kits on TSK-1](https://www.taskade.com/static_images/newsletter-gifs/2026-07-15-tsk-1-intelligence.gif)
 

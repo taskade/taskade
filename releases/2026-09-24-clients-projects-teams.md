@@ -1,4 +1,4 @@
-# Your Workspace, Now an App
+*Published September 24, 2026.*
 
 ![Clients, projects, and teams](https://www.taskade.com/static_images/newsletter-gifs/project-portal-dashboard.jpg)
 

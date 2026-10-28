@@ -1,4 +1,4 @@
-# Your App, Your Domain
+*Published September 9, 2026.*
 
 ![Your app on your domain](https://www.taskade.com/static_images/newsletter-gifs/2025-12-17-buy-custom-domains.gif)
 
