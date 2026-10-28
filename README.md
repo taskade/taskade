@@ -70,8 +70,21 @@ This repo holds public docs, honest comparisons, and clone-ready App Kits. It is
 - [Use Taskade from your AI agent](#use-taskade-from-your-ai-agent) · [Claude Code plugin](#claude-code-plugin) · [Public API](#public-api)
 - [Platforms & Downloads](#-platforms--downloads) · [Integrations](#-integrations) · [Feature Comparison](#feature-comparison) · [Getting Started](#getting-started)
 - [FAQ](#faq) · [Learn & Compare](#learn--compare) · [Taskade Ecosystem](#taskade-ecosystem) · [Community](#community)
+- [Product updates](#product-updates)
 
 ---
+
+## Product updates
+
+These [releases](https://github.com/taskade/taskade/releases) are customer moments: a product email or a changelog lead, with one highlight image. They are not the daily app builds. The full history stays on the [changelog](https://www.taskade.com/changelog).
+
+| When | Update | Highlight |
+|---|---|---|
+| Oct 27, 2026 | [Your data, your agent, your automation](https://www.taskade.com/blog/your-data-agent-automation) | [Release](https://github.com/taskade/taskade/releases/tag/update-2026-10-27) |
+| Oct 16, 2026 | [TSK-Bench, the AI task leaderboard](https://www.taskade.com/blog/tsk-bench-leaderboard) | [Release](https://github.com/taskade/taskade/releases/tag/update-2026-10-16) |
+| Sep 24, 2026 | [Your workspace, now an app](https://www.taskade.com/blog/clients-projects-teams) | [Release](https://github.com/taskade/taskade/releases/tag/update-2026-09-24) |
+
+Notes for every moment live in [`releases/`](releases/README.md).
 
 ## What is Taskade?
 
