@@ -749,6 +749,7 @@ The annual row is billed annually. Every limit is shared by the workspace. Full 
 | 🔌 MCP Server | [github.com/taskade/mcp](https://github.com/taskade/mcp) |
 | 📰 Changelog | [taskade.com/changelog](https://taskade.com/changelog) |
 | 📚 Learn | [taskade.com/learn](https://taskade.com/learn) |
+| 🤖 llms.txt | [taskade.com/llms.txt](https://www.taskade.com/llms.txt) |
 
 ---
 
