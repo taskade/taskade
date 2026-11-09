@@ -2,6 +2,7 @@ name: 📄 Docs bug report
 description: Report a broken link, wrong information, or a broken image in the docs and guides in this repo
 title: "[Bug]: "
 labels: ["bug", "documentation"]
+assignees: ["deanzaka"]
 body:
   - type: markdown
     attributes:

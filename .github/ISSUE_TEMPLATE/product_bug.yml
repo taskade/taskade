@@ -2,6 +2,7 @@ name: 🐞 Product bug (taskade.com)
 description: Report something broken in the Taskade app, a Genesis app, an agent, or an automation
 title: "[Product]: "
 labels: ["bug", "product"]
+assignees: ["deanzaka"]
 body:
   - type: markdown
     attributes:
