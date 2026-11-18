@@ -50,9 +50,66 @@
 
 </div>
 
+## What you can build
+
+Apps, AI agents, automations, and your data, in one workspace. Each block opens its page.
+
+<table>
+<tr>
+<td align="center" valign="top" width="25%">
+<a href="https://www.taskade.com/ai/apps"><img src="https://www.taskade.com/static_images/marketing-dashboard.gif" width="200" alt="A prompt builds a marketing dashboard app, then its projects, AI agents and an automation flow appear."></a><br>
+<b><a href="https://www.taskade.com/ai/apps">Apps from a prompt</a></b><br>
+<sub>Describe it. Get a live app.</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://www.taskade.com/ai/agents"><img src="https://www.taskade.com/static_images/newsletter-gifs/2026-05-03-agent-workflows-tools.gif" width="200" alt="An AI agent gets its tools switched on, then answers visitors as a chat widget on a website."></a><br>
+<b><a href="https://www.taskade.com/ai/agents">AI agents</a></b><br>
+<sub>Agents that use tools and answer anywhere.</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://www.taskade.com/ai/automations"><img src="media/automations/automation-flows.gif" width="200" alt="A one-line prompt becomes a five-step automation with a trigger and its actions."></a><br>
+<b><a href="https://www.taskade.com/ai/automations">Automations</a></b><br>
+<sub>A prompt becomes a running workflow.</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://www.taskade.com/integrations"><img src="https://www.taskade.com/static_images/newsletter-gifs/2025-12-17-connect-100-integrations.gif" width="200" alt="A prompt adds a branched Stripe order flow to a shopping cart app."></a><br>
+<b><a href="https://www.taskade.com/integrations">100+ integrations</a></b><br>
+<sub>Connect Stripe, Gmail, Slack and more.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="25%">
+<a href="https://www.taskade.com/learn/projects"><img src="https://www.taskade.com/static_images/workspace-dna.gif" width="200" alt="One app with its agent chat, a projects table of event registrations, an automation list and a branched flow."></a><br>
+<b><a href="https://www.taskade.com/learn/projects">Projects and data</a></b><br>
+<sub>Your data in multiple project views.</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://www.taskade.com/learn/genesis/publishing"><img src="https://www.taskade.com/static_images/newsletter-gifs/2025-12-30-the-taskade-genesis-loop.gif" width="200" alt="The same published app runs on a phone and on a desktop browser."></a><br>
+<b><a href="https://www.taskade.com/learn/genesis/publishing">Publish and share</a></b><br>
+<sub>App sign-in. Custom domains on Pro and up.</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://www.taskade.com/apps"><img src="https://www.taskade.com/static_images/newsletter-gifs/2026-04-14-app-kits-share-publish.gif" width="200" alt="A recipe planner App Kit open in the Taskade App Factory, with a Clone app kit button."></a><br>
+<b><a href="https://www.taskade.com/apps">App Kits to clone</a></b><br>
+<sub>Clone a finished app and make it yours.</sub>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://www.taskade.com/docs/mcp"><b>Your AI agent, connected</b></a><br>
+<pre>Set up Taskade for me.
+Read and follow
+https://www.taskade.com/SKILL.md</pre>
+<sub>Hosted MCP server and agent skills.</sub>
+</td>
+</tr>
+</table>
+
+➡️ [**Build an app from a prompt →**](https://www.taskade.com/create) · [**Browse the Taskade App Factory →**](https://www.taskade.com/apps) · [**Connect your AI agent →**](#use-taskade-from-your-ai-agent)
+
+---
+
 ## Contents
 
-- [What is Taskade?](#what-is-taskade) · [Why Taskade](#why-taskade-build-without-permission) · [Key Features](#key-features)
+- [What you can build](#what-you-can-build) · [What is Taskade?](#what-is-taskade) · [Why Taskade](#why-taskade-build-without-permission) · [Key Features](#key-features)
 - [AI App Builder](#-taskade-genesis-ai-app-builder) · [AI Agents](#-ai-agents) · [Workflow Automation](#-workflow-automation) · [Collaboration & Views](#-collaboration--views) · [Knowledge & AI Training](#-knowledge--ai-training)
 - [Use Taskade from your AI agent](#use-taskade-from-your-ai-agent) · [Claude Code plugin](#claude-code-plugin) · [Public API](#public-api)
 - [Platforms & Downloads](#-platforms--downloads) · [Integrations](#-integrations) · [Feature Comparison](#feature-comparison) · [Getting Started](#getting-started)
