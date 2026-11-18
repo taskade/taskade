@@ -55,6 +55,8 @@ Say you want a bot called **Team Pulse** that runs daily check-ins and answers t
 - **Telegram** — for fast, mobile-first conversations.
 - **Taskade** — embedded right in your workspace, next to the projects it knows about.
 
+Slack, Discord, and Telegram are premium integrations, so they need a paid plan.
+
 That word — *deploy* — is the point. The agent goes live and starts working in the tools you already use, instead of being one more place to check.
 
 For daily check-ins, Team Pulse can ask each person what they're working on, collect the answers, and roll them into a summary — so a standup happens without a meeting. For support, it fields the repetitive questions instantly and only hands off the genuinely tricky ones to a human. If you want to go deeper on the support angle — routing, escalation, drawing on your help docs — see [AI agents for customer support](../use-cases/ai-agents-for-customer-support.md).
@@ -139,7 +141,7 @@ A realistic first afternoon, for a non-technical founder:
 1. **Describe your agent.** "Build me a support chatbot named Team Pulse, trained on my help docs, that runs a daily check-in." Deploy it into Slack.
 2. **Describe your shop.** "Build an online store for my product line with a dashboard showing inventory and orders side by side, Stripe checkout, and an alert when stock is low." Connect your Stripe account.
 3. **Describe your invoicing.** "Generate branded invoice PDFs from my project notes, show me payment status, and send friendly reminders when an invoice is overdue."
-4. **Publish.** Each app goes live on a URL — and on your own custom domain when you're ready.
+4. **Publish.** Each app goes live on a URL — and on your own custom domain (Pro and up) when you're ready.
 
 You wrote sentences. Genesis built apps. The agent is answering questions, the shop is taking orders, and the invoices are getting paid — and you didn't open a code editor or hire anyone.
 
@@ -159,17 +161,17 @@ No fabricated conversion rates, no invented testimonials. The capabilities above
 
 ---
 
-## Clone a ready-made app kit
+## Clone a ready-made App Kit
 
 Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
 
-| App kit | What it does | |
+| App Kit | What it does | |
 |---|---|---|
 | **[Support Agent](https://www.taskade.com/share/apps/et6hqn2e00ayy26n)** | AI-first ticket triage that answers around the clock. | [Clone →](https://www.taskade.com/share/apps/et6hqn2e00ayy26n) |
 | **[Sales Agent Studio](https://www.taskade.com/share/apps/uo9fc7tfidydkdw9)** | Your always-on AI sales rep, working leads in the background. | [Clone →](https://www.taskade.com/share/apps/uo9fc7tfidydkdw9) |
 | **[Inventory Management](https://www.taskade.com/share/apps/94o8cjl33yz7z8ke)** | Track SKUs and stock with low-stock alerts. | [Clone →](https://www.taskade.com/share/apps/94o8cjl33yz7z8ke) |
 
-Browse all of them in the [App Kits Gallery →](app-kits.md).
+Browse all of them in the [clone-ready App Kits →](app-kits.md).
 
 ---
 

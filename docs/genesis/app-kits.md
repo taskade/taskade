@@ -1,10 +1,10 @@
 # Clone-Ready App Kits — Taskade Genesis
 
-Start from a finished app, not a blank page. Every app kit below is a **real, live [Taskade Genesis](https://www.taskade.com/ai/apps) app** — open it, click **Clone**, and you have your own working copy in about a minute. Each one ships complete with its data, AI agents, and automations already wired up. Then make it yours: rename it, add your data, [add a login](../use-cases/clone-and-customize-apps.md), and publish it on your own domain.
+Start from a finished app, not a blank page. Every App Kit below is a **real, live [Taskade Genesis](https://www.taskade.com/ai/apps) app** — open it, click **Clone**, and you have your own working copy in about a minute. Each one ships complete with its data, AI agents, and automations already wired up. Then make it yours: rename it, add your data, [add a login](../use-cases/clone-and-customize-apps.md), and publish it on your own domain.
 
 > **Three ways to start:** describe what you want and have it built, **clone one of the kits below**, or hire a pre-built AI agent (a CFO, CMO, COO, or CEO role) to run it for you.
 
-These are picks from **Team Taskade**. There are 150+ more in the [Apps gallery](https://www.taskade.com/apps) and from [community creators](https://www.taskade.com).
+These are picks from **Team Taskade**. There are many more in the [Taskade App Factory](https://www.taskade.com/apps), from [community creators](https://www.taskade.com/apps/creators).
 
 ---
 
@@ -56,12 +56,11 @@ Content, campaigns, social proof, and analytics. Pairs with [AI Agents for Marke
 
 ## 🔧 Run the backend — the operations stack
 
-Inventory, fleets, capacity, and headcount — the mission-critical machinery.
+Inventory, fleets, and headcount — the mission-critical machinery.
 
 | | |
 |---|---|
 | [<img src="../../media/app-kits/fleet-management.png" width="340" alt="Fleet Management">](https://www.taskade.com/share/apps/4q6dihgsjc5sttbr) | **[Fleet Management](https://www.taskade.com/share/apps/4q6dihgsjc5sttbr)**<br>Track assets, maintenance schedules, and routes.<br>[Clone this app →](https://www.taskade.com/share/apps/4q6dihgsjc5sttbr) |
-| [<img src="../../media/app-kits/team-capacity-planner.png" width="340" alt="Team Capacity Planner">](https://www.taskade.com/share/apps/8oye4ehejlokelxb) | **[Team Capacity Planner](https://www.taskade.com/share/apps/8oye4ehejlokelxb)**<br>See who's doing what, and when — and balance the load.<br>[Clone this app →](https://www.taskade.com/share/apps/8oye4ehejlokelxb) |
 | [<img src="../../media/app-kits/hr-dashboard.png" width="340" alt="HR Dashboard">](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb) | **[HR Dashboard](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb)**<br>Manage headcount, reviews, and leave in one place.<br>[Clone this app →](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb) |
 
 ---
@@ -71,7 +70,7 @@ Inventory, fleets, capacity, and headcount — the mission-critical machinery.
 1. **Open** any app above and click **Clone** — you get your own copy in about a minute, agents and automations included.
 2. **Make it yours** — rename it, add your data, and tweak the workflow to match how you actually work.
 3. **[Add a login](../use-cases/clone-and-customize-apps.md)** so the right people can use it — no backend to set up.
-4. **Publish** on your own custom domain and share the link.
+4. **Publish** on your own custom domain (Pro and up) and share the link.
 
 No code. No setup. No starting from scratch.
 
@@ -82,4 +81,4 @@ No code. No setup. No starting from scratch.
 - [Build a CRM with AI](build-a-crm-with-ai.md) · [Build a Helpdesk with AI](build-a-helpdesk-with-ai.md) · [Build a Storefront with AI](build-a-storefront-with-ai.md)
 - [What's New in Taskade Genesis](whats-new.md)
 
-**Ready to start?** [Clone an app kit](https://www.taskade.com/apps) or [build your own from a prompt →](https://www.taskade.com/ai/apps)
+**Ready to start?** [Clone an App Kit](https://www.taskade.com/apps) or [build your own from a prompt →](https://www.taskade.com/ai/apps)

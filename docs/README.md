@@ -49,7 +49,7 @@ Also on taskade.com: [Developer docs](https://www.taskade.com/docs) · [Learn & 
 | [Build a Helpdesk with AI](genesis/build-a-helpdesk-with-ai.md) | Tickets, a knowledge base, triage agents, and a customer portal. |
 | [Build a Storefront with AI](genesis/build-a-storefront-with-ai.md) | A catalog, Stripe checkout, orders, and a sales dashboard. |
 | [Deploy Agents & Launch Shops](genesis/deploy-agents-launch-shops.md) | Deploy chatbot agents, run a shop, and automate payments — the deploy → sell → get-paid loop. |
-| [Clone-Ready App Kits](genesis/app-kits.md) | A gallery of 20+ live apps to clone in ~60 seconds across sales, support, marketing, and ops. |
+| [Clone-Ready App Kits](genesis/app-kits.md) | A list of 20 live App Kits to clone in ~60 seconds across sales, support, marketing, and ops. |
 | [What's New in Taskade Genesis](genesis/whats-new.md) | Release highlights — multi-agent workspace, memory, app payments, cloning, and more. |
 
 ## 🧰 Free AI Tools
@@ -82,8 +82,8 @@ Also on taskade.com: [Developer docs](https://www.taskade.com/docs) · [Learn & 
 ## Start building
 
 - 🚀 **[Open Genesis →](https://www.taskade.com/ai/apps)** — describe your app and watch it come to life.
-- 🧩 **[Browse templates →](https://www.taskade.com/templates)** — clone a finished app and make it yours.
-- 🗂️ **[Clone-Ready App Kits →](genesis/app-kits.md)** — 20+ live apps to clone in about a minute.
+- 🧩 **[Browse the Taskade App Factory →](https://www.taskade.com/apps)** — clone a finished app and make it yours.
+- 🗂️ **[Clone-Ready App Kits →](genesis/app-kits.md)** — 20 live apps to clone in about a minute.
 - 📖 **[Read the Genesis story →](https://www.taskade.com/blog/introducing-taskade-genesis)**
 - 🛠️ **[Developer docs & API →](https://www.taskade.com/docs)**
 
