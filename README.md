@@ -811,6 +811,12 @@ Join the Taskade community of builders, makers, and teams:
 ## FAQ
 
 <details>
+<summary><b>What is Taskade Genesis?</b></summary>
+<br>
+Taskade Genesis is the AI app builder inside Taskade: one prompt becomes a live app with its own data, AI agents, and automations. Taskade EVE builds the projects, agents, automations, and interface, and Taskade hosts the app for you. <a href="https://www.taskade.com/learn/genesis/overview">Read the Taskade Genesis overview →</a>
+</details>
+
+<details>
 <summary><b>Can I build an app without coding?</b></summary>
 <br>
 Yes. Taskade Genesis builds complete apps from natural language prompts. Describe what you need ("Build me a CRM with pipeline and email automation") and get a production-ready app in 2-15 minutes. No code, no deployment, no hosting. 150,000+ apps built this way since October 2025.
@@ -819,7 +825,7 @@ Yes. Taskade Genesis builds complete apps from natural language prompts. Describ
 <details>
 <summary><b>How does Taskade compare to Cursor, Bolt, or Lovable?</b></summary>
 <br>
-Taskade Genesis creates deployed, intelligent living systems with built-in AI agents, workflow automations, and databases. Apps are live instantly. Pricing starts at $0/month.
+Taskade Genesis gives you a live, hosted app, not only source code. It creates deployed, intelligent living systems with built-in AI agents, workflow automations, and databases. Apps are live instantly. Pricing starts at $0/month.
 </details>
 
 <details>
@@ -841,15 +847,27 @@ Yes. Train agents on PDFs, DOCX, XLSX, web links, YouTube videos, and Taskade pr
 </details>
 
 <details>
+<summary><b>What can Taskade AI agents do?</b></summary>
+<br>
+Taskade AI agents answer from your knowledge, use tools such as web search and file reading, and act on your projects. You can run several agents as a team, call one from an automation, or embed one on your website as a chat widget. <a href="https://www.taskade.com/ai/agents">Explore the AI Agent Builder →</a>
+</details>
+
+<details>
 <summary><b>Can I use Taskade with Claude, ChatGPT, Cursor, or another AI agent?</b></summary>
 <br>
 Yes. Add the hosted <a href="https://github.com/taskade/mcp">Taskade MCP server</a> at <code>https://www.taskade.com/mcp</code>, or install the Taskade plugin in Claude Code. Your agent gets tools for workspaces, projects, tasks, AI agents, and knowledge, and it can run a "When asked" automation. MCP access needs a paid plan. <a href="#use-taskade-from-your-ai-agent">How to connect →</a>
 </details>
 
 <details>
+<summary><b>How do I connect Claude Code or Cursor to Taskade?</b></summary>
+<br>
+In Claude Code, run <code>claude plugin marketplace add taskade/mcp</code> and <code>claude plugin install taskade@taskade</code>, then sign in from <code>/mcp</code>. In Cursor, add the hosted MCP server <code>https://www.taskade.com/mcp</code> and sign in with your Taskade account. The hosted MCP server is part of every paid plan. <a href="https://www.taskade.com/docs/mcp">Read the MCP docs →</a>
+</details>
+
+<details>
 <summary><b>What is Workspace DNA?</b></summary>
 <br>
-Taskade's architecture where three pillars form a self-reinforcing loop: <b>Memory</b> (Projects) feeds <b>Intelligence</b> (AI Agents), Intelligence triggers <b>Execution</b> (Automations), Execution creates new Memory. This is what makes Taskade apps "living software."
+Workspace DNA is Taskade's architecture, where three pillars form a self-reinforcing loop: <b>Memory</b> (Projects) feeds <b>Intelligence</b> (AI Agents), Intelligence triggers <b>Execution</b> (Automations), Execution creates new Memory. This is what makes Taskade apps "living software."
 </details>
 
 <details>
@@ -867,19 +885,25 @@ Agentic engineering (coined by Andrej Karpathy, Feb 2026) means orchestrating AI
 <details>
 <summary><b>Is there a free plan?</b></summary>
 <br>
-Yes. Free includes 2 workspace members, 1 AI agent, and 3 Taskade Genesis apps. No credit card required. Free starts with 0 AI credits: you earn free credits by inviting a friend or a teammate, or by sharing Taskade, and you can upgrade any time. Pro is $10/mo billed annually, with 10 users and 50,000 credits a month. [Compare plans →](https://www.taskade.com/pricing)
+Yes. Free includes 2 workspace members, 1 AI agent, and 3 Taskade Genesis apps. No credit card required. Free starts with 0 AI credits: you earn free credits by inviting a friend or a teammate, or by sharing Taskade, and you can upgrade any time. Pro is $10/mo billed annually, with 10 users and 50,000 credits a month. <a href="https://www.taskade.com/pricing">Compare plans →</a>
 </details>
 
 <details>
 <summary><b>How do I migrate from Notion, Asana, or other tools?</b></summary>
 <br>
-One-click import from 30+ tools: Notion, Trello, Asana, Monday.com, ClickUp, Todoist, Obsidian, Google Docs, Apple Reminders, and more.
+Use one-click import. Taskade imports from 30+ tools: Notion, Trello, Asana, Monday.com, ClickUp, Todoist, Obsidian, Google Docs, Apple Reminders, and more.
 </details>
 
 <details>
 <summary><b>What can I build with Taskade Genesis?</b></summary>
 <br>
-CRMs, client portals, dashboards, invoice systems, booking apps, habit trackers, project trackers, knowledge bases, chatbots, landing pages, storefronts, forms, and any business tool, from a single prompt. <a href="https://www.taskade.com/create">Try it now →</a>
+You can build CRMs, client portals, dashboards, invoice systems, booking apps, habit trackers, project trackers, knowledge bases, chatbots, landing pages, storefronts, forms, and any business tool, from a single prompt. <a href="https://www.taskade.com/create">Try it now →</a>
+</details>
+
+<details>
+<summary><b>What is an App Kit?</b></summary>
+<br>
+An App Kit is a Taskade Genesis app that its creator shares for cloning, with its interface, projects, AI agents, and automations. Open one in the Taskade App Factory, look inside, and clone an editable copy into your workspace. Connected accounts and secrets are not copied. <a href="https://www.taskade.com/apps">Browse the Taskade App Factory →</a>
 </details>
 
 ---
