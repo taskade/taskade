@@ -113,7 +113,7 @@ https://www.taskade.com/SKILL.md</pre>
 - [AI App Builder](#-taskade-genesis-ai-app-builder) · [AI Agents](#-ai-agents) · [Workflow Automation](#-workflow-automation) · [Collaboration & Views](#-collaboration--views) · [Knowledge & AI Training](#-knowledge--ai-training)
 - [Use Taskade from your AI agent](#use-taskade-from-your-ai-agent) · [Claude Code plugin](#claude-code-plugin) · [Public API](#public-api)
 - [Platforms & Downloads](#-platforms--downloads) · [Integrations](#-integrations) · [Feature Comparison](#feature-comparison) · [Getting Started](#getting-started)
-- [FAQ](#faq) · [Learn & Compare](#learn--compare) · [Taskade Ecosystem](#taskade-ecosystem) · [Community](#community)
+- [FAQ](#faq) · [Learn & Compare](#learn--compare) · [Taskade Ecosystem](#taskade-ecosystem) · [Taskade Links](#taskade-links) · [Community](#community)
 
 ---
 
@@ -985,6 +985,43 @@ Taskade is more than this repo. Explore the rest of the ecosystem (and star what
 ### Star history
 
 [![Star History Chart](https://api.star-history.com/svg?repos=taskade/taskade,taskade/mcp,taskade/awesome-vibe-coding,taskade/docs&type=Date)](https://star-history.com/#taskade/taskade&taskade/mcp&taskade/awesome-vibe-coding&taskade/docs&Date)
+
+---
+
+## Taskade Links
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**On taskade.com**
+
+- [Taskade home page](https://www.taskade.com)
+- [Build an app with Taskade Genesis](https://www.taskade.com/create)
+- [Taskade App Factory: live apps and App Kits](https://www.taskade.com/apps)
+- [Taskade pricing](https://www.taskade.com/pricing)
+- [Taskade developer docs](https://www.taskade.com/docs)
+- [Taskade MCP server docs](https://www.taskade.com/docs/mcp)
+- [Taskade changelog](https://www.taskade.com/changelog)
+- [Taskade blog](https://www.taskade.com/blog)
+- [Taskade templates](https://www.taskade.com/templates)
+
+</td>
+<td valign="top" width="50%">
+
+**On GitHub**
+
+- [taskade/mcp: the Taskade MCP server and agent plugin](https://github.com/taskade/mcp)
+- [taskade/skills: agent skills for Taskade](https://github.com/taskade/skills)
+- [taskade/docs: source of the Taskade docs](https://github.com/taskade/docs)
+- [taskade/integrations: the Taskade Integration Kit for Zapier, n8n and Make](https://github.com/taskade/integrations)
+- [taskade/awesome-vibe-coding: a curated list of vibe-coding tools](https://github.com/taskade/awesome-vibe-coding)
+- [taskade/taskade-sample-app: a template for your own App Kit](https://github.com/taskade/taskade-sample-app)
+- [taskade/tasks.md: the build ledger a coding agent keeps](https://github.com/taskade/tasks.md)
+
+</td>
+</tr>
+</table>
 
 ---
 
