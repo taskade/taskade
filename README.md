@@ -86,7 +86,7 @@ Built on **Workspace DNA**: three interconnected pillars that make every workspa
 
 Taskade is not a static tool. It's **living software**, where every app you create is connected to your data, powered by AI, and automated from day one.
 
-> **TL;DR:** Taskade Genesis is an AI app builder that delivers living software with built-in agents, automations, and 100+ integrations. 150,000+ apps built since launch. One prompt to production. Starting at $0/month. [Try it free →](https://www.taskade.com/create)
+> **TL;DR:** Taskade Genesis is the only AI app builder that delivers living software with built-in agents, automations, and 100+ integrations. 150,000+ apps built since launch. One prompt to production. Starting at $0/month. [Try it free →](https://www.taskade.com/create)
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
@@ -689,7 +689,11 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 
 <div align="center">
 
-**Teams at leading companies use Taskade to build, automate, and collaborate.**
+**[Teams at leading companies](https://www.taskade.com/reviews) use Taskade to build, automate, and collaborate.**
+
+<br>
+
+**3M** · **Nike** · **Tesla** · **Netflix** · **Airbnb** · **Disney** · **Adobe** · **ESPN** · **Booking.com** · **Lyft**
 
 <br>
 
@@ -701,6 +705,8 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 <br>
 
 **Y Combinator S19** · **Product Hunt #1 Product of the Day** · **G2 High Performer**
+
+Rated **4.7/5** on Capterra · Product Hunt, and **4.6/5** on Trustpilot
 
 </div>
 
