@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="media/logo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="media/logo-light.png">
-  <img alt="Taskade" src="media/logo-dark.png" width="400">
+  <img alt="The Taskade logo." src="media/logo-dark.png" width="400">
 </picture>
 
 ### The AI-Native Workspace Platform.<br>Build Apps. Deploy Agents. Automate Workflows. From One Prompt.
@@ -22,23 +22,23 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/taskade.com-FF2D60?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDdWMTdMMTIgMjJMMjAgMTdWN0wxMiAyWiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+&logoColor=white)](https://www.taskade.com)
-[![API Docs](https://img.shields.io/badge/API_Docs-333?style=for-the-badge)](https://www.taskade.com/docs)
-[![MCP Server](https://img.shields.io/badge/MCP_Server-333?style=for-the-badge)](https://github.com/taskade/mcp)
-[![Changelog](https://img.shields.io/badge/Changelog-333?style=for-the-badge)](https://www.taskade.com/changelog)
+[![Badge that opens taskade.com.](https://img.shields.io/badge/taskade.com-FF2D60?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDdWMTdMMTIgMjJMMjAgMTdWN0wxMiAyWiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+&logoColor=white)](https://www.taskade.com)
+[![Badge that opens the Taskade API docs.](https://img.shields.io/badge/API_Docs-333?style=for-the-badge)](https://www.taskade.com/docs)
+[![Badge that opens the Taskade MCP server repo.](https://img.shields.io/badge/MCP_Server-333?style=for-the-badge)](https://github.com/taskade/mcp)
+[![Badge that opens the Taskade changelog.](https://img.shields.io/badge/Changelog-333?style=for-the-badge)](https://www.taskade.com/changelog)
 
 **For developers and AI agents:** [Claude Code plugin](#claude-code-plugin) · [SKILL.md](https://www.taskade.com/SKILL.md) · [Hosted MCP server](https://www.taskade.com/mcp) · [REST API](https://www.taskade.com/api/documentation/v2) · [llms.txt](https://www.taskade.com/llms.txt)
 
 <br>
 
-[![Web](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://www.taskade.com)
-[![macOS](https://img.shields.io/badge/macOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/taskade/id1490048917)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://www.taskade.com/downloads)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.taskade.com/downloads)
-[![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/taskade-ai-agents-to-do-lists/id1264713923)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.taskade.mobile)
-[![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/)
+[![Badge for Taskade on the web.](https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://www.taskade.com)
+[![Badge for Taskade on macOS.](https://img.shields.io/badge/macOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/taskade/id1490048917)
+[![Badge for Taskade on Windows.](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://www.taskade.com/downloads)
+[![Badge for Taskade on Linux.](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.taskade.com/downloads)
+[![Badge for Taskade on iOS.](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/taskade-ai-agents-to-do-lists/id1264713923)
+[![Badge for Taskade on Android.](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.taskade.mobile)
+[![Badge for the Taskade Chrome extension.](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf)
+[![Badge for the Taskade Firefox add-on.](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/)
 
 </div>
 
@@ -123,7 +123,7 @@ https://www.taskade.com/SKILL.md</pre>
 
 Built on **Workspace DNA**: three interconnected pillars that make every workspace alive:
 
-| <img src="media/screenshots/projects-memory.jpg" width="280" alt="Projects as Memory"> | <img src="media/screenshots/agents-intelligence.jpg" width="280" alt="AI Agents as Intelligence"> | <img src="media/screenshots/automations-execution.jpg" width="280" alt="Automations as Execution"> |
+| <img src="media/screenshots/projects-memory.jpg" width="280" alt="A Taskade project table of analytics metrics grouped by category, next to the app chat with Taskade EVE."> | <img src="media/screenshots/agents-intelligence.jpg" width="280" alt="The settings of an Analytics Assistant AI agent, with its name and role instructions."> | <img src="media/screenshots/automations-execution.jpg" width="280" alt="A branched automation flow inside a Taskade Genesis analytics app."> |
 |:---:|:---:|:---:|
 | **Projects as Memory** | **AI Agents as Intelligence** | **Automations as Execution** |
 | Structure, context, and knowledge that persist across your workspace | Autonomous agents that reason, plan, and execute tasks 24/7 | Triggers, actions, and workflows that keep everything running |
@@ -215,19 +215,19 @@ What that means in practice:
 > **Describe any business need in plain English. Watch Genesis create complete applications with AI agents, real-time data, and automation workflows. Your ideas become working software in minutes.**
 
 <div align="center">
-  <img src="media/screenshots/genesis-split-view.jpg" alt="Taskade Genesis AI app builder: prompt to live app" width="800">
+  <img src="media/screenshots/genesis-split-view.jpg" alt="Taskade Genesis shows the plan of a restaurant discovery app on the left and the live app with a map on the right." width="800">
 </div>
 
 <br>
 
 | Build Apps From One Prompt | AI Agents That Think | Workflows That Run |
 |:---:|:---:|:---:|
-| <img src="media/genesis/create-app.gif" width="280" alt="Build App in Minutes"> | <img src="media/agents/agent-generator.gif" width="280" alt="AI Agent Generator"> | <img src="media/automations/automation-flows.gif" width="280" alt="Automation Flows"> |
+| <img src="media/genesis/create-app.gif" width="280" alt="Taskade Genesis builds a team dashboard app from a prompt, then opens the projects table behind it."> | <img src="media/agents/agent-generator.gif" width="280" alt="A one-line description in Generate Your AI Agent becomes a social media planner agent with instructions and tools."> | <img src="media/automations/automation-flows.gif" width="280" alt="A one-line prompt becomes a five-step automation with a trigger and its actions."> |
 | Dashboards, CRMs, portals, and forms, generated in seconds | Agents that reason, plan, and execute tasks autonomously | Multi-step flows with triggers, actions, and branching |
 
 | Taskade App Factory | Model Selection | Publish & Share |
 |:---:|:---:|:---:|
-| <img src="media/screenshots/community-gallery.jpg" width="280" alt="Taskade App Factory"> | <img src="media/screenshots/model-selector.jpg" width="280" alt="AI Model Selection"> | <img src="media/screenshots/app-publish.jpg" width="280" alt="Publish & Share Apps"> |
+| <img src="media/screenshots/community-gallery.jpg" width="280" alt="A grid of live apps in the Taskade App Factory, such as an HR dashboard, a room booking dashboard and a QR code studio."> | <img src="media/screenshots/model-selector.jpg" width="280" alt="The model menu in the Taskade Genesis prompt box, with Auto recommended and Standard, Thinking and Reasoning modes."> | <img src="media/screenshots/app-publish.jpg" width="280" alt="The publish panel of an analytics dashboard app, with visibility, branding, password and custom domain settings."> |
 | Browse and clone App Kits from the Taskade App Factory | Frontier models from top AI labs | Publish live apps with custom branding and domains |
 
 **What you can build with Genesis:**
@@ -247,18 +247,18 @@ What that means in practice:
 
 | Client Portal | CRM Dashboard | Shopify-Style Storefront |
 |:---:|:---:|:---:|
-| <img src="media/apps/client-portal.gif" width="280" alt="Client portal with project tracking built with Taskade Genesis"> | <img src="media/apps/crm-dashboard.gif" width="280" alt="CRM for sales teams built with Taskade Genesis"> | <img src="media/apps/storefront.gif" width="280" alt="Shopify-style storefront built with Taskade Genesis"> |
+| <img src="media/apps/client-portal.gif" width="280" alt="A client portal app built with Taskade Genesis, shown with the projects and agents that run it."> | <img src="media/apps/crm-dashboard.gif" width="280" alt="A CRM app for sales teams built with Taskade Genesis, with pipeline charts, shown with the workspace that runs it."> | <img src="media/apps/storefront.gif" width="280" alt="A storefront app built with Taskade Genesis shows a candle product, a cart and a checkout page."> |
 | Project tracking, file sharing, real-time updates | Pipeline, leads, deals, automated outreach | Product catalog, cart, checkout, from one prompt |
 
 | Habit Tracker | Project Tracker | Company Knowledge Base |
 |:---:|:---:|:---:|
-| <img src="media/apps/habit-tracker.gif" width="280" alt="Habit tracker with streaks built with Taskade Genesis"> | <img src="media/apps/project-tracker.gif" width="280" alt="Project tracker built with Taskade Genesis"> | <img src="media/apps/knowledge-base.gif" width="280" alt="Company knowledge base built with Taskade Genesis"> |
+| <img src="media/apps/habit-tracker.gif" width="280" alt="A habit tracker app built with Taskade Genesis, with a streak grid and a form to add a habit."> | <img src="media/apps/project-tracker.gif" width="280" alt="A project tracker app built with Taskade Genesis, with a dashboard, a board and a task table."> | <img src="media/apps/knowledge-base.gif" width="280" alt="A company knowledge base app built with Taskade Genesis, with a knowledge graph and an agent that searches company docs."> |
 | Daily habits with streaks, analytics, reminders | Multi-view tracker with Gantt, board, and table | AI-powered search across all company docs |
 
 **Take payments from day one.** Taskade Genesis apps come with built-in Stripe checkout. Sell products, accept deposits, or run a storefront without wiring up a payment gateway yourself.
 
 <div align="center">
-  <a href="https://www.taskade.com/ai/apps"><img src="media/apps/app-payments.gif" width="640" alt="Accept Stripe payments in a Taskade Genesis storefront app"></a>
+  <a href="https://www.taskade.com/ai/apps"><img src="media/apps/app-payments.gif" width="640" alt="A Taskade Genesis storefront app takes a Stripe payment, then the branched order flow behind it appears."></a>
   <br>
   <sub>Stripe checkout in a Genesis storefront: from one prompt to a live, paid order.</sub>
 </div>
@@ -270,20 +270,20 @@ What that means in practice:
 > **Create intelligent AI agents that reason through problems, execute workflows, and work 24/7. Train them on your business, deploy them everywhere, and watch them handle complex tasks autonomously.**
 
 <div align="center">
-  <img src="media/screenshots/agent-training.jpg" alt="Taskade AI Agent Training Interface" width="800">
+  <img src="media/screenshots/agent-training.jpg" alt="The knowledge settings of an AI agent, with trained sources from projects, files, web links and cloud storage." width="800">
 </div>
 
 <br>
 
 | Custom AI Agents | Multi-Agent Collaboration | Agent Tools |
 |:---:|:---:|:---:|
-| <img src="media/agents/agent-generator.gif" width="280" alt="AI Agent Generator"> | <img src="media/agents/customize-agent.gif" width="280" alt="Multi-Agent Collaboration"> | <img src="media/features/ai-agents-tools.gif" width="280" alt="AI Agent Tools"> |
+| <img src="media/agents/agent-generator.gif" width="280" alt="A one-line description in Generate Your AI Agent becomes a social media planner agent with instructions and tools."> | <img src="media/agents/customize-agent.gif" width="280" alt="An AI agent inside a Taskade Genesis app gets its settings changed and is published with a chat preview."> | <img src="media/features/ai-agents-tools.gif" width="280" alt="An AI agent in a Taskade project drafts a job description and a recruitment plan."> |
 | Build agents trained on your data and workflows | Teams of agents that brainstorm, draft, and execute together | Web scraping, search, file processing, and 100+ connectors |
 
 **Watch a multi-agent team run.** Assign a goal and a team of agents plans, delegates, and executes together: researching, drafting, and handing off work without you driving each step.
 
 <div align="center">
-  <a href="https://www.taskade.com/ai/apps"><img src="media/agents/multi-agent-run.gif" width="640" alt="A multi-agent team planning and executing a task together in Taskade"></a>
+  <a href="https://www.taskade.com/ai/apps"><img src="media/agents/multi-agent-run.gif" width="640" alt="An AI agent gets its tools switched on, then answers visitors as a chat widget on a website."></a>
   <br>
   <sub>A multi-agent team reasoning, delegating, and executing a task end to end.</sub>
 </div>
@@ -309,14 +309,14 @@ What that means in practice:
 > **Automate anything. Trigger actions from form submissions, updates, emails, or integrations, without lifting a finger.**
 
 <div align="center">
-  <img src="media/screenshots/automation-builder.jpg" alt="Taskade Automation Builder Interface" width="800">
+  <img src="media/screenshots/automation-builder.jpg" alt="A branched automation flow that checks team capacity and sends alert and summary emails through Gmail." width="800">
 </div>
 
 <br>
 
 | Automation Workflows | AI Task Prioritization | Slash Commands |
 |:---:|:---:|:---:|
-| <img src="media/automations/automation-flows.gif" width="280" alt="Automation Workflows"> | <img src="media/features/ai-prioritize-tasks.gif" width="280" alt="AI Task Prioritization"> | <img src="media/features/slash-commands.gif" width="280" alt="Taskade Slash Commands"> |
+| <img src="media/automations/automation-flows.gif" width="280" alt="A one-line prompt becomes a five-step automation with a trigger and its actions."> | <img src="media/features/ai-prioritize-tasks.gif" width="280" alt="Taskade AI prioritizes the tasks of a project from the AI action menu."> | <img src="media/features/slash-commands.gif" width="280" alt="A slash command in a Taskade project adds a due date to a task."> |
 | Multi-step flows with triggers, actions, and branching | AI prioritizes and organizes tasks automatically | Quick AI actions within any document |
 
 **Automation capabilities:**
@@ -340,7 +340,7 @@ What that means in practice:
 
 | List View | Board View | Mind Map View |
 |:---:|:---:|:---:|
-| <img src="media/views/list-view.png" width="280" alt="Taskade List View"> | <img src="media/views/board-view.png" width="280" alt="Taskade Board View"> | <img src="media/views/mindmap-view.png" width="280" alt="Taskade Mind Map View"> |
+| <img src="media/views/list-view.png" width="280" alt="A meeting agenda project in List view, with goals, ideas and tasks, next to the project chat."> | <img src="media/views/board-view.png" width="280" alt="A product launch roadmap in Board view, with a column for each sprint."> | <img src="media/views/mindmap-view.png" width="280" alt="A project in Mind Map view, with branches for goals, ideas and tasks."> |
 | Structured task lists with hierarchy and nesting | Kanban boards for visual workflow management | Visual brainstorming and idea mapping |
 
 **Project views:** List · Board · Table · Mind Map · Calendar · Gantt Chart · Org Chart · and more
@@ -367,7 +367,7 @@ What that means in practice:
 Everything you create becomes context. Projects, notes, and uploaded knowledge form a living memory graph that your agents draw on, so answers stay grounded in your work and get sharper the more you build.
 
 <div align="center">
-  <a href="https://www.taskade.com/ai/apps"><img src="media/features/workspace-memory.gif" width="640" alt="Workspace Memory graph connecting projects, notes, and agents in Taskade"></a>
+  <a href="https://www.taskade.com/ai/apps"><img src="media/features/workspace-memory.gif" width="640" alt="A memory graph of a workspace grows as projects, notes and agents connect."></a>
   <br>
   <sub>Workspace Memory: your projects and knowledge connected into one graph your agents can reason over.</sub>
 </div>
@@ -590,7 +590,7 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 
 | Vibe Code an App | Pick Your AI Model | Publish & Own Your Page |
 |:---:|:---:|:---:|
-| <img src="media/genesis/click-to-edit.gif" width="280" alt="Vibe coding: click to edit apps visually in Taskade Genesis"> | <img src="media/agents/model-selector.gif" width="280" alt="Pick your AI model per agent from frontier models"> | <img src="media/genesis/publish-and-share.gif" width="280" alt="Publish AI apps to your own page in the Taskade App Factory"> |
+| <img src="media/genesis/click-to-edit.gif" width="280" alt="A portfolio app built with Taskade Genesis changes when you select an element and describe the edit."> | <img src="media/screenshots/model-selector.jpg" width="280" alt="The model menu in the Taskade Genesis prompt box, with Auto recommended and Standard, Thinking and Reasoning modes."> | <img src="media/genesis/publish-and-share.gif" width="280" alt="A published pet sitting app shows its Workspace DNA, then the creator page lists more of their apps."> |
 | Click-to-edit visual builder, no code required | Frontier models from top AI labs | Publish to the Taskade App Factory, custom domains, analytics |
 
 ➡️ [**What is Vibe Coding →**](https://www.taskade.com/blog/what-is-vibe-coding) · [**Best Vibe Coding Tools →**](https://www.taskade.com/blog/best-vibe-coding-tools)
@@ -975,16 +975,16 @@ Taskade is more than this repo. Explore the rest of the ecosystem (and star what
 
 | Project | What it is | Stars |
 |---|---|---|
-| [**Taskade MCP**](https://github.com/taskade/mcp) | Official MCP server and Claude Code plugin. Connect Taskade to Claude, ChatGPT, Cursor, and any MCP client. | [![mcp stars](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp) |
-| [**Awesome Vibe Coding**](https://github.com/taskade/awesome-vibe-coding) | A curated guide to building software with AI, the vibe-coding movement. | [![awesome-vibe-coding stars](https://img.shields.io/github/stars/taskade/awesome-vibe-coding?style=social)](https://github.com/taskade/awesome-vibe-coding) |
-| [**Genesis Sample App**](https://github.com/taskade/taskade-sample-app) | A Workspace DNA template for building AI-powered Taskade Genesis apps. | [![sample-app stars](https://img.shields.io/github/stars/taskade/taskade-sample-app?style=social)](https://github.com/taskade/taskade-sample-app) |
-| [**Taskade Docs**](https://github.com/taskade/docs) | Source for [docs.taskade.com](https://docs.taskade.com): REST & Action API reference, Genesis app building, AI agents, and automations. PRs welcome. | [![docs stars](https://img.shields.io/github/stars/taskade/docs?style=social)](https://github.com/taskade/docs) |
-| [**Taskade Skills**](https://github.com/taskade/skills) | Agent skills for Taskade: build AI apps, agents, and automations from Claude Code, Cursor, and Codex. Install with `npx skills add taskade/skills`. | [![skills stars](https://img.shields.io/github/stars/taskade/skills?style=social)](https://github.com/taskade/skills) |
-| [**Integration Kit**](https://github.com/taskade/integrations) | Public source-of-truth for Taskade actions & triggers across Zapier and n8n, built on the public API. | [![integrations stars](https://img.shields.io/github/stars/taskade/integrations?style=social)](https://github.com/taskade/integrations) |
+| [**Taskade MCP**](https://github.com/taskade/mcp) | Official MCP server and Claude Code plugin. Connect Taskade to Claude, ChatGPT, Cursor, and any MCP client. | [![GitHub star count of taskade/mcp.](https://img.shields.io/github/stars/taskade/mcp?style=social)](https://github.com/taskade/mcp) |
+| [**Awesome Vibe Coding**](https://github.com/taskade/awesome-vibe-coding) | A curated guide to building software with AI, the vibe-coding movement. | [![GitHub star count of taskade/awesome-vibe-coding.](https://img.shields.io/github/stars/taskade/awesome-vibe-coding?style=social)](https://github.com/taskade/awesome-vibe-coding) |
+| [**Genesis Sample App**](https://github.com/taskade/taskade-sample-app) | A Workspace DNA template for building AI-powered Taskade Genesis apps. | [![GitHub star count of taskade/taskade-sample-app.](https://img.shields.io/github/stars/taskade/taskade-sample-app?style=social)](https://github.com/taskade/taskade-sample-app) |
+| [**Taskade Docs**](https://github.com/taskade/docs) | Source for [docs.taskade.com](https://docs.taskade.com): REST & Action API reference, Genesis app building, AI agents, and automations. PRs welcome. | [![GitHub star count of taskade/docs.](https://img.shields.io/github/stars/taskade/docs?style=social)](https://github.com/taskade/docs) |
+| [**Taskade Skills**](https://github.com/taskade/skills) | Agent skills for Taskade: build AI apps, agents, and automations from Claude Code, Cursor, and Codex. Install with `npx skills add taskade/skills`. | [![GitHub star count of taskade/skills.](https://img.shields.io/github/stars/taskade/skills?style=social)](https://github.com/taskade/skills) |
+| [**Integration Kit**](https://github.com/taskade/integrations) | Public source-of-truth for Taskade actions & triggers across Zapier and n8n, built on the public API. | [![GitHub star count of taskade/integrations.](https://img.shields.io/github/stars/taskade/integrations?style=social)](https://github.com/taskade/integrations) |
 
 ### Star history
 
-[![Star History Chart](https://api.star-history.com/svg?repos=taskade/taskade,taskade/mcp,taskade/awesome-vibe-coding,taskade/docs&type=Date)](https://star-history.com/#taskade/taskade&taskade/mcp&taskade/awesome-vibe-coding&taskade/docs&Date)
+[![Chart of GitHub stars over time for taskade/taskade, taskade/mcp, taskade/awesome-vibe-coding and taskade/docs.](https://api.star-history.com/svg?repos=taskade/taskade,taskade/mcp,taskade/awesome-vibe-coding,taskade/docs&type=Date)](https://star-history.com/#taskade/taskade&taskade/mcp&taskade/awesome-vibe-coding&taskade/docs&Date)
 
 ---
 
@@ -1051,7 +1051,7 @@ Taskade is more than this repo. Explore the rest of the ecosystem (and star what
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="media/logo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="media/logo-light.png">
-  <img alt="Taskade" src="media/logo-dark.png" width="200">
+  <img alt="The Taskade logo." src="media/logo-dark.png" width="200">
 </picture>
 
 <br><br>
