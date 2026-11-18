@@ -16,22 +16,22 @@ Both can hold your notes and projects. The real decision is whether you mainly w
 | Capability | Notion | Taskade |
 | --- | --- | --- |
 | Core model | Docs + flexible databases | Projects/tasks/notes + AI execution layer |
-| AI model access | Notion AI (single assistant, add-on) | Multiple frontier models, switchable per agent |
-| AI agents | Limited; assistant-style help inside docs | First-class, customizable agents you train and assign |
-| Multi-agent | Not a core concept | Yes — teams of agents that hand off work |
-| Built-in automations | Basic database automations | Workflow automations + AI-generated workflows |
-| App building | Not designed for this | Genesis: prompt → hosted app (DB, auth, payments, domain) |
+| AI model access | [Notion AI](https://www.notion.com/product/ai) | Frontier AI models, switchable per agent |
+| AI agents | [Notion Agents](https://www.notion.com/product/agents) | First-class, customizable agents you train and assign |
+| Multi-agent | See [Notion Agents](https://www.notion.com/product/agents) | Yes — teams of agents that hand off work |
+| Built-in automations | Database automations | Workflow automations + AI-generated workflows |
+| App building | Pages, databases, and [Notion Sites](https://www.notion.com/product/sites) | Taskade Genesis: prompt → hosted app (DB, auth, payments, domain) |
 | Databases | Very strong, flexible relations | Tables + structured project views; less relational depth |
 | Docs / wiki | Excellent — a primary strength | Solid docs/notes; not the headline feature |
-| Project views | Several (table, board, calendar, etc.) | List, Board, Calendar, Table, Mind Map, Gantt, Org Chart |
+| Project views | Several (table, board, calendar, etc.) | Multiple views: List, Board, Table, Mind Map, Calendar, Gantt Chart, Org Chart, and more |
 | Templates | Huge community library | Curated [templates](https://www.taskade.com/templates) + AI-generated structures |
 | Integrations | Broad ecosystem, many third-party tools | 100+ integrations |
-| Offline | Limited / improving | Limited |
-| Pricing model | Per-seat, AI as paid add-on | Per-seat with AI included in the workspace |
+| Offline | [Offline pages](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know) on desktop and mobile | Limited |
+| Pricing model | See [Notion pricing](https://www.notion.com/pricing) | Each plan includes a set number of users and monthly AI credits |
 | Learning curve | Steeper for advanced databases | Lower for AI/automation; you describe, it builds |
-| Persistent agent memory | AI references page/database context within a request | Agents carry memory across sessions, trained on your workspace knowledge |
-| In-app payments (Stripe checkout) | Not built in; needs third-party tools or embeds | Genesis apps include Stripe checkout, so customers can pay inside the app |
-| App hosting & custom domains | Public page sharing; not standalone hosted apps | Genesis apps are hosted at a real URL with custom-domain support |
+| Persistent agent memory | See [Notion AI](https://www.notion.com/product/ai) | Agents carry memory across sessions, trained on your workspace knowledge |
+| In-app payments (Stripe checkout) | Check Notion's current features | Genesis apps include Stripe checkout, so customers can pay inside the app |
+| App hosting & custom domains | Public pages and [Notion Sites](https://www.notion.com/product/sites) | Genesis apps are hosted at a real URL with custom-domain support (Pro and up) |
 
 A note on fairness: both products move fast and add features constantly, so treat the table as a snapshot of the *shape* of each tool rather than a frozen spec sheet. Check both vendors' current plans before deciding — especially on pricing and AI limits. For the latest on the agent, payments, and hosting capabilities above, see [recent Taskade Genesis updates](../genesis/whats-new.md).
 
@@ -58,8 +58,8 @@ We'd rather you stay on Notion for those than switch and be disappointed. A comp
 
 Taskade starts to win when you want the workspace to *act*, not just *hold*:
 
-- **AI-native, not AI-bolted-on.** Notion added an assistant to a documents product. Taskade was built around AI from the ground up — agents are first-class citizens you create, train on your own knowledge, and point at real work.
-- **Multi-agent teams.** Instead of one helper in a sidebar, you can run [a team of agents](../guides/multi-agent-workspace.md) that hand off tasks to each other — research, draft, review, publish — inside a single project.
+- **AI-native.** Taskade was built around AI from the ground up — agents are first-class citizens you create, train on your own knowledge, and point at real work.
+- **Multi-agent teams.** You can run [a team of agents](../guides/multi-agent-workspace.md) that hand off tasks to each other — research, draft, review, publish — inside a single project.
 - **Genesis: prompt to app.** This is the biggest difference. In Notion you organize information about a project. In Taskade you can describe the app you need in plain English and Genesis builds a hosted, working app — database, AI agents, automations, UI, login/auth, payments, and a custom domain. [See how Genesis works](https://www.taskade.com/ai/apps).
 - **Built-in automations.** Workflows and AI-generated automations live in the same workspace as your projects, so the busywork between steps actually gets done — not just tracked.
 - **Lower ceiling-to-results time.** You don't model a relational schema to get value; you tell an agent or Genesis what you want and refine from there.
@@ -82,8 +82,8 @@ The cleanest way to understand the difference is to follow the same task through
 
 Say you want a small client portal — somewhere clients log in, submit requests, and see status.
 
-- **In Notion**, you'd design a database for requests, build a few linked views, add status properties, share pages carefully, and probably bolt on a third-party form tool plus a way to handle logins. You end up with a well-organized *record* of the portal. The portal itself — the thing a client actually logs into — is mostly stitched together outside Notion.
-- **In Taskade**, you'd describe the portal to [Genesis](https://www.taskade.com/ai/apps): "a client portal where clients sign in, submit requests, and track status." Genesis builds the database, the login/auth, the UI, and the automation, hosted at a real URL. Then you refine it by clicking and editing, or by asking again in plain English.
+- **In Notion**, you'd design a database for requests, build a few linked views, add status properties, add a form, and share pages carefully. You end up with a well-organized workspace for the portal.
+- **In Taskade**, you'd describe the portal to [Genesis](https://www.taskade.com/ai/apps): "a client portal where clients sign in, submit requests, and track status." Genesis builds the database, the sign-in, the UI, and the automation, hosted at a real URL. Sign-in confirms who each client is. To show each client only their own requests, you turn on a separate setting and test it with a second account. Then you refine it by clicking and editing, or by asking again in plain English.
 
 Neither approach is "right" — they're optimized for different outcomes. Notion optimizes for *organizing information beautifully*. Taskade optimizes for *turning intent into something that runs*. If you've ever finished organizing a Notion workspace and thought "okay, but now who actually builds the thing," that's the gap Taskade is built to close.
 
@@ -108,7 +108,7 @@ After a week you'll know whether Taskade earns a permanent spot, a both-tools se
 
 ## A note on pricing
 
-We won't quote exact numbers here, because both products change plans and AI limits over time and we don't want this page to go stale or mislead you. The structural difference is worth knowing, though: Notion typically treats advanced AI as a paid add-on on top of per-seat pricing, while Taskade includes AI capabilities in the workspace. Run your own numbers on each vendor's current pricing page before committing — especially if AI usage is central to why you're switching.
+We won't quote exact numbers here, because both products change plans and AI limits over time and we don't want this page to go stale or mislead you. On the Taskade side, each plan includes a set number of users and a monthly allowance of AI credits. Free starts with 0 credits, and you earn credits with referrals and invites. Run your own numbers on each vendor's current pricing page before committing — especially if AI usage is central to why you're switching.
 
 ## FAQ
 
@@ -116,13 +116,13 @@ We won't quote exact numbers here, because both products change plans and AI lim
 For projects, tasks, notes, automations, and AI-driven work — yes. For deep relational databases and long-form wikis, Notion is still excellent, and some teams run both.
 
 **Does Taskade have AI like Notion AI?**
-Taskade goes further: instead of a single assistant, you get customizable AI agents, multiple model choices, multi-agent teams, and AI that can build apps and automations — not just help you write.
+Yes. You get customizable AI agents, a choice of frontier AI models, multi-agent teams, and AI that can build apps and automations — not just help you write.
 
 **Can Taskade replace my Notion databases?**
 For most operational use cases, Taskade's tables and project views are enough. For very deep relational modeling (heavy rollups and linked databases), Notion may still fit better.
 
-**What can Genesis do that Notion can't?**
-Genesis turns a plain-English description into a hosted, working app — with a database, AI agents, automations, login/auth, payments, and a custom domain. Notion isn't designed to ship standalone apps. [Read the Genesis announcement](https://www.taskade.com/blog/introducing-taskade-genesis).
+**What can Taskade Genesis do?**
+Genesis turns a plain-English description into a hosted, working app — with a database, AI agents, automations, login/auth, payments, and a custom domain. [Read the Genesis announcement](https://www.taskade.com/blog/introducing-taskade-genesis).
 
 **Is it hard to learn?**
 Most people find the AI and automation side faster to pick up than Notion's advanced databases, because you describe what you want instead of modeling it.
