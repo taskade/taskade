@@ -1,0 +1,34 @@
+# Adds the type label of the issue form and the area label of the
+# "Which part of Taskade?" answer. No AI, no secret, no external call.
+# The rules are in .github/scripts/triage.mjs.
+name: Triage
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  label:
+    name: Add labels
+    if: github.event.issue.user.type != 'Bot'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out the scripts of the default branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          sparse-checkout: .github/scripts
+
+      - name: Add the type and area labels
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
+        with:
+          script: |
+            const { pathToFileURL } = await import('node:url');
+            const file = `${process.env.GITHUB_WORKSPACE}/.github/scripts/triage.mjs`;
+            const { runTriage } = await import(pathToFileURL(file).href);
+            await runTriage({ github, context, core });

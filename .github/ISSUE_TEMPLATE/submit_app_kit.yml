@@ -6,6 +6,10 @@ body:
   - type: markdown
     attributes:
       value: |
+        **This issue is public.** Do not paste a password, an API key or a token, an email address or phone number, a private workspace or project link, or customer data. For anything about your account, billing or a security problem, use the links on the previous page.
+  - type: markdown
+    attributes:
+      value: |
         Built something with [Taskade Genesis](https://www.taskade.com/ai/apps)? Share it and we may feature it in our list of [clone-ready App Kits](https://github.com/taskade/taskade/blob/main/docs/genesis/app-kits.md), with credit and a link back to you.
   - type: input
     id: name
@@ -18,7 +22,7 @@ body:
     id: share_link
     attributes:
       label: Public share link
-      description: Your app's public share URL.
+      description: The public share link of your app. Anyone must be able to open it without signing in. Never a link to a workspace or a project.
       placeholder: https://www.taskade.com/share/apps/...
     validations:
       required: true
@@ -57,4 +61,6 @@ body:
       label: Confirmation
       options:
         - label: This app is mine to share and the link is public.
+          required: true
+        - label: I checked that this issue holds no private data.
           required: true

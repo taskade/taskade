@@ -1,24 +1,40 @@
-name: 💡 Docs or guide request
-description: Suggest a new guide, comparison, or improvement to the docs in this repo
-title: "[Request]: "
+name: 💡 Ask for a feature
+description: Tell us what you want Taskade to do for you.
+title: "[Feature]: "
 labels: ["enhancement"]
 body:
   - type: markdown
     attributes:
       value: |
-        Have an idea for a guide, comparison, or improvement? We'd love to hear it. For open-ended ideas, a [Discussion](https://github.com/taskade/taskade/discussions) works great too.
+        **This issue is public.** Do not paste a password, an API key or a token, an email address or phone number, a private workspace or project link, or customer data. For anything about your account, billing or a security problem, use the links on the previous page.
+
+        A screenshot is welcome only if it shows no private data.
   - type: textarea
-    id: idea
+    id: problem
     attributes:
-      label: What would you like to see?
-      description: Describe the guide, page, or improvement and who it would help.
-      placeholder: e.g. A "Build an event-planning app with AI" guide for non-technical organizers.
+      label: What problem do you want to solve?
+      description: Tell us about the task or the goal, not the button you want.
+      placeholder: Every Monday I copy the tasks that are late into a report for my team.
     validations:
       required: true
   - type: textarea
-    id: why
+    id: today
     attributes:
-      label: Why is it useful?
-      description: What outcome would it help someone achieve?
+      label: What do you do today?
+      placeholder: I filter the board by due date and copy each task by hand.
     validations:
-      required: false
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What outcome do you want?
+      placeholder: My team gets a list of late tasks every Monday without my help.
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I checked that this issue holds no private data.
+          required: true

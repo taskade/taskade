@@ -1,0 +1,66 @@
+# Closes an issue with the needs-info label when the author does not reply
+# for 14 days. When the author replies, the label goes away, and an issue
+# that this workflow closed opens again. No other issue closes, and no issue
+# is locked. The rules are in .github/scripts/lifecycle.mjs.
+name: Lifecycle
+
+on:
+  schedule:
+    - cron: "23 7 * * *"
+  workflow_dispatch:
+  issue_comment:
+    types: [created]
+
+permissions:
+  issues: write
+  contents: read
+
+concurrency:
+  group: lifecycle-${{ github.event.issue.number || 'sweep' }}
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    name: Close needs-info issues with no reply
+    if: github.event_name != 'issue_comment'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the scripts of the default branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          sparse-checkout: .github/scripts
+
+      - name: Close issues after 14 days with no reply
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
+        with:
+          script: |
+            const { pathToFileURL } = await import('node:url');
+            const file = `${process.env.GITHUB_WORKSPACE}/.github/scripts/lifecycle.mjs`;
+            const { runSweep } = await import(pathToFileURL(file).href);
+            await runSweep({ github, context, core });
+
+  author-reply:
+    name: Clear needs-info when the author replies
+    if: >-
+      github.event_name == 'issue_comment' &&
+      contains(github.event.issue.labels.*.name, 'needs-info') &&
+      github.event.comment.user.login == github.event.issue.user.login
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out the scripts of the default branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          sparse-checkout: .github/scripts
+
+      - name: Remove the label and open the issue again
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
+        with:
+          script: |
+            const { pathToFileURL } = await import('node:url');
+            const file = `${process.env.GITHUB_WORKSPACE}/.github/scripts/lifecycle.mjs`;
+            const { runAuthorReply } = await import(pathToFileURL(file).href);
+            await runAuthorReply({ github, context, core });

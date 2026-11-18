@@ -1,21 +1,17 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 💬 Ideas & discussion
-    url: https://github.com/taskade/taskade/discussions
-    about: Share ideas, ask questions, and show what you've built with the community.
-  - name: 🚀 Try Taskade Genesis
-    url: https://www.taskade.com/ai/apps
-    about: Describe an app in plain English and get a working, hosted app.
-  - name: 📚 Docs & Learn hub
-    url: https://github.com/taskade/taskade/tree/main/docs
-    about: Guides, honest comparisons, tools, and clone-ready App Kits.
-  - name: 🗳️ Request a feature
-    # type=TEXT is what the current Reddit composer reads; selftext=true is the
-    # spelling old Reddit and the mobile webview read. Keep both. The text body
-    # matches the in-app and taskade.com/contact CTAs so every surface prefills
-    # the same three prompts.
-    url: 'https://www.reddit.com/r/taskade/submit/?type=TEXT&selftext=true&text=**What+are+you+trying+to+do%3F**%0A%0A%0A**What+would+you+like+Taskade+to+do%3F**%0A%0A%0A**How+do+you+work+around+it+today%3F**%0A'
-    about: Ask for a product feature or an App Kit on r/taskade, where others can vote on it.
-  - name: 🆘 Account support
+  - name: 🆘 Account and billing help
     url: https://www.taskade.com/contact
-    about: Billing, a private workspace, or anything else specific to your account.
+    about: Your bill, your plan, a private workspace, or anything else about your own account. This form is private.
+  - name: 🔒 Report a security problem
+    url: https://github.com/taskade/taskade/security/advisories/new
+    about: You can see data that is not yours, or get past a sign-in or a permission check. This report is private. Do not open a public issue.
+  - name: 📚 Developer docs
+    url: https://www.taskade.com/docs
+    about: The API, MCP, webhooks and the SDK.
+  - name: 🔌 Bug in the Taskade MCP server package
+    url: https://github.com/taskade/mcp/issues
+    about: Problems with the MCP server package go to its own repository.
+  - name: 💬 Questions and ideas
+    url: https://github.com/taskade/taskade/discussions
+    about: Ask a question or show what you built.

@@ -1,0 +1,65 @@
+# The labels that the issue forms and the workflows use.
+# A maintainer creates them with `gh label create`. The commands are in CONTRIBUTING.md, "Labels".
+# Labels that already exist in the repository keep their color and description.
+
+# Type. Each issue form adds one of these.
+- name: bug
+  color: d73a4a
+  description: Something in Taskade does not work
+  exists: true
+- name: enhancement
+  color: a2eeef
+  description: A request for a new feature
+  exists: true
+- name: documentation
+  color: 0075ca
+  description: A problem with the docs or the guides
+  exists: true
+- name: app-kit-request
+  color: f9a8c0
+  description: A request for a new App Kit
+- name: question
+  color: d876e3
+  description: A question, not a bug
+  exists: true
+
+# Area. The triage workflow adds one from the answer to "Which part of Taskade?".
+- name: "area:genesis-apps"
+  color: c5def5
+  description: Taskade Genesis apps
+- name: "area:agents"
+  color: c5def5
+  description: AI agents
+- name: "area:automations"
+  color: c5def5
+  description: Automations and integrations
+- name: "area:projects"
+  color: c5def5
+  description: Projects and views
+- name: "area:sharing"
+  color: c5def5
+  description: Sharing and publishing
+- name: "area:billing-page"
+  color: c5def5
+  description: How the billing page shows plans and prices
+- name: "area:mobile"
+  color: c5def5
+  description: The iOS and Android apps
+- name: "area:desktop"
+  color: c5def5
+  description: The Mac and Windows apps
+- name: "area:mcp"
+  color: c5def5
+  description: The MCP server and AI clients
+
+# Status.
+- name: needs-info
+  color: fbca04
+  description: We need more details from the author. Closes after 14 days with no reply.
+- name: privacy-hold
+  color: b60205
+  description: The privacy guard removed private data. A maintainer must clear the edit history.
+- name: duplicate
+  color: cfd3d7
+  description: This issue or pull request already exists
+  exists: true

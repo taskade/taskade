@@ -1,0 +1,48 @@
+# Removes private data from public issues and comments.
+# The scanner and its rules are in .github/scripts/privacy-guard.mjs.
+#
+# Security rules for this file:
+# - Only the built-in GITHUB_TOKEN, with the smallest permissions.
+# - No pull_request_target, and no checkout of code from a pull request.
+#   The checkout takes .github/scripts from the default branch.
+# - No event value goes into a shell line. The script reads the event
+#   through the context object of actions/github-script.
+# - Each action is pinned to a full commit SHA.
+name: Privacy guard
+
+on:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created, edited]
+
+permissions:
+  issues: write
+  contents: read
+
+concurrency:
+  group: privacy-guard-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  guard:
+    name: Remove private data
+    # A bot wrote the text: skip. The script also skips maintainers with write access.
+    if: (github.event.comment.user.type || github.event.issue.user.type) != 'Bot'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out the scripts of the default branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          sparse-checkout: .github/scripts
+
+      - name: Scan the text and remove private data
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
+        with:
+          script: |
+            const { pathToFileURL } = await import('node:url');
+            const file = `${process.env.GITHUB_WORKSPACE}/.github/scripts/privacy-guard.mjs`;
+            const { runGuard } = await import(pathToFileURL(file).href);
+            await runGuard({ github, context, core });
