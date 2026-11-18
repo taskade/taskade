@@ -1,27 +1,24 @@
 <div align="center">
 
-<pre>
- ████████╗ █████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ███████╗
- ╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗██╔════╝
-    ██║   ███████║███████╗█████╔╝ ███████║██║  ██║█████╗
-    ██║   ██╔══██║╚════██║██╔═██╗ ██╔══██║██║  ██║██╔══╝
-    ██║   ██║  ██║███████║██║  ██╗██║  ██║██████╔╝███████╗
-    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝
-</pre>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="media/logo-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="media/logo-light.png">
   <img alt="Taskade" src="media/logo-dark.png" width="400">
 </picture>
 
-<br>
-
 ### The AI-Native Workspace Platform.<br>Build Apps. Deploy Agents. Automate Workflows. From One Prompt.
 
-#### Taskade Genesis turns one prompt into a live app: your data, AI agents, automations, and interface, connected as Workspace DNA.
+**Taskade Genesis** turns one prompt into a live app with its own data, AI agents, automations, and interface, connected as Workspace DNA.
 
-**[Start building free at taskade.com/create →](https://www.taskade.com/create)**
+<a href="https://www.taskade.com/create"><img src="https://www.taskade.com/static_images/newsletter-gifs/2025-12-01-one-prompt-one-live-app.gif" width="640" alt="Taskade EVE builds an event registration app from one prompt, with its projects, agents and automations, then a grid of other apps built the same way."></a>
+
+<sub><b>Taskade Genesis</b>: one prompt creates a live app with AI agents, real-time data, and automation workflows.</sub>
+
+| [**Build an app from a prompt →**](https://www.taskade.com/create) | [**Clone an App Kit →**](https://www.taskade.com/apps) | [**Connect your AI agent →**](#use-taskade-from-your-ai-agent) |
+|:---:|:---:|:---:|
+| Describe it. Taskade EVE builds it.<br>**[Start building free at taskade.com/create →](https://www.taskade.com/create)** | Open a ready-made app in the Taskade App Factory and clone it into your workspace. | Tell your agent:<br>`Set up Taskade for me. Read and follow https://www.taskade.com/SKILL.md` |
+
+<sub>This repo holds public docs, honest comparisons, and clone-ready App Kits. It is not the product source. Bug reports and doc fixes are welcome.</sub>
 
 <br>
 
@@ -48,20 +45,10 @@
 ---
 
 <div align="center">
-  <img src="media/screenshots/genesis-interface.jpg" alt="Taskade Genesis, the AI-native workspace platform" width="800">
-  <br><br>
-  <sub><b>Taskade Genesis</b>: one prompt creates a live app with AI agents, real-time data, and automation workflows.</sub>
-</div>
-
----
-
-<div align="center">
 
 ⭐ **Find this useful? [Star the repo](https://github.com/taskade/taskade)** to follow new guides, honest comparisons, and clone-ready App Kits.
 
 </div>
-
-This repo holds public docs, honest comparisons, and clone-ready App Kits. It is not the Taskade source. Bug reports and doc fixes are welcome.
 
 ## Contents
 
@@ -933,6 +920,15 @@ Taskade is more than this repo. Explore the rest of the ecosystem (and star what
 ---
 
 <div align="center">
+
+<pre>
+ ████████╗ █████╗ ███████╗██╗  ██╗ █████╗ ██████╗ ███████╗
+ ╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗██╔════╝
+    ██║   ███████║███████╗█████╔╝ ███████║██║  ██║█████╗
+    ██║   ██╔══██║╚════██║██╔═██╗ ██╔══██║██║  ██║██╔══╝
+    ██║   ██║  ██║███████║██║  ██╗██║  ██║██████╔╝███████╗
+    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝
+</pre>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="media/logo-dark.png">
