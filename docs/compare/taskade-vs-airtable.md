@@ -148,7 +148,7 @@ They act. Agents can read your projects, draft and update content, run automatio
 A complete, hosted app from a plain-English description: database, UI, AI agents, automations, login/auth, payments, and a custom domain. See [Introducing Taskade Genesis](https://www.taskade.com/blog/introducing-taskade-genesis).
 
 **How does pricing compare?**
-Both have a free plan. Airtable charges per seat. Each Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Pricing changes over time, so confirm current details on [Taskade](https://www.taskade.com) and Airtable's own pricing page before deciding.
+Both have a free plan. Airtable charges per seat. Each paid Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Pricing changes over time, so confirm current details on [Taskade](https://www.taskade.com) and Airtable's own pricing page before deciding.
 
 **Can I migrate my Airtable data into Taskade?**
 You can recreate structured data in Taskade's Table view or have Genesis generate an app around it. For a fresh start, describing the app you want to Genesis is often faster than rebuilding a base field by field.

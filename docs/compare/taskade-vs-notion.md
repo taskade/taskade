@@ -27,7 +27,7 @@ Both can hold your notes and projects. The real decision is whether you mainly w
 | Templates | Huge community library | Curated [templates](https://www.taskade.com/templates) + AI-generated structures |
 | Integrations | Broad ecosystem, many third-party tools | 100+ integrations |
 | Offline | [Offline pages](https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know) on desktop and mobile | Limited |
-| Pricing model | See [Notion pricing](https://www.notion.com/pricing) | Each plan includes a set number of users and monthly AI credits |
+| Pricing model | See [Notion pricing](https://www.notion.com/pricing) | Free starts with 0 AI credits. Each paid plan includes a set number of users and monthly AI credits |
 | Learning curve | Steeper for advanced databases | Lower for AI/automation; you describe, it builds |
 | Persistent agent memory | See [Notion AI](https://www.notion.com/product/ai) | Agents carry memory across sessions, trained on your workspace knowledge |
 | In-app payments (Stripe checkout) | Check Notion's current features | Genesis apps include Stripe checkout, so customers can pay inside the app |
@@ -108,7 +108,7 @@ After a week you'll know whether Taskade earns a permanent spot, a both-tools se
 
 ## A note on pricing
 
-We won't quote exact numbers here, because both products change plans and AI limits over time and we don't want this page to go stale or mislead you. On the Taskade side, each plan includes a set number of users and a monthly allowance of AI credits. Free starts with 0 credits, and you earn credits with referrals and invites. Run your own numbers on each vendor's current pricing page before committing — especially if AI usage is central to why you're switching.
+We won't quote exact numbers here, because both products change plans and AI limits over time and we don't want this page to go stale or mislead you. On the Taskade side, each paid plan includes a set number of users and a monthly allowance of AI credits. Free starts with 0 credits, and you earn credits with referrals and invites. Run your own numbers on each vendor's current pricing page before committing — especially if AI usage is central to why you're switching.
 
 ## FAQ
 

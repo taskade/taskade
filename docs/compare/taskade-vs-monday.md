@@ -135,7 +135,7 @@ Partly. Taskade has views and tables that cover common tracking needs, but if yo
 Two big things: **multi-agent teams** that collaborate on work, and **Taskade Genesis** — building a complete, hosted app (database, auth, payments, UI, custom domain) from a plain-English description. See [Genesis](https://www.taskade.com/blog/introducing-taskade-genesis).
 
 **How does pricing compare?**
-Both offer a free plan and paid tiers. monday.com is priced per seat (see [monday.com pricing](https://monday.com/pricing)). Each Taskade plan includes a set number of users and monthly AI credits, and scales up with AI usage, agents, and automation runs. Always check both sites for current pricing before deciding.
+Both offer a free plan and paid tiers. monday.com is priced per seat (see [monday.com pricing](https://monday.com/pricing)). Each paid Taskade plan includes a set number of users and monthly AI credits, and scales up with AI usage, agents, and automation runs. Always check both sites for current pricing before deciding.
 
 **Is migrating from Monday.com hard?**
 Most teams start small: move one board's worth of work or stand up one agent in Taskade, run it alongside Monday.com, and expand from there. You don't have to migrate everything at once.

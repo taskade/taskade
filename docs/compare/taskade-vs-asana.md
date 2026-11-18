@@ -16,7 +16,7 @@ This page is written to be fair. Asana is a genuinely strong, mature platform, a
 | --- | --- | --- |
 | **AI & agents** | AI-native core. Custom multi-agent teams you train on your own data, with model choice and tools. | AI embedded in the work graph — AI Studio (no-code agent/workflow builder) and AI Teammates, with full project context. |
 | **Multi-agent** | Multi-agent workspaces — agents collaborate, hand off, and run as a team. | AI Teammates and AI Studio workflows; oriented around automating the existing work graph rather than teams of collaborating agents. |
-| **AI pricing model** | Each plan includes a set number of users and monthly AI credits. | Per-seat tiered pricing; plans include AI Studio credits. See [Asana pricing](https://asana.com/pricing). |
+| **AI pricing model** | Free starts with 0 AI credits. Each paid plan includes a set number of users and monthly AI credits. | Per-seat tiered pricing; plans include AI Studio credits. See [Asana pricing](https://asana.com/pricing). |
 | **App-building** | Taskade Genesis: describe an app in plain English → hosted app with database, auth, payments, UI, custom domain. | You configure Asana to run your work. |
 | **Project / portfolio depth** | Multiple views: List, Board, Table, Mind Map, Calendar, Gantt Chart, Org Chart, and more. Lighter structure. | Timeline/Gantt, Workload, Goals/OKRs, Portfolios — genuinely deep, mature portfolio management. |
 | **Enterprise governance** | Lighter, faster time-to-value. | Mature admin, permissions, reporting, and audit — built for large, governed orgs. |
@@ -45,7 +45,7 @@ If you run a large portfolio with real governance requirements and a team to adm
 
 This matters enough to call out on its own, because it's easy to get wrong in either direction.
 
-Asana's core pricing is **per-seat and tiered** (Personal, Starter, Advanced, and Enterprise), and its plans include AI Studio credits. See [Asana pricing](https://asana.com/pricing) for the current details. Each Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Neither is automatically cheaper — it depends on your usage. Check both vendors' current pricing pages before you decide.
+Asana's core pricing is **per-seat and tiered** (Personal, Starter, Advanced, and Enterprise), and its plans include AI Studio credits. See [Asana pricing](https://asana.com/pricing) for the current details. Each paid Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Neither is automatically cheaper — it depends on your usage. Check both vendors' current pricing pages before you decide.
 
 ---
 
@@ -131,7 +131,7 @@ Yes, for most teams — especially if AI agents and app-building matter to you. 
 Yes. Asana's AI is embedded in its work graph, with AI Studio (a no-code agent and workflow builder) and AI Teammates that act on your real project context. It's well-integrated and permission-aware. For cost, see [Asana pricing](https://asana.com/pricing).
 
 **Is Asana's AI included in the price?**
-Asana's core plans are per-seat and tiered, and they include AI Studio credits (see [Asana pricing](https://asana.com/pricing)). Each Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Check both vendors' current pricing before deciding, since usage patterns change the math.
+Asana's core plans are per-seat and tiered, and they include AI Studio credits (see [Asana pricing](https://asana.com/pricing)). Each paid Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Check both vendors' current pricing before deciding, since usage patterns change the math.
 
 **Can Taskade replace Asana's portfolio management and reporting?**
 Partly. Taskade has views and tables that cover common tracking needs, but if your team relies on Workload, Goals/OKRs, Timeline, and Portfolio rollups across many teams, Asana is currently deeper there. Be honest about how much of that depth you actually use.

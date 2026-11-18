@@ -39,7 +39,7 @@ The practical consequence: with an automation layer, you're stitching agents acr
 | **App building** | Agents and internal tools ([Lindy](https://www.lindy.ai)) | See [Gumloop](https://www.gumloop.com) | Create agents ([Zapier Agents](https://zapier.com/agents)) | **Taskade Genesis** builds the whole hosted app *and* the agents that run it |
 | **Integrations** | 3,000+ plus MCP | See [Gumloop](https://www.gumloop.com) | **9,000+** | 100+ (premium integrations need a paid plan) |
 | **Standout strength** | Autonomous email, meetings, and phone calls | Bring your own API keys; SOC 2 Type II, GDPR, zero data retention | Reliability (99.9%+ uptime, SOC 2 Type II); MCP server exposing 30,000+ actions | Memory + Intelligence + Execution in one place; prompt-to-hosted-app |
-| **Pricing model** | Free plan with credits; see [Lindy pricing](https://www.lindy.ai/pricing) | Credits; see [Gumloop pricing](https://www.gumloop.com/pricing) | Agents run on activities; see [Zapier pricing](https://zapier.com/pricing) | Each plan includes a set number of users and monthly AI credits |
+| **Pricing model** | Free plan with credits; see [Lindy pricing](https://www.lindy.ai/pricing) | Credits; see [Gumloop pricing](https://www.gumloop.com/pricing) | Agents run on activities; see [Zapier pricing](https://zapier.com/pricing) | Free starts with 0 AI credits. Each paid plan includes a set number of users and monthly AI credits |
 | **Enterprise tier** | SSO/SCIM/HIPAA/SOC 2 | SOC 2 Type II, GDPR, zero data retention | SOC 2 Type II, mature governance | Workspace permissions; SSO on Business and up; SCIM on Enterprise; sign-in on published Genesis apps |
 
 A note on honesty: integration counts, pricing tiers, and meters change for every product here. Treat the table as a map of *categories and trade-offs*, not a live quote. Confirm current numbers on each vendor's own site before you decide.
@@ -94,7 +94,7 @@ This deserves its own moment, because it's where bills surprise people.
 
 Agent tools tend to meter by **activity or credits**, and autonomous agents are exactly the kind of thing that runs more than you expect. None of this is a gotcha — it's a reasonable way to price *consumption* — but it means an agent that decides to do extra work can use more of your allowance.
 
-Taskade uses credits too. Each Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Paid plans add more credits, agents, and automation runs. (As always: pricing changes — confirm current details on each vendor's site, including [Taskade's](https://www.taskade.com/pricing).)
+Taskade uses credits too. Each paid Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Paid plans add more credits, agents, and automation runs. (As always: pricing changes — confirm current details on each vendor's site, including [Taskade's](https://www.taskade.com/pricing).)
 
 ## Which should you choose?
 
@@ -172,7 +172,7 @@ Gumloop orchestrates multi-agent pipelines on a visual canvas, and Zapier coordi
 Zapier, by a wide margin — 9,000+ integrations, the largest catalog in the category. Lindy lists 3,000+, and Taskade lists 100+. If raw integration breadth is your deciding factor, Zapier Agents wins that row outright.
 
 **How does pricing compare?**
-Agent tools generally meter by credits or activities, and autonomous agents can consume those faster than expected. Each Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Pricing changes, so confirm current details on each vendor's site.
+Agent tools generally meter by credits or activities, and autonomous agents can consume those faster than expected. Each paid Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Pricing changes, so confirm current details on each vendor's site.
 
 **Can Taskade build an app like these tools build automations?**
 Yes. Taskade Genesis generates the workspace app itself — database, UI, auth, payments, custom domain — *and* the agents and automations that run inside it. See [Introducing Taskade Genesis](https://www.taskade.com/blog/introducing-taskade-genesis).

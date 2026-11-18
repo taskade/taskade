@@ -24,7 +24,7 @@ This page is written to be fair. Coda is an excellent product, and for power use
 | **Automations** | Visual automation flows plus an AI workflow generator; describe it, get a flow. | Automations and buttons inside a doc; mature and flexible for in-doc logic. |
 | **Integrations** | 100+ integrations (Taskade's claim) — Slack, Stripe, Gmail, Notion, and more. | 600+ Packs — a large, well-established connector ecosystem. |
 | **In-app payments** | Yes — Genesis apps support Stripe-backed checkout and paywalls out of the box. | Check Coda's current features. |
-| **Pricing model** | Each plan includes a set number of users and monthly AI credits; paid plans add more credits, agents, and runs. | Per-Doc-Maker (creators pay; editors/viewers free). See [Coda pricing](https://coda.io/pricing). |
+| **Pricing model** | Free starts with 0 AI credits. Each paid plan includes a set number of users and monthly AI credits, and higher plans add more credits, agents, and runs. | Per-Doc-Maker (creators pay; editors/viewers free). See [Coda pricing](https://coda.io/pricing). |
 | **Best for** | Teams that want AI to build the app and run agents inside it. | Power users who love formula-driven, custom doc-tooling without code. |
 
 *Feature availability and pricing change often. Verify current details on [taskade.com](https://www.taskade.com) and coda.io before deciding.*
@@ -66,7 +66,7 @@ It's worth being precise here, because "AI is included" gets thrown around loose
 
 **Coda AI** is included for Doc Makers, per [Coda AI](https://coda.io/product/ai). Check [Coda pricing](https://coda.io/pricing) for the current limits.
 
-**Taskade** includes AI in the workspace itself — agents, automations, and the workflow generator are part of how the product works. Each Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Paid plans add more credits, more agents, and more automation runs. (As always, verify current limits on each vendor's pricing page.)
+**Taskade** includes AI in the workspace itself — agents, automations, and the workflow generator are part of how the product works. Each paid Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Paid plans add more credits, more agents, and more automation runs. (As always, verify current limits on each vendor's pricing page.)
 
 ---
 
@@ -132,7 +132,7 @@ Yes, for most teams — especially if AI and shipping real apps matter to you. C
 Coda builds interactive documents that behave like apps, but they live inside Coda. Taskade Genesis builds a standalone, hosted app — its own URL, login/auth, database, Stripe payments, and a custom domain. Different artifacts: a powerful doc versus running software you can hand to customers.
 
 **Is Coda AI included?**
-Coda AI is included for Doc Makers, per [Coda AI](https://coda.io/product/ai). Check [Coda pricing](https://coda.io/pricing) for the limits. Each Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites.
+Coda AI is included for Doc Makers, per [Coda AI](https://coda.io/product/ai). Check [Coda pricing](https://coda.io/pricing) for the limits. Each paid Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites.
 
 **What about Superhuman Docs?**
 Coda is now Superhuman Docs, per [Coda AI](https://coda.io/product/ai). Check Coda's live pages before deciding, because names and AI packaging can change.
