@@ -8,7 +8,7 @@
 
 - [ ] New guide / page
 - [ ] Edit or fix to an existing page
-- [ ] App kit submission for the gallery
+- [ ] App Kit submission for the list of clone-ready App Kits
 - [ ] Media (GIF / screenshot)
 - [ ] Other
 

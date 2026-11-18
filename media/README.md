@@ -9,13 +9,13 @@ All assets are © Taskade and provided for use in coverage, documentation, and p
 | Folder | Contents |
 |---|---|
 | `agents/` | AI agent creation, training, customization, model selection, and multi-agent runs. |
-| `apps/` | Real apps built with Genesis — CRM, client portal, storefront, knowledge base, analytics, payments. |
+| `apps/` | Real apps built with Taskade Genesis — CRM, client portal, storefront, knowledge base, analytics, payments. |
 | `automations/` | Workflow generation, automation flows, and Workspace DNA. |
 | `features/` | Core AI features — agent tools, prioritization, slash commands, workspace memory. |
-| `genesis/` | The Genesis app builder — create, edit, build on phone, publish & share. |
+| `genesis/` | The Taskade Genesis app builder — create, edit, build on phone, publish & share. |
 | `views/` | Project views — List, Board, Mind Map. |
 | `screenshots/` | Product screenshots. |
-| `app-kits/` | Screenshots of clone-ready Taskade Genesis app kits — see the [App Kits Gallery](../docs/genesis/app-kits.md). |
+| `app-kits/` | Screenshots of clone-ready Taskade Genesis App Kits — see the [clone-ready App Kits](../docs/genesis/app-kits.md). |
 
 ## Featured clips (GIF + MP4 source)
 
@@ -29,7 +29,7 @@ All assets are © Taskade and provided for use in coverage, documentation, and p
 
 | Asset | Shows |
 |---|---|
-| `genesis/genesis-overview.gif` | Taskade Genesis overview — agents, integrations, app kits, automations. |
+| `genesis/genesis-overview.gif` | Taskade Genesis overview — agents, integrations, App Kits, automations. |
 | `automations/connect-tools.gif` | Connecting tools (e.g., Airtable, Shopify) so agents read and update records. |
 | `apps/community-creators.gif` | Browsing and cloning community-built apps. |
 | `features/knowledge-graph.gif` | A living mind map / knowledge graph. |

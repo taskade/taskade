@@ -1,12 +1,12 @@
-name: 🚀 Submit an app kit
-description: Share an app you built with Taskade Genesis to be featured in the App Kits Gallery
+name: 🚀 Submit an App Kit
+description: Share an app you built with Taskade Genesis to be featured in our list of clone-ready App Kits
 title: "[App Kit]: "
 labels: ["app-kit", "community"]
 body:
   - type: markdown
     attributes:
       value: |
-        Built something with [Taskade Genesis](https://www.taskade.com/ai/apps)? Share it and we may feature it in the [App Kits Gallery](https://github.com/taskade/taskade/blob/main/docs/genesis/app-kits.md), with credit and a link back to you.
+        Built something with [Taskade Genesis](https://www.taskade.com/ai/apps)? Share it and we may feature it in our list of [clone-ready App Kits](https://github.com/taskade/taskade/blob/main/docs/genesis/app-kits.md), with credit and a link back to you.
   - type: input
     id: name
     attributes:
