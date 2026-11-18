@@ -1,0 +1,33 @@
+name: 🧩 Ask for an App Kit
+description: Tell us about a ready-made app that you want to clone and use.
+title: "[Kit request]: "
+labels: ["app-kit-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This issue is public.** Do not paste a password, an API key or a token, an email address or phone number, a private workspace or project link, or customer data. For anything about your account, billing or a security problem, use the links on the previous page.
+
+        Look at the [App Kits](https://www.taskade.com/apps) first. The kit that you want can already be there.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What kit do you want?
+      description: Tell us what the app does and what it keeps track of.
+      placeholder: A booking app for a small yoga studio, with classes, a schedule and a waitlist.
+    validations:
+      required: true
+  - type: textarea
+    id: audience
+    attributes:
+      label: Who is it for?
+      placeholder: Studio owners who run classes alone and take bookings by text message today.
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I checked that this issue holds no private data.
+          required: true

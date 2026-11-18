@@ -1,85 +1,102 @@
-name: 🐞 Product bug (taskade.com)
-description: Report something broken in the Taskade app, a Taskade Genesis app, an agent, or an automation
-title: "[Product]: "
-labels: ["bug", "product"]
+name: 🐞 Something is broken in Taskade
+description: Tell us about a problem in the Taskade app, a Taskade Genesis app, an agent, or an automation.
+title: "[Bug]: "
+labels: ["bug"]
 assignees: ["deanzaka"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reporting this. Public reports help everyone: other people can search them, add detail, and see the fix land.
+        **This issue is public.** Do not paste a password, an API key or a token, an email address or phone number, a private workspace or project link, or customer data. For anything about your account, billing or a security problem, use the links on the previous page.
 
-        **Please do not paste passwords, API keys, personal access tokens, or customer data.** This issue is public.
-        For anything account-specific (billing, a private workspace, a data question), use [taskade.com/contact](https://www.taskade.com/contact) instead.
-  - type: markdown
-    attributes:
-      value: |
-        > **Found a security or privacy problem? Do not file it here.**
-        > If you can see data that is not yours, get past a login or permission check, or reach
-        > something your account should not reach, [report it privately](https://github.com/taskade/taskade/security/advisories/new).
-        > A public issue tells everyone who reads this tracker how to reproduce it before we can ship a fix.
-        > Our full policy is at [taskade.com/security](https://www.taskade.com/security).
-  - type: textarea
-    id: what
-    attributes:
-      label: What happened?
-      description: Describe what went wrong and what you saw on screen.
-      placeholder: e.g. Clicking Publish on my Genesis app shows a spinner that never finishes.
-    validations:
-      required: true
+        A screenshot is welcome only if it shows no private data. Crop or blur names, email addresses and workspace content before you add it.
   - type: textarea
     id: steps
     attributes:
-      label: Steps to reproduce
-      description: Number the steps so we can follow the same path.
+      label: What did you do?
+      description: Write the steps in order.
       placeholder: |
-        1. Open a workspace
-        2. Create an app from a prompt
-        3. Click Publish
+        1. I opened my app.
+        2. I clicked Publish.
     validations:
       required: true
   - type: textarea
     id: expected
     attributes:
-      label: What did you expect instead?
-      placeholder: e.g. The app publishes and I get a share link.
+      label: What did you expect?
+      placeholder: The app publishes and I get a share link.
     validations:
-      required: false
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened?
+      description: Tell us what you saw. Copy the text of an error message if you see one.
+      placeholder: The spinner turns and never stops.
+    validations:
+      required: true
   - type: dropdown
     id: area
     attributes:
       label: Which part of Taskade?
+      description: For a question about your own bill or account, use the contact link on the previous page.
       options:
-        - Genesis apps
+        - Taskade Genesis apps
         - AI agents
-        - Automations and flows
-        - Projects and tasks
-        - Templates and App Kits
-        - Sharing and permissions
-        - Billing and plans
-        - Mobile or desktop app
-        - Something else
+        - Automations and integrations
+        - Projects and views
+        - Sharing and publishing
+        - Billing page display
+        - Mobile app
+        - Desktop app
+        - MCP server and AI clients
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: plan
+    attributes:
+      label: Your plan
+      options:
+        - Free
+        - Starter
+        - Pro
+        - Business
+        - Max
+        - Enterprise
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where did it happen?
+      description: Pick all that apply.
+      multiple: true
+      options:
+        - Web in Chrome
+        - Web in Safari
+        - Web in Firefox
+        - Web in Edge
+        - Web in another browser
+        - iOS app
+        - Android app
+        - Mac app
+        - Windows app
     validations:
       required: true
   - type: input
-    id: environment
+    id: public_link
     attributes:
-      label: Browser, operating system, and app version
-      description: The version is in Settings, at the bottom of the left panel.
-      placeholder: e.g. Chrome 140 on macOS 15, web app v6.223
-    validations:
-      required: false
-  - type: textarea
-    id: extra
-    attributes:
-      label: Screenshots, screen recordings, or error text
-      description: Drag files in here. Blur anything private first.
+      label: Public link to a published app (optional)
+      description: Only a link that anyone can open without signing in, for example a link that starts with https://www.taskade.com/share/apps/. Never a link to a workspace or a project.
+      placeholder: https://www.taskade.com/share/apps/...
     validations:
       required: false
   - type: checkboxes
-    id: confirm
+    id: privacy
     attributes:
-      label: Before you post
+      label: Privacy check
       options:
-        - label: This report contains no passwords, tokens, or customer data.
+        - label: I checked that this issue holds no private data.
           required: true

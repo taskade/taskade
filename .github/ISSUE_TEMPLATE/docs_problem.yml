@@ -1,0 +1,33 @@
+name: 📄 Problem with the docs
+description: Tell us about a wrong fact, a broken link, or a missing page in the Taskade docs or guides.
+title: "[Docs]: "
+labels: ["documentation"]
+assignees: ["deanzaka"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This issue is public.** Do not paste a password, an API key or a token, an email address or phone number, a private workspace or project link, or customer data. For anything about your account, billing or a security problem, use the links on the previous page.
+  - type: input
+    id: page
+    attributes:
+      label: Which page?
+      description: The link to the page, or the file in this repository.
+      placeholder: https://www.taskade.com/docs/getting-started/quickstart
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong or missing?
+      description: For a broken link or image, tell us which one. For a missing page, tell us what you looked for.
+      placeholder: The link to the authentication page opens a page that does not exist.
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: I checked that this issue holds no private data.
+          required: true
