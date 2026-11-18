@@ -578,7 +578,7 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 | **App Kits from the Taskade App Factory** | Browse & clone | Fork & customize | Fork & customize | Fork & customize | Fork & customize |
 | **Agent Hosting Infrastructure** | - | - | ✓ | ✓ | ✓ |
 | **Built-in Analytics** | - | - | - | Advanced analytics | Advanced analytics |
-| **Monthly AI Credits** | 0 (earn free credits) | 10,000 | 50,000 | 150,000 | Custom |
+| **Monthly AI Credits** | 0 (earn free credits) | 10,000 | 50,000 | 150,000 | 1.1 million |
 
 </details>
 
