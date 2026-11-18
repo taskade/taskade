@@ -55,7 +55,7 @@ An AI app builder that turns a plain-English description into a complete, hosted
 ### Genesis app
 The output of Genesis: a real, hosted application running at a live URL, not a mockup or prototype.
 
-### App kit
+### App Kit
 A clone-ready, live Genesis app with its data, agents, and automations already wired up; clone it in about a minute and make it yours.
 
 ### Cloning
@@ -87,7 +87,7 @@ The event that starts a flow — a form submission, a closed deal, a file landin
 The clock-based way to run a flow — every morning, every Monday, the first of the month — rather than on an event.
 
 ### Integration / connector
-A connected app (Slack, Stripe, Gmail, etc.) your agents can read from and write to; Taskade lists 100+ integrations.
+A connected app (Slack, Stripe, Gmail, and more) your agents can read from and write to; Taskade lists 100+ integrations, and premium ones need a paid plan.
 
 ### MCP (Model Context Protocol)
 A shared standard for plugging tools into AI — "USB-C for AI tools" — letting tools connect to agents without a custom build per app.
@@ -100,7 +100,7 @@ A shared standard for plugging tools into AI — "USB-C for AI tools" — lettin
 - [What is a multi-agent workspace?](guides/multi-agent-workspace.md) — AI agents and shared memory in depth
 - [Connect tools and automate](guides/connect-tools-and-automate.md) — agent memory, MCP, integrations, and flows
 - [What is Taskade Genesis?](genesis/what-is-taskade-genesis.md) — prompt-to-app, Genesis apps, click-to-edit
-- [App kits](genesis/app-kits.md) — cloning a live community app in about a minute
+- [App Kits](genesis/app-kits.md) — cloning a live App Kit in about a minute
 - [Compare Taskade](compare/README.md) — how Taskade stacks up against other tools
 - [FAQ](faq.md) — common questions about Taskade and Genesis
 

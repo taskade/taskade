@@ -2,7 +2,7 @@
 
 Stop trading "does Tuesday work?" emails. Build a meeting workspace that finds the time, captures the notes, and turns decisions into tracked tasks — without an engineer and without a pile of single-purpose tools.
 
-A good **meeting scheduling app** does more than book a slot. It collapses the whole loop: find a time everyone can make, send the invite, run the meeting against a clear agenda, capture the decisions, and make sure the action items don't evaporate the moment the call ends. This page shows you how to build that loop in Taskade — describe it in plain English, and [Genesis](https://www.taskade.com/ai/apps) generates a working app with a database, AI agents, and automations included.
+A good **meeting scheduling app** does more than book a slot. It collapses the whole loop: find a time everyone can make, send the invite, run the meeting against a clear agenda, capture the decisions, and make sure the action items don't evaporate the moment the call ends. This page shows you how to build that loop in Taskade — describe it in plain English, and [Taskade Genesis](https://www.taskade.com/ai/apps) generates a working app with a database, AI agents, and automations included.
 
 [![Build a meeting scheduling app with Taskade Genesis](../../media/genesis/create-app.gif)](https://www.taskade.com/ai/apps)
 
@@ -83,7 +83,7 @@ Give it one or two examples of how you like summaries written — short, decisio
 Turn the loop into rules: *when a meeting is confirmed → create the calendar invite and attach the agenda*; *when notes are added → run the Notes agent*; *when the summary is generated → create the action items as tasks and email the summary to attendees*; *the morning of a meeting → post the agenda to the team channel*.
 
 **5. Publish and share.**
-Genesis apps are hosted with login built in. Share the workspace with your team, give each person a view filtered to their meetings and their action items, and — if you need an external-facing booking page so clients or candidates can pick a time — Genesis can add a public form, a custom domain, and auth.
+Genesis apps are hosted with login built in. Share the workspace with your team, give each person a view filtered to their meetings and their action items, and — if you need an external-facing booking page so clients or candidates can pick a time — Genesis can add a public form, a custom domain (Pro plan and up), and auth.
 
 > **Tip:** Start with one recurring meeting — your weekly team sync. Get the agenda template and the Notes agent right on that one meeting before you point the app at every meeting on your calendar.
 
@@ -112,7 +112,7 @@ If you'd rather see the broader app-building pattern first — describe an app, 
 
 ## Connecting calendars
 
-A scheduling app that can't see calendars is just a form. Taskade connects to your calendar through its 100+ integrations so the "find a time" and booking steps work against real availability:
+A scheduling app that can't see calendars is just a form. Taskade connects to your calendar through its 100+ integrations (calendar connectors are premium integrations, so they need a paid plan) so the "find a time" and booking steps work against real availability:
 
 - **Read availability** so the find-a-time flow proposes slots people can actually make, instead of guessing.
 - **Write the confirmed event** back to attendees' calendars with the agenda attached, so the invite carries context.
@@ -124,7 +124,7 @@ You connect a calendar once. After that, the agents and automations act through 
 
 ## Turning decisions into tracked tasks
 
-This is the step every other scheduling tool skips, and it's the one that decides whether a meeting mattered.
+This is the step that decides whether a meeting mattered.
 
 When the Notes agent produces a summary, the action items shouldn't be a bulleted list at the bottom of a doc. They should become **tasks** — in the same workspace your team already works in:
 
@@ -158,7 +158,7 @@ These are the kinds of gains teams report, not a guarantee of a specific number 
 No. You describe the app in plain English and [Genesis](https://www.taskade.com/ai/apps) builds the database, views, agents, and automations. You tune it by editing prompts and rules, not by writing code.
 
 **Can it actually find a time across several people's calendars?**
-Yes — connect your calendar through Taskade's integrations and the find-a-time flow proposes slots that fit the group, then books the one people choose. You connect once; the automations handle the rest.
+Yes — connect your calendar through Taskade's integrations (a premium integration, on a paid plan) and the find-a-time flow proposes slots that fit the group, then books the one people choose. You connect once; the automations handle the rest.
 
 **Where do the meeting notes and summaries come from?**
 You drop in your raw notes or a transcript, and an AI Notes agent writes the summary — discussion, decisions, and action items. You give it a couple of examples of your preferred style so the output reads the way you'd write it.
@@ -167,10 +167,10 @@ You drop in your raw notes or a transcript, and an AI Notes agent writes the sum
 When the summary is generated, an automation creates each action item as a task in your workspace with an owner and a due date. They appear in the assignee's normal view, not buried in a notes doc.
 
 **Can clients or candidates book time themselves?**
-Yes. Genesis can publish an external-facing booking page with a public form, a custom domain, and login — so people outside your workspace can pick a slot, while the meeting record still lands inside your workspace.
+Yes. Genesis can publish an external-facing booking page with a public form, a custom domain (Pro plan and up), and login — so people outside your workspace can pick a slot, while the meeting record still lands inside your workspace.
 
 **How is this different from a standalone scheduling tool?**
-A booking tool finds a time and stops. A Taskade meeting workspace carries the whole loop — find a time, run the meeting against an agenda, summarize it, and turn decisions into tracked tasks with follow-up automations — in one place, so nothing gets re-keyed between tools.
+A booking tool is built to find a time. A Taskade meeting workspace carries the whole loop — find a time, run the meeting against an agenda, summarize it, and turn decisions into tracked tasks with follow-up automations — in one place, so nothing gets re-keyed between tools.
 
 **Can the whole team use it?**
 Yes — that's the point of a shared workspace. Everyone sees the same meetings and their own action items, and you can give each person a filtered view. The collaboration model is the same one explained in the [multi-agent workspace](../guides/multi-agent-workspace.md) guide.

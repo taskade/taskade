@@ -2,7 +2,7 @@
 
 Run every open role from one place — a pipeline you can see at a glance, candidate profiles that stay current, and AI that does the screening busywork so you spend your time on people, not paperwork.
 
-A spreadsheet plus an inbox works for one hire. It quietly falls apart at three. This guide is for the hiring manager or small team that needs a real **applicant tracking system (ATS)** — but doesn't have a recruiting-ops department, a budget for enterprise software, or an engineer to build one. With Taskade, you describe the hiring app you want in plain English and [Genesis](https://www.taskade.com/ai/apps) builds it: the pipeline, the candidate database, the screening agents, and the interface — hosted and working.
+A spreadsheet plus an inbox works for one hire. It quietly falls apart at three. This guide is for the hiring manager or small team that needs a real **applicant tracking system (ATS)** — but doesn't have a recruiting-ops department, a budget for enterprise software, or an engineer to build one. With Taskade, you describe the hiring app you want in plain English and [Taskade Genesis](https://www.taskade.com/ai/apps) builds it: the pipeline, the candidate database, the screening agents, and the interface — hosted and working.
 
 [![Build a hiring and applicant tracking app with Taskade Genesis](../../media/apps/project-tracker.gif)](https://www.taskade.com/ai/apps)
 
@@ -33,7 +33,7 @@ A hiring app built on Taskade is not a prettier spreadsheet. It's a small operat
 - **AI screening agents.** Point a Screener agent at your rubric and it reads each new resume, scores it, writes a five-line brief, and flags the matches — with its reasoning attached so you can check the work, not just the number. You review ten candidates in the time one used to take.
 - **Interview scheduling without the ping-pong.** A Scheduler agent proposes times that fit your calendar, confirms the slot the candidate picks, and books the invite — so the five-email back-and-forth happens without you in the middle of it.
 - **Automated status updates and emails.** When a candidate moves stages, the right things happen on their own: the hiring manager gets notified, an outreach draft gets prepared, the pipeline stays current. (Drafts wait for a human to send — more on that below.)
-- **Seven ways to see the same data.** The same candidates as a Board (by stage), a Table (filter and sort), a Calendar (interviews this week), or a List. Pick the view that fits the question you're asking.
+- **Multiple ways to see the same data.** The same candidates as a Board (by stage), a Table (filter and sort), a Calendar (interviews this week), or a List. Pick the view that fits the question you're asking.
 
 The difference from a stack of tools is the *one workspace* part. The record a Screener updates is the record the hiring manager reads, which is the record the automation acts on. Nothing gets re-keyed between apps, because there's only one app.
 
@@ -70,7 +70,7 @@ The pipeline should move itself between the moments that need a human:
 
 ### 5. Publish and share
 
-Genesis apps are hosted with login built in. Invite your hiring team into the same workspace, and give each manager a filtered view that shows only their reqs. If you want a candidate-facing piece — a public application form that drops new applicants straight into the pipeline, or a simple status page — Genesis can add that, with a custom domain and even payments if you ever run paid skills assessments.
+Genesis apps are hosted with login built in. Invite your hiring team into the same workspace, and give each manager a filtered view that shows only their reqs. If you want a candidate-facing piece — a public application form that drops new applicants straight into the pipeline, or a simple status page — Genesis can add that, with a custom domain (Pro plan and up) and even payments if you ever run paid skills assessments.
 
 > **Tip:** Start with one open role. Get the Screener's rubric right on a single requisition before you point the app at every position you're hiring for. One good pipeline teaches you what the next nine should look like.
 
@@ -161,27 +161,27 @@ Yes — that's the point of a shared workspace. Everyone sees the same candidate
 No, and you shouldn't set it up to. The recommended design has agents score and summarize so a human reviews faster. Rejection stays a human decision. See the [fairness note](#fairness-and-human-in-the-loop).
 
 **How is this different from buying an off-the-shelf ATS?**
-Most ATS products store and move candidates and stop there — and they cost real money per seat per month for features you may not need. A Taskade hiring app does the tracking *and* gives you AI screening and scheduling, *and* you build it to fit your exact process instead of bending your process to fit the software. When your hiring changes, you change the app in click-to-edit.
+An off-the-shelf ATS is built to store candidates and move them through stages. A Taskade hiring app does the tracking *and* gives you AI screening and scheduling, *and* you build it to fit your exact process instead of bending your process to fit the software. When your hiring changes, you change the app in click-to-edit.
 
 **Can candidates apply directly into the pipeline?**
-Yes. Genesis can generate a public application form (with its own domain) that drops new applicants straight into the *Applied* stage, where the Screener picks them up.
+Yes. Genesis can generate a public application form (on its own domain with Pro and up) that drops new applicants straight into the *Applied* stage, where the Screener picks them up.
 
 **Where should I start?**
 Build the app for one open role, get the Screener's rubric right, then add roles and automations once that first pipeline is moving the way you'd move it by hand.
 
 ---
 
-## Clone a ready-made app kit
+## Clone a ready-made App Kit
 
 Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
 
-| App kit | What it does | |
+| App Kit | What it does | |
 |---|---|---|
 | **[Recruitment Workflow](https://www.taskade.com/share/apps/b3by4yg754xrdjut)** | Pipeline candidates and hire faster, application to offer. | [Clone →](https://www.taskade.com/share/apps/b3by4yg754xrdjut) |
 | **[HR Dashboard](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb)** | Manage headcount, reviews, and leave in one place. | [Clone →](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb) |
 | **[Onboarding Guide Portal](https://www.taskade.com/share/apps/cjom1t44r0lf9diu)** | Guide new hires or customers from day 1 to day 30. | [Clone →](https://www.taskade.com/share/apps/cjom1t44r0lf9diu) |
 
-Browse all of them in the [App Kits Gallery →](../genesis/app-kits.md).
+Browse all of them in the [clone-ready App Kits →](../genesis/app-kits.md).
 
 ---
 

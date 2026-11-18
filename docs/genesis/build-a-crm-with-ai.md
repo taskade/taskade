@@ -47,8 +47,8 @@ From a prompt like the one above, Genesis builds a complete application — not 
 | **A dashboard** | The summary screen you described: pipeline value by stage, deals closing soon, recent activity. | Leaders get the "how are we doing" view without building a report. |
 | **AI agents** | The Deal Coach and Follow-up Writer, wired to read and act on the CRM's data. | The CRM does work *for* the team instead of only storing what the team typed. |
 | **Follow-up automations** | The rules you described — e.g. draft a follow-up after 7 quiet days, create an onboarding task when a deal is Won. | The boring, easy-to-skip hygiene happens on its own. |
-| **Login / auth** | Sign-in so only your team can reach the app, with control over who sees what. | It is a real business app, gated, not a public link anyone can wander into. |
-| **Custom domain** | Publish the app on a URL you own (e.g. `crm.yourcompany.com`). | It feels like *your* software, because it is. |
+| **Login / auth** | Sign-in so only the people you invite can reach the app. Sign-in confirms who each person is; showing each person only their own records is a separate setting. | It is a real business app, gated, not a public link anyone can wander into. |
+| **Custom domain** | Publish the app on a URL you own (e.g. `crm.yourcompany.com`), on Pro and up. | It feels like *your* software, because it is. |
 | **Payments (optional)** | If you ask for it, Stripe-style checkout so the app can take payments. | Useful when the CRM doubles as a client portal or sells something. Skip it for an internal CRM. |
 
 A way to picture how the pieces sit together:
@@ -136,7 +136,7 @@ A CRM that lives at a random URL feels like a tool you rent. One on your own dom
 
 1. **Finish and test the app.** Add a few real records, click through the screens, confirm the agents and automations behave. Publish only what you would actually use.
 2. **Publish from Genesis.** The app becomes a hosted, live application with sign-in — no deploy step, no server to manage, no engineer to ask.
-3. **Connect your domain.** Point a domain you own (e.g. `crm.yourcompany.com`) at the published app so your team reaches it at an address that looks and feels like yours.
+3. **Connect your domain (Pro and up).** Point a domain you own (e.g. `crm.yourcompany.com`) at the published app so your team reaches it at an address that looks and feels like yours.
 4. **Invite the team and set access.** Send the sign-in link and control who can see and edit what. The login layer you asked for in the prompt is doing its job from here on.
 
 From your team's side, the result is simple: they go to your URL, sign in, and use a CRM that was built around how your business actually sells.
@@ -152,7 +152,7 @@ Correct. You describe the CRM in plain English and Genesis builds the database, 
 A complete, hosted app: a database (your tables and the links between them), a usable UI, a dashboard, AI agents wired to your data, follow-up automations, login/auth, an optional payments layer, and a custom domain. See [Introducing Taskade Genesis](https://www.taskade.com/blog/introducing-taskade-genesis) for the broader picture.
 
 **How is this different from Airtable or a spreadsheet?**
-A spreadsheet stores rows; you do all the work. Airtable models relational data well but *you* are still the builder, and the data does not act on its own. Genesis builds the whole app from a description and ships it with agents that act on the data and automations that run by themselves. The honest, side-by-side version is in [Taskade vs Airtable](../compare/taskade-vs-airtable.md).
+A spreadsheet stores rows; you do all the work. Genesis builds the whole app from a description and ships it with agents that act on the data and automations that run by themselves. The honest, side-by-side version is in [Taskade vs Airtable](../compare/taskade-vs-airtable.md).
 
 **Can the agents actually do things, or just suggest text?**
 They act. The Deal Coach reads a deal's activity and proposes the next step; the Follow-up Writer drafts and — once you trust it — sends outreach. Add more agents and they form a team that hands work to each other, as covered in [AI agents for sales](../use-cases/ai-agents-for-sales.md).
@@ -171,18 +171,18 @@ Yes. Browse the [Taskade template gallery](https://www.taskade.com/templates) fo
 
 ---
 
-## Clone a ready-made app kit
+## Clone a ready-made App Kit
 
 Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
 
-| App kit | What it does | |
+| App Kit | What it does | |
 |---|---|---|
 | **[Neon CRM Dashboard](https://www.taskade.com/share/apps/nsrm12wns3e1cgni)** | Track leads and close deals at a glance. | [Clone →](https://www.taskade.com/share/apps/nsrm12wns3e1cgni) |
 | **[Client Connect Dashboard](https://www.taskade.com/share/apps/avl35iqxc8t7wk3e)** | See your pipeline and revenue, live. | [Clone →](https://www.taskade.com/share/apps/avl35iqxc8t7wk3e) |
 | **[Sales Pipeline Dashboard](https://www.taskade.com/share/apps/j1n0746e1z0olf6r)** | Forecast deals by stage in real time. | [Clone →](https://www.taskade.com/share/apps/j1n0746e1z0olf6r) |
 | **[Client Portal Nexus](https://www.taskade.com/share/apps/1s4lv2y3jb9z7zpf)** | A branded, self-serve portal your clients log in to. | [Clone →](https://www.taskade.com/share/apps/1s4lv2y3jb9z7zpf) |
 
-Browse all of them in the [App Kits Gallery →](app-kits.md).
+Browse all of them in the [clone-ready App Kits →](app-kits.md).
 
 ---
 

@@ -4,7 +4,7 @@ Most processes live in someone's head. The way a new hire gets onboarded, how an
 
 An **AI flowchart generator** flips that around. You describe a process in plain English — "here's how a customer request moves from inbox to resolved" — and the AI lays out the steps, the decisions, and the branches for you. No dragging. No alignment grid. You think out loud; the diagram appears.
 
-This page covers what an AI flowchart and diagram generator actually does, why it helps non-technical people finally map the workflows they run, how to use it inside Taskade, and the part nobody else does: turning that flowchart into a **running workflow** — a diagram that doesn't just describe the process but executes it.
+This page covers what an AI flowchart and diagram generator actually does, why it helps non-technical people finally map the workflows they run, how to use it inside Taskade, and the next step: turning that flowchart into a **running workflow** — a diagram that doesn't just describe the process but executes it.
 
 [![Map and run a process flow in Taskade](../../media/views/board-view.png)](https://www.taskade.com)
 
@@ -76,7 +76,7 @@ If you're mapping ideas and relationships rather than a step-by-step sequence, t
 
 Here's where an AI flowchart generator inside an AI-native workspace stops being a drawing tool and becomes something else entirely.
 
-In most tools, the flowchart is where the work *ends*. You draw the approval process, you export a PNG, you paste it into a wiki, and then everyone goes back to doing the process by hand — by memory, by email, by hoping the steps happen in order. The diagram describes the work but does nothing to *make* the work happen. It's documentation, and documentation drifts.
+Often, the flowchart is where the work *ends*. You draw the approval process, you export a PNG, you paste it into a wiki, and then everyone goes back to doing the process by hand — by memory, by email, by hoping the steps happen in order. The diagram describes the work but does nothing to *make* the work happen. It's documentation, and documentation drifts.
 
 In Taskade, the flowchart can become the work. The same logic you described — the steps, the branches, the "if this, then that" decisions — is exactly what an [automation](../guides/multi-agent-workspace.md) needs. So a flowchart isn't just a picture of a process; it's the blueprint for a workflow that runs.
 
@@ -105,7 +105,7 @@ What that looks like in practice:
 - **Decision branches become rules.** The fork in your diagram — "if the order is over $500, require approval" — becomes a condition the workflow checks on its own.
 - **The steps that need judgment become AI agents.** A "qualify the lead" or "summarize the request" box hands off to an agent that reads, decides, and writes the result back — the same agents you'd build for [sales](../use-cases/ai-agents-for-sales.md) or support.
 
-This is the difference between memory, intelligence, and execution living in three different products versus one workspace. Elsewhere, your diagram tool, your AI assistant, and your automation engine are strangers. In Taskade, the thing you drew is the thing that runs — so the gap between "how it's supposed to work" and "how it actually works" closes.
+This is the difference between memory, intelligence, and execution living in three different products versus one workspace. When they are three separate products, your diagram tool, your AI assistant, and your automation engine are strangers. In Taskade, the thing you drew is the thing that runs — so the gap between "how it's supposed to work" and "how it actually works" closes.
 
 You don't have to wire all of this by hand. With [Taskade Genesis](https://www.taskade.com/ai/apps), you can describe the whole process — the flow *and* the automation behind it — in plain English and get a working app with the database, agents, and automations already connected.
 

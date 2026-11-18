@@ -132,7 +132,7 @@ A walkthrough you can follow today:
 
 3. **Click to edit anything.** Rename a pipeline stage, tighten the Lead-Qualifier's criteria, change the Follow-up-Writer's tone — point, click, and adjust in plain English. No code, no waiting on a ticket.
 
-4. **Connect your real tools.** Wire in email, calendar, and the rest of your stack through Taskade's integrations so leads, sends, and reminders flow where your team already works.
+4. **Connect your real tools.** Wire in email, calendar, and the rest of your stack through Taskade's integrations (premium integrations need a paid plan) so leads, sends, and reminders flow where your team already works.
 
 5. **Ship it and let it run.** Publish to your team, hand the agents their jobs, and watch the CRM stay clean on its own. Iterate by editing the prompt as your process changes.
 
@@ -157,10 +157,10 @@ Only if you want them to. You decide whether the Follow-up-Writer drafts for hum
 No. You describe roles and outcomes in plain English. Genesis builds the app and the agents; editing is point-and-click. This was designed for sales leaders and ops people, not developers.
 
 **Can the agents work with my existing CRM and tools?**
-Taskade can run as the CRM itself via Genesis, or connect to the tools you already use through its 100+ integrations — email, calendar, and more — so follow-ups and updates flow into your existing workflow.
+Taskade can run as the CRM itself via Genesis, or connect to the tools you already use through its 100+ integrations — email, calendar, and more, with premium integrations on paid plans — so follow-ups and updates flow into your existing workflow.
 
 **How is this different from the "AI" already bolted onto my sales tools?**
-Most tools add a single assistant that suggests text. Taskade gives you a *team* of agents that hand work to each other, plus the memory (your projects and notes) and the execution layer (automations and the app itself) in one workspace. It is the difference between a smart autocomplete and an operating system for the work.
+Taskade gives you a *team* of agents that hand work to each other, plus the memory (your projects and notes) and the execution layer (automations and the app itself) in one workspace. It is the difference between a smart autocomplete and an operating system for the work.
 
 **What if my sales process changes?**
 You edit the prompt. Because the app and agents are generated from a plain-English description, adjusting a stage, a qualification rule, or a follow-up cadence is a sentence, not a sprint.
@@ -170,18 +170,18 @@ Your workspace data stays in your workspace. You control what agents can see and
 
 ---
 
-## Clone a ready-made app kit
+## Clone a ready-made App Kit
 
 Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
 
-| App kit | What it does | |
+| App Kit | What it does | |
 |---|---|---|
 | **[Sales Agent Studio](https://www.taskade.com/share/apps/uo9fc7tfidydkdw9)** | Your always-on AI sales rep, working leads in the background. | [Clone →](https://www.taskade.com/share/apps/uo9fc7tfidydkdw9) |
 | **[Neon CRM Dashboard](https://www.taskade.com/share/apps/nsrm12wns3e1cgni)** | Track leads and close deals at a glance. | [Clone →](https://www.taskade.com/share/apps/nsrm12wns3e1cgni) |
 | **[Sales Pipeline Dashboard](https://www.taskade.com/share/apps/j1n0746e1z0olf6r)** | Forecast deals by stage in real time. | [Clone →](https://www.taskade.com/share/apps/j1n0746e1z0olf6r) |
 | **[Client Connect Dashboard](https://www.taskade.com/share/apps/avl35iqxc8t7wk3e)** | See your pipeline and revenue, live. | [Clone →](https://www.taskade.com/share/apps/avl35iqxc8t7wk3e) |
 
-Browse all of them in the [App Kits Gallery →](../genesis/app-kits.md).
+Browse all of them in the [clone-ready App Kits →](../genesis/app-kits.md).
 
 ---
 

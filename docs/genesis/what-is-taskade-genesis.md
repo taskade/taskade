@@ -31,7 +31,7 @@ flowchart TD
     AX --> L
 ```
 
-Most AI builders stop at one or two of those boxes — they generate a UI, or some code, and leave the rest to you. Genesis generates all of them at once and connects them, because they are already part of the same workspace. The agents can read the database. The automations can trigger the agents. The UI shows the data. Login and payments gate access. It arrives as one running system rather than parts you assemble.
+Genesis generates all of them at once and connects them, because they are already part of the same workspace. The agents can read the database. The automations can trigger the agents. The UI shows the data. Login and payments gate access. It arrives as one running system rather than parts you assemble.
 
 ---
 
@@ -45,12 +45,12 @@ When you describe an app, here is what actually gets created — and what each p
 | **AI agents** | Specialized AI workers that live inside the app, read its data, and take action — answering questions, triaging requests, drafting replies, filling records. |
 | **Automations** | The recurring work runs itself: a form submission routes a lead, a new order emails a receipt, a status change notifies the right person. |
 | **A user interface** | Screens your team and customers actually use — dashboards, forms, tables, and views — generated to fit the app you described. |
-| **Login and authentication** | Real accounts and sign-in, so what you publish isn't wide open. You control who gets in. |
+| **Login and authentication** | Real accounts and sign-in on every plan. You control who gets in, and sign-in confirms who each person is. To show each person only their own records, you turn on a separate setting. |
 | **Payments** | Stripe-backed checkout and paywalls built in, so the app can charge customers and log orders without third-party plumbing. |
-| **A custom domain** | Publish on your own web address (`yourbrand.com`) instead of a generic shared link. |
+| **A custom domain** | Publish on your own web address (`yourbrand.com`) instead of a generic shared link (Pro and up). |
 | **Hosting** | The app runs at a live URL. There is nothing to deploy, no server to rent, no DevOps to learn. |
 
-The short version: other AI tools generate *code*. Genesis generates a *product*.
+The short version: Genesis generates a running *product*, not only *code*.
 
 ---
 
@@ -90,14 +90,14 @@ The loop closes because the apps Genesis builds feed their data back into Memory
 
 ## Start from a finished app, not a blank prompt
 
-You don't have to describe everything from scratch. Taskade publishes a gallery of **app kits** — live, finished Genesis apps with their data, AI agents, and automations already wired up. Clone one in about a minute, then make it yours: rename it, add your data, add a login, and publish on your own domain.
+You don't have to describe everything from scratch. Taskade publishes the [Taskade App Factory](https://www.taskade.com/apps), a gallery of **App Kits** — live, finished Genesis apps with their data, AI agents, and automations already wired up. Clone one in about a minute, then make it yours: rename it, add your data, add a login, and publish on your own domain.
 
-Cloning is the fastest path for common needs — a CRM, a help desk, a client portal, a storefront. You start from something that already works and adjust, rather than starting from zero. Taskade lists 150+ community kits. Browse them in [Clone-Ready App Kits](./app-kits.md), or see a worked walkthrough in [Build a CRM with AI](./build-a-crm-with-ai.md).
+Cloning is the fastest path for common needs — a CRM, a help desk, a client portal, a storefront. You start from something that already works and adjust, rather than starting from zero. Browse our picks in [Clone-Ready App Kits](./app-kits.md), or see a worked walkthrough in [Build a CRM with AI](./build-a-crm-with-ai.md).
 
 There are three ways to start, then:
 
 - **Describe it** — write a prompt and have the app built.
-- **Clone it** — start from a finished app kit and customize.
+- **Clone it** — start from a finished App Kit and customize.
 - **Hire an agent to run it** — bring in a pre-built role (a CFO, CMO, COO, or CEO agent) to operate the app for you.
 
 ---
@@ -114,15 +114,13 @@ If you have ever mapped out a tool in your head, written the requirements, and t
 
 ---
 
-## The honest trade-off: hosted on Taskade, no code export
+## The honest trade-off: built to run on Taskade
 
 Here is the straight version, because it matters when you choose a tool.
 
-**Genesis apps are hosted on Taskade, and you don't get a downloadable codebase to take elsewhere.** If your requirement is "generate source code I own and deploy on my own infrastructure," Genesis is not that tool — and you should know that up front.
+**Genesis apps are hosted on Taskade.** On Pro and up you can export an app to GitHub or download it as a `.tsk` file, but the app is built to run on Taskade, with its agents, automations, and data in your workspace. If your requirement is "generate source code I deploy and maintain on my own infrastructure," a code-first tool can fit better — and you should know that up front.
 
-What you get in exchange is the reason most people choose Genesis in the first place. Prompt-to-*code* tools generate files you then have to host, secure, and maintain yourself — and they hand you no AI agents, no automation engine, and no data layer. You get a starting point and a maintenance bill. Workspace and project tools can configure themselves, but they can't ship a standalone, hosted app with its own login and payments.
-
-Genesis trades code export for **everything being built-in and running**: the database, the agents, the automations, the auth, the payments, and the hosting all arrive together and stay maintained. For a non-technical builder who wants a working product rather than a repository, that is usually the trade worth making. For a team that needs to own and self-host source, it isn't — and that's a fair line to draw.
+What you get in exchange is the reason most people choose Genesis in the first place: **everything is built-in and running** — the database, the agents, the automations, the auth, the payments, and the hosting all arrive together and stay maintained. For a non-technical builder who wants a working product rather than a repository, that is usually the trade worth making. For a team that needs to own and self-host source, it isn't — and that's a fair line to draw.
 
 See how that trade compares across categories in the [comparison hub](../compare/README.md).
 
@@ -138,9 +136,9 @@ Taskade Genesis is an AI app builder that turns a plain-English description into
 
 You open the builder, describe the outcome in plain English, and Genesis generates the projects, agent roles, automations, and UI. You run it, refine it in click-to-edit (changes are live immediately), then share with your team or publish on a custom domain.
 
-### What does Genesis build that other AI builders don't?
+### What does Genesis build besides code?
 
-Genesis ships built-in intelligence — AI agents, automations, and a database — not just code files you host yourself. Prompt-to-code tools generate a UI or source you then maintain; Genesis hands you a running product with the agents and data layer already wired in.
+Genesis ships built-in intelligence — AI agents, automations, and a database — not just code files you host yourself. Genesis hands you a running product with the agents and data layer already wired in.
 
 ### Is the app actually hosted, or just a prototype?
 
@@ -152,7 +150,7 @@ Yes. Genesis apps support Stripe-backed checkout and paywalls built in, so an ap
 
 ### Can I clone an app instead of starting from a blank prompt?
 
-Yes. You can clone a live community app kit in about a minute — data, AI agents, and automations already wired up — then rename it, add your data, add a login, and publish on your own domain. Taskade lists 150+ community kits.
+Yes. You can clone a live App Kit from the [Taskade App Factory](https://www.taskade.com/apps) in about a minute — data, AI agents, and automations already wired up — then rename it, add your data, add a login, and publish on your own domain (Pro and up).
 
 ### Who is Taskade Genesis for?
 
@@ -172,7 +170,7 @@ Yes, you can start building from a prompt for free. Higher AI usage, more agents
 
 - [What is an AI-native workspace?](../guides/ai-workspace.md) — the Memory + Intelligence + Execution foundation Genesis runs on.
 - [What is a multi-agent workspace?](../guides/multi-agent-workspace.md) — the intelligence layer inside every Genesis app.
-- [Clone-Ready App Kits](./app-kits.md) — 150+ live apps you can clone in about a minute.
+- [Clone-Ready App Kits](./app-kits.md) — live apps picked by Team Taskade that you can clone in about a minute.
 - [Build a CRM with AI](./build-a-crm-with-ai.md) — a worked, end-to-end example.
 - [Comparison hub](../compare/README.md) — how Genesis stacks up against code builders, doc tools, and agent platforms.
 

@@ -42,7 +42,7 @@ A real, editable catalog backed by a database: products with names, descriptions
 
 ### Stripe checkout — payments built in
 
-This is the part other tools make you fight for. Genesis wires up **Stripe checkout** so the store takes real card payments from day one. Cart, secure payment, success and failure handling — generated and connected, not left as a "now integrate your payment provider" homework assignment. Payments are a built-in Genesis capability: the same machinery that adds a paywall to a SaaS app or a "pay to book" step to a booking app powers a full retail checkout here. You connect your own Stripe account so the money lands in *your* account, and you keep the standard Stripe fee structure — Taskade isn't a middleman on your revenue.
+Genesis wires up **Stripe checkout** so the store takes real card payments from day one. Cart, secure payment, success and failure handling — generated and connected, not left as a "now integrate your payment provider" homework assignment. Payments are a built-in Genesis capability: the same machinery that adds a paywall to a SaaS app or a "pay to book" step to a booking app powers a full retail checkout here. You connect your own Stripe account so the money lands in *your* account, and you keep the standard Stripe fee structure — Taskade isn't a middleman on your revenue.
 
 ### An orders table
 
@@ -50,7 +50,7 @@ Every purchase becomes a row in an orders table you actually run your business f
 
 ### Customer accounts and login
 
-Genesis builds authentication in. Customers can create an account, log in, and see their own order history; you get a customer list as part of the app's data. Login isn't a separate service you stitch in — it's part of what "build me a store" includes.
+Genesis builds authentication in. Customers can create an account and log in, and you get a customer list as part of the app's data. Sign-in confirms who each person is. To show each person only their own records, turn on the separate setting that matches records to the login, and test it with a second account. Login isn't a separate service you stitch in — it's part of what "build me a store" includes.
 
 ### Order automations
 
@@ -102,7 +102,7 @@ Here's the actual path from a sentence to a store you can take orders on.
 
 **4. Connect Stripe.** Link your own Stripe account so checkout takes real payments into your account. Test it with Stripe's test mode, then flip to live.
 
-**5. Publish.** Push the store live on a Taskade-hosted URL, or **connect your own custom domain** so customers see *your* brand. Hosting is handled — there's no server to provision.
+**5. Publish.** Push the store live on a Taskade-hosted URL, or **connect your own custom domain** (Pro and up) so customers see *your* brand. Hosting is handled — there's no server to provision.
 
 **6. Sell, then iterate.** Take orders, fulfill from the orders table, watch the dashboard. When you want a new product type, a discount code, or a different confirmation email, you change the app — you don't start a new project.
 
@@ -139,7 +139,7 @@ Every change is reversible, and nothing requires touching code.
 When the store is ready, you publish it the same way you'd publish any Genesis app:
 
 1. **Set checkout to live.** Switch Stripe from test mode to live so real payments process into your account.
-2. **Choose your URL.** Ship on a Taskade-hosted address, or **connect a custom domain** so customers land on `yourstore.com`. Hosting, SSL, and uptime are handled for you.
+2. **Choose your URL.** Ship on a Taskade-hosted address, or **connect a custom domain** (Pro and up) so customers land on `yourstore.com`. Hosting, SSL, and uptime are handled for you.
 3. **Go live.** Share the link, run your launch, and start taking orders. Updates you make to the app publish without taking the store down.
 
 Because it's hosted for you, there's no server to manage, no deploy pipeline, and no separate billing for infrastructure — the store you described is the store that's live.
@@ -155,7 +155,7 @@ Yes. Checkout is powered by Stripe, connected to your own Stripe account, so rea
 No. You describe the store in plain English and Genesis builds it. Editing, adding products, and changing automations are all done by clicking or by asking — never by writing code. This page is written for the non-technical-but-systems-literate builder who wants to ship a real store without waiting on engineering.
 
 **Can I use my own domain?**
-Yes. You can publish to a Taskade-hosted URL or connect a custom domain so customers see your brand. Hosting and SSL are handled.
+Yes. You can publish to a Taskade-hosted URL, or on Pro and up connect a custom domain so customers see your brand. Hosting and SSL are handled.
 
 **Who holds the money and pays the fees?**
 You connect your own Stripe account, so revenue flows directly to you under Stripe's standard fee structure. Taskade isn't a payment middleman taking a cut of your sales.
@@ -174,16 +174,16 @@ You can start at [taskade.com](https://www.taskade.com) and build your first sto
 
 ---
 
-## Clone a ready-made app kit
+## Clone a ready-made App Kit
 
 Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
 
-| App kit | What it does | |
+| App Kit | What it does | |
 |---|---|---|
 | **[Inventory Management](https://www.taskade.com/share/apps/94o8cjl33yz7z8ke)** | Track SKUs and stock with low-stock alerts. | [Clone →](https://www.taskade.com/share/apps/94o8cjl33yz7z8ke) |
 | **[Invoice Tracker](https://www.taskade.com/share/apps/rsltpd5cegha5ulc)** | Track hours, rates, and earnings — and get paid. | [Clone →](https://www.taskade.com/share/apps/rsltpd5cegha5ulc) |
 
-Browse all of them in the [App Kits Gallery →](app-kits.md).
+Browse all of them in the [clone-ready App Kits →](app-kits.md).
 
 ---
 

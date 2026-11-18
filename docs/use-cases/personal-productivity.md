@@ -6,7 +6,7 @@ This page shows how to run your whole personal operating system in one workspace
 
 [![Map your mind into a visual knowledge graph, then plan and track from it](../../media/features/knowledge-graph.gif)](https://www.taskade.com)
 
-The workspace that makes this work is **Taskade Genesis** — an AI-native workspace where your notes, mind maps, tasks, and habits live together, with AI that can read all of it and help you move. Below, the three moves, then how AI turns them into a daily system, with example setups you can copy.
+The workspace that makes this work is **Taskade** — an AI-native workspace where your notes, mind maps, tasks, and habits live together, with AI that can read all of it and help you move. Below, the three moves, then how AI turns them into a daily system, with example setups you can copy.
 
 ---
 
@@ -28,7 +28,7 @@ When all three live in the same workspace, nothing has to be copied between tool
 
 Thinking doesn't arrive as a tidy list. It comes in clusters — half-formed, out of order, related in ways you can't see until they're in front of you. A blank document is the wrong container for that; it forces you to commit to a sequence before you understand the shape. A **mind map** is the right one. One central idea in the middle, branches for the big pieces, twigs for the details — a picture of how your thoughts actually connect.
 
-In Taskade, the map is one of seven views over the same project, so it isn't a drawing you'll have to redo later — it's real, structured data from the moment you make it. The fastest way to start is to let the AI build the first draft:
+In Taskade, the map is one of multiple views over the same project, so it isn't a drawing you'll have to redo later — it's real, structured data from the moment you make it. The fastest way to start is to let the AI build the first draft:
 
 1. **Dump the topic.** Open a project, switch to **Mind Map** view, and describe what's on your mind in plain English — *"everything I need to do to apply to grad school"* or *"my idea for a side business."*
 2. **Get a branching structure back.** The AI returns a full map: central topic, main branches, sub-branches already filled in. You start from a draft instead of a blank canvas — and editing a structure is far easier than inventing one cold.
@@ -52,7 +52,7 @@ The reason Taskade fits a personal system so well is that the *same* tasks can b
 - **Board** — Kanban columns (To Do / Doing / Done). Best for seeing flow and limiting how much you've got in progress at once.
 - **Calendar** — your tasks on dates. Best for protecting time and seeing the week honestly, instead of pretending everything fits.
 
-There are seven views in all — List, Board, Calendar, Table, Mind Map, Gantt, and Org Chart — over one set of data. You're never copying tasks from a "planning" tool into a "calendar" tool. You're rotating one project to the angle that helps right now. That single-source-of-truth idea is the spine of the whole workspace; for the bigger picture see [What Is an AI Workspace?](../guides/ai-workspace.md).
+There are multiple views — List, Board, Calendar, Table, Mind Map, Gantt Chart, Org Chart, and more — over one set of data. You're never copying tasks from a "planning" tool into a "calendar" tool. You're rotating one project to the angle that helps right now. That single-source-of-truth idea is the spine of the whole workspace; for the bigger picture see [What Is an AI Workspace?](../guides/ai-workspace.md).
 
 ---
 
@@ -97,7 +97,7 @@ Try a prompt like:
 
 What comes back isn't advice — it's a working setup inside your workspace: a **mind map** of the story, a **task plan** broken into milestones across List and Calendar views, and a **habit checklist** for the daily word count. One sentence in, your personal operating system out. From there you edit, because it's yours and it's real data — not a static template you have to copy by hand.
 
-That's the leap a true personal productivity app makes over a stack of separate tools: the thing you describe and the thing you run are the same thing. And if a personal project ever grows up — a side business, a community, a tool other people want to use — the same workspace can take it further with **Genesis**, which builds a complete, hosted, working app from a plain-English description: database, AI agents, automations, UI, login and auth, payments, and a custom domain. Most of the time you'll never need that. But it's the difference between a planner that boxes you in and one that never becomes the ceiling. Start at the [Genesis app builder](https://www.taskade.com/ai/apps).
+That's the leap a true personal productivity app makes over a stack of separate tools: the thing you describe and the thing you run are the same thing. And if a personal project ever grows up — a side business, a community, a tool other people want to use — the same workspace can take it further with **Taskade Genesis**, which builds a complete, hosted, working app from a plain-English description: database, AI agents, automations, UI, login and auth, payments, and a custom domain. Most of the time you'll never need that. But it's the difference between a planner that boxes you in and one that never becomes the ceiling. Start at the [Genesis app builder](https://www.taskade.com/ai/apps).
 
 ---
 

@@ -35,13 +35,13 @@ Taskade is an AI-native workspace that spans all three, plus **Taskade Genesis**
 
 This is the category that gets knowledge *organized*. **Notion** is a best-in-class document and database workspace; if most of your work is writing, wikis, and flexible relations, it's hard to beat. **Coda** is a uniquely flexible doc-database hybrid — tables, formulas, buttons, and 600+ Packs in one canvas — and for deeply customized internal tooling it remains a more powerful builder than most. **Airtable** is a genuinely strong relational database with spreadsheet ergonomics that scales well.
 
-What they share is a ceiling: they're built to *store and structure* information. Taskade starts from the same foundation — projects, notes, and tables — but the point is what sits on top: multi-agent teams that read and write your data, automations you describe in plain English, and Genesis to turn that data into a standalone hosted app. The honest trade is relational depth (Notion and Airtable win there) for an AI execution layer these tools weren't designed to have.
+What they share is a ceiling: they're built to *store and structure* information. Taskade starts from the same foundation — projects, notes, and tables — but the point is what sits on top: multi-agent teams that read and write your data, automations you describe in plain English, and Genesis to turn that data into a standalone hosted app. The honest trade is relational depth (Notion and Airtable win there) for an AI execution layer built into the workspace.
 
 ### Work management — Asana, ClickUp, Monday.com, Trello
 
 This is the category that gets work *planned, tracked, and shipped*. **Asana** is genuinely deep, mature project and portfolio management — Timeline, Workload, Goals, Portfolios — with strong enterprise governance; for large, governance-heavy organizations that depth is a real advantage. **ClickUp** packs nearly every PM feature into one configurable product. **Monday.com** is a polished visual Work OS with mature rule-based automations. **Trello** is the simplest kanban around, and that simplicity is a feature.
 
-Taskade covers the same planning surface — seven project views including List, Board, Calendar, Table, Mind Map, Gantt, and Org Chart — but trades some enterprise-grade governance and feature density for AI that's native rather than bolted on. Where these tools automate with fixed trigger-action rules, Taskade adds agents that reason over context and take action, and Genesis to build the tool itself.
+Taskade covers the same planning surface — multiple project views including List, Board, Calendar, Table, Mind Map, Gantt Chart, and Org Chart — but trades some enterprise-grade governance and feature density for AI that's native to the workspace. Beyond trigger-action rules, Taskade adds agents that reason over context and take action, and Taskade Genesis to build the tool itself.
 
 ### AI agent builders — Lindy, Gumloop, Zapier Agents
 
@@ -55,7 +55,7 @@ Strip away the feature lists and the same three differences show up in every com
 
 ### 1. AI-native, not bolted on
 
-Most incumbents added AI as a side panel — a chat box that returns text you still have to act on, and forgets your context between sessions. In Taskade, AI is the substrate. Agents share your workspace memory, take real actions (creating tasks, filling databases, running automations), and produce work back inside the workspace. That's the difference between a tool with an AI feature and an AI-native workspace. We unpack what "AI-native" actually means in [our AI workspace guide](../guides/ai-workspace.md).
+AI as a side panel is a chat box that returns text you still have to act on. In Taskade, AI is the substrate. Agents share your workspace memory, take real actions (creating tasks, filling databases, running automations), and produce work back inside the workspace. That's the difference between a tool with an AI feature and an AI-native workspace. We unpack what "AI-native" actually means in [our AI workspace guide](../guides/ai-workspace.md).
 
 ### 2. Three categories in one product
 
@@ -63,7 +63,7 @@ Notion is docs. Asana is work management. Lindy is agents. Each is excellent ins
 
 ### 3. Taskade Genesis is the moat
 
-This is the part no one else on this page does. None of these tools — not the doc apps, not the PM platforms, not the agent builders — ships a complete, standalone, hosted application from a plain-English prompt. Genesis does: database, AI agents, automations, UI, login and auth, Stripe-backed payments, and a custom domain. The doc tools can configure themselves; the agent builders automate across *other* apps; Genesis builds the app itself and the agents that run it. That's the wedge that holds across every comparison. Read more in [What is Taskade Genesis?](../genesis/what-is-taskade-genesis.md).
+Taskade Genesis ships a complete, standalone, hosted application from a plain-English prompt: database, AI agents, automations, UI, login and auth, Stripe-backed payments, and a custom domain. Genesis builds the app itself and the agents that run it, inside the same workspace as your projects and automations. Read more in [What is Taskade Genesis?](../genesis/what-is-taskade-genesis.md).
 
 ## Related
 

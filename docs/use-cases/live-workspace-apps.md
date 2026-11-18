@@ -127,17 +127,16 @@ If your need is specific to you, describe it and have it built. If something clo
 
 ---
 
-## Clone a ready-made app kit
+## Clone a ready-made App Kit
 
 Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
 
-| App kit | What it does | |
+| App Kit | What it does | |
 |---|---|---|
 | **[Onboarding Guide Portal](https://www.taskade.com/share/apps/cjom1t44r0lf9diu)** | Guide new hires or customers from day 1 to day 30. | [Clone →](https://www.taskade.com/share/apps/cjom1t44r0lf9diu) |
 | **[HR Dashboard](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb)** | Manage headcount, reviews, and leave in one place. | [Clone →](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb) |
-| **[Team Capacity Planner](https://www.taskade.com/share/apps/8oye4ehejlokelxb)** | See who's doing what, and when. | [Clone →](https://www.taskade.com/share/apps/8oye4ehejlokelxb) |
 
-Browse all of them in the [App Kits Gallery →](../genesis/app-kits.md).
+Browse all of them in the [clone-ready App Kits →](../genesis/app-kits.md).
 
 ---
 

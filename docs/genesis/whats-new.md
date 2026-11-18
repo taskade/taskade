@@ -26,7 +26,7 @@ Newest themes first. Each one is a real capability you can use today, not a road
 
 ### Introducing Live Workspace Apps — Wiki. Hiring. Meetings.
 
-The newest release turns three jobs that usually eat a whole afternoon into apps that just run. A **wiki that answers questions across your docs** — ask it something and it reads everything you've written to reply, instead of making you hunt through pages. A **hiring board that nudges you on follow-ups** — candidates move through stages and the board reminds you who's waiting on a reply. And a **meeting scheduler with availability voting and AI-drafted invites** — people vote on the times that work, and the invite writes itself.
+This release turns three jobs that usually eat a whole afternoon into apps that just run. A **wiki that answers questions across your docs** — ask it something and it reads everything you've written to reply, instead of making you hunt through pages. A **hiring board that nudges you on follow-ups** — candidates move through stages and the board reminds you who's waiting on a reply. And a **meeting scheduler with availability voting and AI-drafted invites** — people vote on the times that work, and the invite writes itself.
 
 What it means for you: the knowledge base, the applicant tracker, and the meeting wrangling that each used to be a separate tool (and a separate subscription) are now three live apps inside the same workspace — sharing the same memory and the same agents, ready to use instead of set up.
 

@@ -1,5 +1,5 @@
 name: 🐞 Product bug (taskade.com)
-description: Report something broken in the Taskade app, a Genesis app, an agent, or an automation
+description: Report something broken in the Taskade app, a Taskade Genesis app, an agent, or an automation
 title: "[Product]: "
 labels: ["bug", "product"]
 assignees: ["deanzaka"]
@@ -54,7 +54,7 @@ body:
         - AI agents
         - Automations and flows
         - Projects and tasks
-        - Templates and app kits
+        - Templates and App Kits
         - Sharing and permissions
         - Billing and plans
         - Mobile or desktop app

@@ -32,7 +32,7 @@ Yes. Genesis apps support Stripe-backed checkout and paywalls built in, so an ap
 
 ### Can I clone an existing app instead of starting from a blank prompt?
 
-Yes. You can clone a live community app kit in about a minute — data, AI agents, and automations already wired up — then rename it, add your data, add a login, and publish on your own domain. Taskade lists 150+ community kits.
+Yes. You can clone a live App Kit from the [Taskade App Factory](https://www.taskade.com/apps) in about a minute — data, AI agents, and automations already wired up — then rename it, add your data, add a login, and publish on your own domain (Pro and up).
 
 ### What's the difference between vibe coding and what Genesis does?
 
@@ -76,15 +76,15 @@ Yes. Agents live in the same projects your team uses — they can be assigned ta
 
 ### Is Taskade a Notion alternative?
 
-Yes — but a structurally different one. Notion is document-first; Taskade is AI-native, with multi-agent teams, built-in automations, and Genesis (prompt-to-hosted-app with database, auth, payments, and a custom domain). Notion isn't designed to ship standalone apps.
+Yes — but a structurally different one. Notion is document-first; Taskade is AI-native, with multi-agent teams, built-in automations, and Taskade Genesis (prompt-to-hosted-app with database, auth, payments, and a custom domain).
 
 ### Is Taskade an Asana alternative?
 
-Yes. Asana is deep enterprise work and portfolio management; Taskade is an AI-native workspace with native multi-agent teams and Genesis app-building. Asana layers AI Studio on top of per-seat pricing as metered credits, while Taskade includes AI in the workspace.
+Yes. Asana is deep enterprise work and portfolio management; Taskade is an AI-native workspace with native multi-agent teams and Taskade Genesis app-building.
 
 ### Is Taskade a Coda alternative?
 
-Yes. Coda builds "docs that act like apps" by hand with formulas and Packs; Taskade Genesis turns a plain-English prompt into a standalone hosted app, and agents are first-class across the workspace. Coda's product is also mid-transition under the Superhuman/Grammarly umbrella.
+Yes. Coda builds "docs that act like apps" by hand with formulas and Packs; Taskade Genesis turns a plain-English prompt into a standalone hosted app, and agents are first-class across the workspace.
 
 ### Is Taskade an Airtable alternative?
 
@@ -92,11 +92,11 @@ Yes. Airtable is a powerful database/spreadsheet tool; Taskade adds AI agents th
 
 ### How is Taskade different from AI agent tools like Lindy, Gumloop, or Zapier?
 
-Those are automation layers that act across your other apps, where your work still lives. Taskade is an AI-native workspace where agents, projects, docs, and the apps they build live together — so agents have native context, with predictable workspace pricing instead of per-activity credits.
+Those are automation layers that act across your other apps, where your work still lives. Taskade is an AI-native workspace where agents, projects, docs, and the apps they build live together — so agents have native context.
 
-### What does Taskade do that Notion and ClickUp don't?
+### What does Taskade do differently from Notion and ClickUp?
 
-Two things stand out: multi-agent teams that take real action, and Genesis — building a complete hosted app (database, auth, payments, UI, custom domain) from a plain-English description. Those tools configure themselves; Genesis ships a product.
+Two things stand out: multi-agent teams that take real action, and Genesis — building a complete hosted app (database, auth, payments, UI, custom domain) from a plain-English description.
 
 ### Should I switch from my current tool to Taskade?
 
@@ -106,7 +106,7 @@ You don't have to rip anything out to start. With 100+ integrations Taskade can 
 
 ### Is Taskade free?
 
-Yes — Taskade has a free tier, and plans start at $0/month. Paid plans add more AI usage, agents, and automation runs. Always check taskade.com for current pricing.
+Yes — Taskade has a free tier, and plans start at $0/month. Free starts with 0 AI credits, and you earn free credits with referrals and invites. Paid plans add monthly AI credits, more agents, and more automation runs. Always check taskade.com for current pricing.
 
 ### Is Taskade Genesis free to try?
 
@@ -114,15 +114,15 @@ Yes, you can start building from a prompt for free. Higher AI usage, more agents
 
 ### What integrations does Taskade support?
 
-Taskade supports 100+ integrations, covering the common stack — Slack, Stripe, Shopify, Gmail, Google Calendar, Google Drive, Google Sheets, Notion, HubSpot, GitHub, Discord, and more. Connect a tool once and your agents and flows can read and write to it.
+Taskade supports 100+ integrations, covering the common stack — Slack, Stripe, Shopify, Gmail, Google Calendar, Google Drive, Google Sheets, Notion, HubSpot, GitHub, Discord, and more. Connect a tool once and your agents and flows can read and write to it. Automations run on every plan, and premium integrations such as these need a paid plan.
 
 ### What is MCP (Model Context Protocol)?
 
-MCP is a shared standard for plugging tools into AI — Taskade describes it as "USB-C for AI tools." A tool that speaks the standard can connect to your agents without a bespoke build, and Taskade can both use connected tools and be a tool other AI systems connect to.
+MCP is a shared standard for plugging tools into AI — Taskade describes it as "USB-C for AI tools." A tool that speaks the standard can connect without a bespoke build. A Taskade automation can call an external MCP server, and AI tools such as Claude, ChatGPT, and Cursor can connect to Taskade through the [hosted MCP server](https://www.taskade.com/mcp) on every paid plan.
 
 ### Is my data private and secure in Taskade?
 
-Your workspace is yours. Memory is what you put in it — your projects, notes, and uploads — and you control which agents, apps, and connected tools can see what. Genesis apps support login and auth so what you publish isn't wide open. For current compliance specifics, check taskade.com.
+Your workspace is yours. Memory is what you put in it — your projects, notes, and uploads — and you control which agents, apps, and connected tools can see what. Taskade Genesis apps support sign-in on every plan, so you choose who can open what you publish. Sign-in confirms who a visitor is. To show each person only their own records, you turn on a separate setting and test it with a second account. For current compliance specifics, check taskade.com.
 
 ## Related
 

@@ -2,7 +2,7 @@
 
 Type a topic. Get back a complete, branching mind map — main idea in the center, sub-topics radiating out, each one already broken into the next level of detail. That's what an **AI mind map generator** does: it turns the blank canvas into a finished structure in seconds, so the hard part of thinking — getting started — is already done.
 
-This page explains what an AI mind map generator actually is, why visual thinking helps people who don't write code or run projects for a living, and how to make one in Taskade in a few steps. Then it shows the part most tools can't do: turning that mind map into a *working app or project* with one more step.
+This page explains what an AI mind map generator actually is, why visual thinking helps people who don't write code or run projects for a living, and how to make one in Taskade in a few steps. Then it shows the next step: turning that mind map into a *working app or project* with one more step.
 
 [![AI mind map generator — type a topic and get a full branching map](../../media/views/mindmap-view.png)](https://www.taskade.com)
 
@@ -46,7 +46,7 @@ The honest caveat: mind maps are for *structure*, not for prose or precise seque
 
 ## How to generate a mind map in Taskade
 
-In Taskade, a mind map isn't a separate drawing tool you export from. It's one of seven views over the same project — so the map you generate is already real, structured data you can act on. Here's the short path.
+In Taskade, a mind map isn't a separate drawing tool you export from. It's one of multiple views over the same project — so the map you generate is already real, structured data you can act on. Here's the short path.
 
 **1. Start a project and pick Mind Map view.** Create a new project and switch its view to **Mind Map**. The same content can be shown as a List, Board, Calendar, Table, Gantt, or Org Chart — but for thinking out loud, start in the map.
 
@@ -58,7 +58,7 @@ In Taskade, a mind map isn't a separate drawing tool you export from. It's one o
 
 **5. Switch views to put it to work.** Flip the same project to **List** or **Board** and your branches become tasks you can assign, schedule, and check off. Nothing is re-entered or exported — it's the same data, seen a different way.
 
-That last step is the quiet superpower: in most tools a mind map is a dead-end drawing. In Taskade it's the front door to a real project. For how this fits the larger picture of memory, agents, and execution in one place, see [What Is an AI Workspace?](../guides/ai-workspace.md).
+That last step is the quiet superpower: in Taskade the mind map is the front door to a real project. For how this fits the larger picture of memory, agents, and execution in one place, see [What Is an AI Workspace?](../guides/ai-workspace.md).
 
 ---
 
@@ -70,7 +70,7 @@ The progression is **map → tasks → app**:
 
 1. **Map.** Generate and refine the mind map — the full shape of the idea, branches and all.
 2. **Tasks.** Switch to List or Board view and the branches are already an actionable project: tasks, sub-tasks, owners, dates. Hand it to a team or to an AI agent to start working.
-3. **App.** Take the *same* structure to **Genesis** and describe what you want it to become. Genesis builds a complete, hosted, working application from a plain-English description — database, AI agents, automations, UI, login and auth, payments, and a custom domain.
+3. **App.** Take the *same* structure to **Taskade Genesis** and describe what you want it to become. Genesis builds a complete, hosted, working application from a plain-English description — database, AI agents, automations, UI, login and auth, payments, and a custom domain.
 
 A concrete example. You map out a "client onboarding" idea — branches for *intake form, document collection, kickoff call, project setup, billing.* That map is a clear thinking artifact. Switch views and it's a task checklist your team can run. Then hand the structure to Genesis and ask for a **client portal app**, and you get a real one your clients can log into — not a mockup, software that works today. Start at the [Genesis app builder](https://www.taskade.com/ai/apps).
 

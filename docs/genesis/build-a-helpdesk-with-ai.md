@@ -41,7 +41,7 @@ From a prompt like the one above, Genesis generates a connected app with these p
 
 ### 1. The Tickets table — your system of record
 
-A real database table where every support request lives as a row. Each ticket carries the fields you described — subject, customer email, category, priority, status, assignee, dates — and you can view the same data seven ways without moving it:
+A real database table where every support request lives as a row. Each ticket carries the fields you described — subject, customer email, category, priority, status, assignee, dates — and you can view the same data in multiple ways without moving it:
 
 - **Table view** for the spreadsheet feel: filter to "urgent + unassigned," sort by oldest, bulk-edit.
 - **Board view** to drag tickets across status columns (New → Open → Pending → Resolved).
@@ -76,7 +76,7 @@ These run around the clock, so your queue is always sorted even when no one's wa
 
 ### 5. A customer portal with login
 
-A hosted front end your customers actually use. They log in, submit a new ticket through a form, and check the status of tickets they've already opened — without emailing you to ask "any update?" Genesis builds the auth and the portal UI; you decide how it looks and what it's called. For a deeper look at the portal pattern and how it connects back to your tickets, the [customer support use case](../use-cases/ai-agents-for-customer-support.md) walks through the agent side in detail.
+A hosted front end your customers actually use. They log in, submit a new ticket through a form, and check the status of tickets they've already opened — without emailing you to ask "any update?" Genesis builds the auth and the portal UI; you decide how it looks and what it's called. Sign-in confirms who each person is. To show each person only their own records, turn on the separate setting that matches records to the login, and test it with a second account. For a deeper look at the portal pattern and how it connects back to your tickets, the [customer support use case](../use-cases/ai-agents-for-customer-support.md) walks through the agent side in detail.
 
 ### 6. An analytics dashboard
 
@@ -160,7 +160,7 @@ When the desk is ready, publishing is a step, not a project.
 1. **Turn the app live.** Genesis hosts it — there's nothing to deploy and no server to manage.
 2. **Share the portal.** Send customers the login link, or embed the ticket-intake form directly on your website or help center.
 3. **Set permissions.** Decide who on your team can see and work tickets, and what customers can see in the portal (their own tickets, not everyone's).
-4. **Point a domain at it.** Put the portal on a subdomain of your own brand so it feels like a native part of your product.
+4. **Point a domain at it (Pro and up).** Put the portal on a subdomain of your own brand so it feels like a native part of your product.
 
 From here the desk runs on its own: customers submit, triage sorts, the reply agent drafts, automations move statuses, and your team handles the cases that need a person — with the analytics dashboard showing you the whole picture.
 
@@ -177,7 +177,7 @@ No. You describe the desk in plain English, fill the knowledge base with your re
 Real. It's a hosted application with a working database, live AI agents, running automations, a customer-facing portal with login, and a URL you can share today. It's not a mockup or a static template — it's a functioning AI help desk app from the first build.
 
 **How is this different from buying Zendesk or Freshdesk?**
-Those are mature platforms you configure to fit your process over weeks, with AI added on top later. Genesis generates the desk from your description in an afternoon, with the AI agents native to it rather than bolted on — and the whole thing lives in the same workspace as your knowledge base, automations, and team. For many teams that's the difference between launching this week and launching next quarter.
+Those are mature support platforms. Genesis generates the desk from your description in an afternoon, with the AI agents native to it — and the whole thing lives in the same workspace as your knowledge base, automations, and team. For many teams that's the difference between launching this week and launching next quarter.
 
 **Will the reply agent send wrong answers to customers?**
 Only if you let it. You decide which question types an agent may answer directly — typically the safe, repetitive FAQs — and everything else is drafted for a human to review before sending. Because replies are grounded in your own knowledge base and cite their source, reviewers verify them in seconds, and the agent escalates rather than guesses when it's unsure.
@@ -189,21 +189,21 @@ From the knowledge base you build inside the app — your help articles, policie
 Yes, and you should. Launch with the Tickets table, the two agents, and a couple of automations. Prove it on one repetitive question, then add agents, fields, statuses, and automations as your confidence grows. Each piece is useful on its own.
 
 **Can customers track their own tickets?**
-Yes. The customer portal includes login, so customers can submit new tickets and check the status of existing ones themselves — which cuts down the "any update?" emails and keeps your queue focused on actual work.
+Yes. The customer portal includes login, so customers can submit new tickets and check the status of existing ones themselves — which cuts down the "any update?" emails and keeps your queue focused on actual work. Sign-in confirms who each person is. To show each person only their own records, turn on the separate setting that matches records to the login, and test it with a second account.
 
 ---
 
-## Clone a ready-made app kit
+## Clone a ready-made App Kit
 
 Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
 
-| App kit | What it does | |
+| App Kit | What it does | |
 |---|---|---|
 | **[Support Agent](https://www.taskade.com/share/apps/et6hqn2e00ayy26n)** | AI-first ticket triage that answers around the clock. | [Clone →](https://www.taskade.com/share/apps/et6hqn2e00ayy26n) |
 | **[Support Workflow Manager](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv)** | Route tickets and resolve them faster. | [Clone →](https://www.taskade.com/share/apps/s4pf46i9wi60h0rv) |
 | **[Customer Health Dashboard](https://www.taskade.com/share/apps/564685gvoq7j7oua)** | Spot churn risk early and drive renewals. | [Clone →](https://www.taskade.com/share/apps/564685gvoq7j7oua) |
 
-Browse all of them in the [App Kits Gallery →](app-kits.md).
+Browse all of them in the [clone-ready App Kits →](app-kits.md).
 
 ---
 

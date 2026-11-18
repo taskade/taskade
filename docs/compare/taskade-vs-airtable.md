@@ -19,20 +19,20 @@ Both can hold your data. The difference is what happens *next*.
 
 | Capability | Airtable | Taskade |
 |---|---|---|
-| **Databases & tables** | Core strength. Mature relational database, linked records, rich field types, rollups, lookups. | Table view plus 6 other views (List, Board, Calendar, Mind Map, Gantt, Org Chart). Solid for structured data, less specialized than Airtable's relational engine. |
-| **AI agents acting ON your data** | AI add-ons can summarize and generate text in fields. Agents that take actions across records are limited. | Native. AI agents read your projects, answer questions, draft content, update tasks, and run steps against your data. |
-| **Multi-agent teams** | Not a native concept. | Native. Multiple agents with different roles collaborate in one workspace. |
+| **Databases & tables** | Core strength. Mature relational database, linked records, rich field types, rollups, lookups. | Table view plus multiple other project views (List, Board, Mind Map, Calendar, Gantt Chart, Org Chart, and more). Solid for structured data, less specialized than Airtable's relational engine. |
+| **AI agents acting ON your data** | AI agents that act inside your workflows. See [Airtable AI](https://www.airtable.com/platform/ai). | Native. AI agents read your projects, answer questions, draft content, update tasks, and run steps against your data. |
+| **Multi-agent teams** | See [Airtable AI](https://www.airtable.com/platform/ai). | Native. Multiple agents with different roles collaborate in one workspace. |
 | **Automations** | Strong, mature automations and scripting (with a learning curve for advanced logic). | Built-in automations and workflow generation you can describe in plain English. |
 | **App-building / interfaces** | Interface Designer: powerful, hand-built layouts on top of your tables. | **Taskade Genesis** builds a complete hosted app — database, UI, agents, auth, payments, custom domain — from a description. |
-| **Conversational generation** | Limited. You design interfaces and automations manually. | Describe what you want; Taskade generates the structure, the app, the workflow, or the agent. |
+| **Conversational generation** | Omni, an AI app builder. See [Airtable AI](https://www.airtable.com/platform/ai). | Describe what you want; Taskade generates the structure, the app, the workflow, or the agent. |
 | **Templates** | Large template gallery, mostly bases and interfaces. | [Template library](https://www.taskade.com/templates) spanning projects, agents, automations, and apps. |
 | **Learning curve** | Gentle to start; steeper for formulas, rollups, scripting, and Interface Designer. | Gentle throughout; plain-English prompts replace most formula and config work. |
-| **Pricing** | Free tier; paid plans priced per seat, with AI and advanced features on higher tiers. | Free tier; paid plans include AI agents and automations. See current [pricing](https://www.taskade.com). |
-| **Multi-agent AI teams** | Not a native concept. Airtable's AI assists within a base; it doesn't run a team of role-based agents collaborating on shared data. | Native. Spin up multiple agents with distinct roles (sales, support, research) that hand work to each other over the same workspace. |
-| **Persistent agent memory** | Records persist as data, but there's no agent that carries context across sessions and acts on it; AI features are largely per-prompt. | Agents draw on your projects, notes, and uploaded knowledge as a persistent memory layer, so context carries across conversations and runs. |
-| **Build an app from a prompt (Taskade Genesis)** | No. Airtable Cobuilder can scaffold a base or interface from a prompt, but you still assemble and design the app yourself. | Taskade Genesis turns a plain-English prompt into a complete, hosted app — database, UI, agents, automations, auth, payments, and domain — not just a starter base. |
-| **In-app payments (Stripe checkout)** | Not built in. Collecting payments means an extension, a third-party form, or custom scripting wired up by hand. | Genesis apps can include Stripe checkout so a generated app can take payments out of the box, no separate billing tool to stitch in. |
-| **App hosting & custom domains** | Interfaces are shared within Airtable; there's no native public app on your own custom domain. | Genesis apps publish to a live hosted URL and can run on your own custom domain — no deploy step, no engineer. |
+| **Pricing** | Free plan; paid plans priced per seat. See [Airtable pricing](https://www.airtable.com/pricing). | Free plan; each paid plan includes a set number of users and monthly AI credits. See current [pricing](https://www.taskade.com/pricing). |
+| **Multi-agent AI teams** | See [Airtable AI](https://www.airtable.com/platform/ai). | Native. Spin up multiple agents with distinct roles (sales, support, research) that hand work to each other over the same workspace. |
+| **Persistent agent memory** | See [Airtable AI](https://www.airtable.com/platform/ai). | Agents draw on your projects, notes, and uploaded knowledge as a persistent memory layer, so context carries across conversations and runs. |
+| **Build an app from a prompt (Taskade Genesis)** | Omni builds apps from conversation. See [Airtable AI](https://www.airtable.com/platform/ai). | Taskade Genesis turns a plain-English prompt into a complete, hosted app — database, UI, agents, automations, auth, payments, and domain — not just a starter base. |
+| **In-app payments (Stripe checkout)** | Check Airtable's current features. | Genesis apps can include Stripe checkout so a generated app can take payments out of the box, no separate billing tool to stitch in. |
+| **App hosting & custom domains** | Interfaces and Portals. Check Airtable's current features. | Genesis apps publish to a live hosted URL and can run on your own custom domain (Pro and up) — no deploy step, no engineer. |
 | **Automations / workflows** | Strong, mature automations, triggers, and scripting — capable, with a learning curve for advanced logic. | Built-in automations plus workflow generation you describe in plain English; agents can run as steps inside a flow. |
 
 A note on honesty: pricing and feature tiers change for both products. Treat the table as a map of *categories*, not a quote. Check each vendor's live pricing page before you decide.
@@ -52,9 +52,7 @@ If you already love Airtable for these reasons, you may not need to switch at al
 
 Taskade is built for the moment after the database. Three things make it a different kind of tool.
 
-### 1. Describe it, and it's built — with Genesis
-
-In Airtable you assemble an app: create tables, define fields, wire relationships, then hand-build interfaces and automations. It's powerful, but *you* are the builder.
+### 1. Describe it, and it's built — with Taskade Genesis
 
 With **[Genesis](https://www.taskade.com/ai/apps)**, you describe the app in plain English and Taskade builds it — the database, the UI, the AI agents, the automations, login/auth, payments, and a custom domain. A complete, hosted, working app, not a base you still have to design.
 
@@ -66,13 +64,11 @@ The mental shift is worth naming. In Airtable, the unit of work is the *base*: y
 
 ### 2. Agents that act on your data
 
-Airtable stores your records beautifully. But a record on its own doesn't follow up with a lead, draft the reply, summarize the week, or flag what's stuck.
-
 In Taskade, **AI agents live inside the workspace and act on the data there.** An agent can read your CRM, draft outreach, update statuses, and answer "what changed this week?" in plain language. Add more agents with different roles and you have a **multi-agent team** working over the same information — sales, support, research — instead of a static table you query by hand.
 
-This is the AI-native part. The intelligence isn't an add-on bolted onto a database; it's a first-class resident of the workspace. See how that plays out in an [AI workspace](../guides/ai-workspace.md).
+This is the AI-native part. The intelligence is a first-class resident of the workspace. See how that plays out in an [AI workspace](../guides/ai-workspace.md).
 
-The practical upshot: in Airtable, work moves when a person opens the base and does something. In Taskade, work can move when an *agent* notices something — a stalled deal, an unanswered ticket, a research question — and acts on it. For lean teams, that difference compounds. It's the gap between a tool you operate and a workspace that helps operate itself.
+The practical upshot: in Taskade, work can move when an *agent* notices something — a stalled deal, an unanswered ticket, a research question — and acts on it. For lean teams, that difference compounds. It's the gap between a tool you operate and a workspace that helps operate itself.
 
 ### 3. No formula learning curve for non-technical people
 
@@ -118,7 +114,7 @@ Most people discover their answer drifts over time. They start needing a databas
 | Stand up a CRM your team can use, with AI follow-ups | Taskade | Genesis builds the app; agents act on the records. See [build a CRM with AI](../genesis/build-a-crm-with-ai.md). |
 | Give non-technical staff something they can run without formulas | Taskade | Plain-English prompts replace rollups and scripting. |
 | Build a polished, hand-designed dashboard on existing tables | Airtable | Interface Designer is mature and precise. |
-| Run a small team of AI agents over shared data | Taskade | Multi-agent teams are native, not an add-on. |
+| Run a small team of AI agents over shared data | Taskade | Multi-agent teams are native. |
 | Keep your system of record but add AI on top | Both | Airtable for the data, Taskade for the agents and apps. |
 
 There's no shame in the rows that point to Airtable. Picking the right tool for the job is the point of an honest comparison.
@@ -152,7 +148,7 @@ They act. Agents can read your projects, draft and update content, run automatio
 A complete, hosted app from a plain-English description: database, UI, AI agents, automations, login/auth, payments, and a custom domain. See [Introducing Taskade Genesis](https://www.taskade.com/blog/introducing-taskade-genesis).
 
 **How does pricing compare?**
-Both have a free tier and paid per-seat plans. Taskade's paid plans include AI agents and automations. Airtable gates AI and advanced features to higher tiers. Pricing changes over time, so confirm current details on [Taskade](https://www.taskade.com) and Airtable's own pricing page before deciding.
+Both have a free plan. Airtable charges per seat. Each paid Taskade plan includes a set number of users and a monthly allowance of AI credits, and Free starts with 0 credits that you earn with referrals and invites. Pricing changes over time, so confirm current details on [Taskade](https://www.taskade.com) and Airtable's own pricing page before deciding.
 
 **Can I migrate my Airtable data into Taskade?**
 You can recreate structured data in Taskade's Table view or have Genesis generate an app around it. For a fresh start, describing the app you want to Genesis is often faster than rebuilding a base field by field.
