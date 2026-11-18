@@ -2,13 +2,13 @@
 
 The hardest part of building anything is the blank page. A finished app you can clone in one click is the opposite of a blank page — it already has the tables, the screens, the agents, and the automations someone smart already thought through. You start from *working*, not from *nothing*.
 
-That is the whole idea behind cloning community apps in **Taskade Genesis**. Instead of describing an app from scratch, you browse a gallery of complete, working apps other builders have shared, clone the one closest to what you need, and make it yours: rename it, swap in your data, add secure sign-in so the right people can use it, and turn on the AI agents that came baked in. No engineers. No backend. No blank page.
+That is the whole idea behind cloning community apps in **Taskade Genesis**. Instead of describing an app from scratch, you browse the Taskade App Factory, a gallery of complete, working apps other builders have shared, clone the one closest to what you need, and make it yours: rename it, swap in your data, add secure sign-in so the right people can use it, and turn on the AI agents that came baked in. No engineers. No backend. No blank page.
 
 This guide is for the builder who would rather remix than reinvent. It covers what a clone actually copies (more than you'd guess), how to make a cloned app your own, how to add login without touching a server, how to run the built-in agents, how to publish on a domain you own, and which community apps are worth cloning first.
 
 [![Clone and customize community apps in Taskade Genesis](../../media/apps/community-creators.gif)](https://www.taskade.com/apps)
 
-> Start from a finished app, not a blank screen — [browse clonable apps in the template gallery](https://www.taskade.com/apps).
+> Start from a finished app, not a blank screen — [browse clonable apps in the Taskade App Factory](https://www.taskade.com/apps).
 
 ---
 
@@ -38,11 +38,11 @@ This is the part people underestimate. Cloning a community app is not "copy the 
 | **The UI / screens** | The views, forms, and dashboards over that data — list, board, table, calendar, and any summary screens. | Your team gets something clickable, not raw rows. |
 | **The structure, not the secrets** | You clone the *app*, not the original builder's private records or their connected accounts. | You start with a clean app shaped right, then fill it with your own data and connect your own tools. |
 
-So when you clone a CRM app from the gallery, you get the Customers / Deals / Activities tables, the pipeline dashboard, the "draft a follow-up after 7 quiet days" automation, and the Deal Coach agent — as a fresh, empty app you now own. You did not draw any of it. You just decided it was close, and clicked.
+So when you clone a CRM app from the Taskade App Factory, you get the Customers / Deals / Activities tables, the pipeline dashboard, the "draft a follow-up after 7 quiet days" automation, and the Deal Coach agent — as a fresh, empty app you now own. You did not draw any of it. You just decided it was close, and clicked.
 
 ```
          ┌──────────────────────────────────────────┐
-         │        COMMUNITY GALLERY (clonable)        │
+         │       TASKADE APP FACTORY (clonable)       │
          │   CRM · Invoices · Client Portal · Wiki    │
          └─────────────────────┬──────────────────────┘
                                │  one click
@@ -67,7 +67,7 @@ Everything in that middle box arrives connected. When you later change a field o
 
 Clonable apps live in two places, and both are open to browse before you commit.
 
-- **The template gallery.** The [Taskade template gallery](https://www.taskade.com/apps) is the front door — a browsable shelf of complete apps and layouts you can clone and bend to your needs. Skim by category, open one to see how it's built, and clone it if it's close.
+- **The Taskade App Factory.** The [Taskade App Factory](https://www.taskade.com/apps) is the front door — a browsable shelf of complete apps and layouts you can clone and bend to your needs. Skim by category, open one to see how it's built, and clone it if it's close.
 - **Apps shared by other builders.** Community creators publish working Genesis apps for others to clone. You are not just getting Taskade's official starters — you're getting real apps real people shipped, which means you often find something closer to your exact case than a generic template.
 
 A good cloning instinct: do not hunt for the *perfect* match. Find the one that's 70% there — the right shape, the right kind of agents — and clone it. The last 30% is faster to customize than it is to find.
@@ -94,7 +94,7 @@ A cloned app is useful the moment it's yours. It becomes a *real* business app t
 Normally, adding login is the part that quietly summons an engineer — user accounts, password resets, sessions, a database to store all of it, a server to run it on. Genesis includes that layer. You add login by asking for it, and it works.
 
 - **Add sign-in to the cloned app.** Turn on authentication so the app requires a login to open. There's no auth service to wire up, no user table to design, no backend to stand up — the login layer is part of the app Genesis hosts for you.
-- **Decide who gets in.** Invite your team, your clients, or your members and control who can see and edit what. A client portal lets each client see only their own records; an internal CRM stays gated to staff.
+- **Decide who gets in.** Invite your team, your clients, or your members and control who can see and edit what. Sign-in confirms who each person is. To show each client only their own records, you also match records to the login (a separate setting) and test it with a second account. An internal CRM stays gated to staff.
 - **Keep your data behind the gate.** Your workspace data stays in your workspace, and the login you turned on decides who can reach the app at all. You also control what each agent can see and which tools it connects to.
 
 The point is the absence of plumbing. You wanted "only the right people can use this." You got it without standing up a single piece of infrastructure.
@@ -120,7 +120,7 @@ An app that lives at a random URL feels like a tool you rent. One on your own do
 
 1. **Finish and test it.** Add real data, click through the screens, confirm the agents and automations behave, check that login gates the app. Publish only what you'd actually use.
 2. **Publish from Genesis.** The cloned-and-customized app becomes a hosted, live application with sign-in — no deploy step, no server to manage, no engineer to ask.
-3. **Connect a domain you own.** Point an address like `portal.yourcompany.com` at the published app so people reach it somewhere that looks and feels like yours.
+3. **Connect a domain you own (Pro plan and up).** Point an address like `portal.yourcompany.com` at the published app so people reach it somewhere that looks and feels like yours.
 4. **Invite people and set access.** Send the sign-in link and control who sees and edits what. The login layer you added earlier does its job from here on.
 
 From your users' side, the result is simple: they go to your URL, sign in, and use an app that looks like yours — because it is. They never know it started as a clone.
@@ -133,7 +133,7 @@ Five common starting points. Each is faster to clone-and-customize than to build
 
 - **CRM.** Customers, deals, and activities with a pipeline dashboard and follow-up agents. Clone it, gate it to your sales team, point the agents at your voice. If you'd rather understand the full anatomy first, see [Build a CRM with AI](../genesis/build-a-crm-with-ai.md).
 - **Invoice generator.** A client table, an invoice table, line items, and totals — plus an agent that drafts invoices and an automation that nudges on overdue ones. Add sign-in so only your finance folks get in.
-- **Client portal.** A gated space where each client signs in to see their own projects, files, or requests. This is the clearest case for login: the whole point is that clients see *only their own* records.
+- **Client portal.** A gated space where each client signs in to see their own projects, files, or requests. This is the clearest case for login. Sign-in confirms who each client is. To make sure each client sees *only their own* records, also match records to the login (a separate setting) and test it with a second account.
 - **Knowledge base / wiki.** A searchable, structured set of articles your team or your customers can read, with an agent that answers questions from the content. Gate it to staff, or publish a customer-facing version.
 - **Storefront.** A product catalog with checkout, useful when your app needs to take money. Clone it, add your products, and — because Genesis includes a payments layer — start selling without building a backend.
 
@@ -153,7 +153,7 @@ No. You clone with a click, customize by describing changes in plain English or 
 A blank prompt builds an app from your description. Cloning starts from an app someone already built and shipped, so the architecture decisions are made for you. Cloning is faster when something close exists; a fresh prompt is better when your idea is genuinely new. You can also clone first and then reshape it with a Genesis prompt — the two mix freely.
 
 **Where do clonable apps come from?**
-From the [Taskade template gallery](https://www.taskade.com/apps) and from community creators who publish their working apps for others to clone. You're often cloning a real app a real builder shipped, not just a generic starter.
+From the [Taskade App Factory](https://www.taskade.com/apps) and from community creators who publish their working apps for others to clone. You're often cloning a real app a real builder shipped, not just a generic starter.
 
 **How do I add login without a backend?**
 You turn on authentication in the app and invite the people who should have access. Genesis hosts the login layer for you — no auth service to integrate, no user table to design, no server to run. You decide who gets in and what they can see.
@@ -174,8 +174,8 @@ Yes — Genesis includes a payments layer, so a cloned storefront or a portal th
 - [Build a CRM with AI](../genesis/build-a-crm-with-ai.md) — the full anatomy of one app you can clone and customize
 - [Connect tools and automate](../guides/connect-tools-and-automate.md) — give your cloned app's agents memory and wire in the tools you already use
 - [What is an AI workspace?](../guides/ai-workspace.md) — the pillar concept behind memory, agents, and execution in one place
-- [Browse the template gallery](https://www.taskade.com/apps) — the shelf of clonable apps and layouts
+- [Browse the Taskade App Factory](https://www.taskade.com/apps) — the shelf of clonable apps and layouts
 
 ---
 
-**Ready to remix?** [Browse clonable apps in the gallery →](https://www.taskade.com/apps), or [start from a prompt in Taskade Genesis](https://www.taskade.com/ai/apps) — clone, customize, and ship.
+**Ready to remix?** [Browse clonable apps in the Taskade App Factory →](https://www.taskade.com/apps), or [start from a prompt in Taskade Genesis](https://www.taskade.com/ai/apps) — clone, customize, and ship.

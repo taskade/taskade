@@ -49,9 +49,9 @@ Memory is everything your workspace knows: your projects, tasks, notes, mind map
 
 That distinction matters. When your meeting notes, your roadmap, and your customer list are all part of one shared memory, an agent can answer "what did we decide about pricing in Q1?" without you re-explaining the company. The workspace remembers so you don't have to repeat yourself.
 
-You shape this memory the normal way — by writing things down, organizing projects, and viewing them however suits the work: as a **list**, a **board**, a **calendar**, a **table**, a **mind map**, a **Gantt** timeline, or an **org chart**. Seven views over one source of truth. The mind map view, in particular, is a fast way to think out loud and hand the structure straight to an agent — see the [AI Mind Map Generator](../tools/ai-mind-map-generator.md).
+You shape this memory the normal way — by writing things down, organizing projects, and viewing them however suits the work: as a **list**, a **board**, a **calendar**, a **table**, a **mind map**, a **Gantt** timeline, or an **org chart**. Multiple views over one source of truth. The mind map view, in particular, is a fast way to think out loud and hand the structure straight to an agent — see the [AI Mind Map Generator](../tools/ai-mind-map-generator.md).
 
-The reason seven views matter to an *AI* workspace, and not just to a human one, is that the same underlying data can be read in whatever shape the task needs. A human plans on a board and reviews on a calendar; an agent reads the structured table and writes back tasks the human then sees on their list. One memory, many lenses — and nothing gets out of sync, because there's only ever one copy of the truth underneath.
+The reason multiple views matter to an *AI* workspace, and not just to a human one, is that the same underlying data can be read in whatever shape the task needs. A human plans on a board and reviews on a calendar; an agent reads the structured table and writes back tasks the human then sees on their list. One memory, many lenses — and nothing gets out of sync, because there's only ever one copy of the truth underneath.
 
 ### Layer 2 — Intelligence: multi-agent teams
 
@@ -59,7 +59,7 @@ Intelligence is the AI that reads and writes that memory. A single chatbot is a 
 
 One agent drafts. Another fact-checks against your uploaded sources. A third turns the result into tasks and assigns them. Because they share the same memory (Layer 1), there's no copy-pasting between tools and no losing the thread. This is the heart of the platform, and it gets its own deep dive in [The Multi-Agent Workspace](../guides/multi-agent-workspace.md).
 
-### Layer 3 — Execution: automations and Genesis apps
+### Layer 3 — Execution: automations and Taskade Genesis apps
 
 Knowing and thinking are worthless if nothing happens. Execution is the layer that turns intent into action.
 
@@ -87,7 +87,7 @@ No single one of those steps is new. Having them in *one workspace*, with no cop
 
 The phrase gets used loosely, so here is the honest distinction.
 
-Most established tools added AI the only way they could without rebuilding: a panel on the side, a "summarize" button, a chat box. It's useful, and sometimes that's all you need. But the AI sits *outside* the product's core. It doesn't share the data model, it can't take actions, and it forgets context between sessions. You're still the integration layer — copying its answer out, pasting it where it belongs, doing the actual work yourself.
+Many established tools added AI as a panel on the side, a "summarize" button, or a chat box. It's useful, and sometimes that's all you need. When the AI sits *outside* the product's core, you're still the integration layer — copying its answer out, pasting it where it belongs, doing the actual work yourself.
 
 | | AI bolted on | AI-native workspace |
 |---|---|---|
@@ -116,7 +116,7 @@ Concretely, without writing code, one person can:
 
 An enterprise customer who built a production business app solo with Genesis put the outcome plainly: *"What I accomplished in a few weeks would have taken a team of 40+ and 18 months in the Fortune 500."* That's the shape of the change — not incremental speed, but a different order of what one person can do.
 
-David's framing — the IT program manager who's systems-literate but doesn't write code — is the right one to hold in your head. He doesn't want a model. He wants the app live by Friday. An AI-native workspace is the first kind of tool that makes "by Friday, by myself" a reasonable answer.
+Hold one reader in your head: an IT program manager who is systems-literate but doesn't write code. That reader doesn't want a model. They want the app live by Friday. An AI-native workspace is the first kind of tool that makes "by Friday, by myself" a reasonable answer.
 
 ### An honest note on limits
 

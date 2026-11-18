@@ -24,7 +24,7 @@ Most tools give you one of these. The point here is that you don't have to choos
 
 The single most frustrating thing about most AI tools is that they have amnesia. You explain your company, your customers, your tone of voice — and the next time you open the tab, it's a stranger again. You become the memory: copying context in, every single time.
 
-**Agent memory** fixes that. Your projects, notes, uploaded documents, and past conversations form a shared context that your agents can draw on. Ask "what did we promise the Henderson account?" and the agent already knows, because the answer lives in the same workspace it works in. You're not pasting a brief into a chat box — the brief is already there.
+**Agent memory** fixes that. Your projects, notes, uploaded documents, and past conversations form a shared context that your agents can draw on. Ask "what did we promise our biggest client?" and the agent already knows, because the answer lives in the same workspace it works in. You're not pasting a brief into a chat box — the brief is already there.
 
 Why this matters for automation specifically: an automated flow is only as smart as what it remembers. A "follow up with new leads" flow that forgets your product, your pricing, and last week's conversation writes generic junk. One that shares your workspace memory writes a follow-up that sounds like you, references the right deal, and picks up where the last touch left off.
 
@@ -43,7 +43,7 @@ That's it. Not "configure an OAuth scope." Not "map the webhook payload." When T
 
 So instead of you being the bridge between your apps — checking one, copying into another, updating a third — the agent crosses those bridges. Your tools stay where they are and keep doing their job; the difference is who's doing the clicking.
 
-With **100+ integrations**, the common stack is covered: Slack, Stripe, Shopify, Gmail, Google Calendar, Google Drive, Google Sheets, Notion, HubSpot, and more. You connect a tool once, and from then on your agents and flows can use it. You can browse what's available and start connecting from the [Genesis app builder](https://www.taskade.com/ai/apps).
+With **100+ integrations**, the common stack is covered: Slack, Stripe, Shopify, Gmail, Google Calendar, Google Drive, Google Sheets, Notion, HubSpot, and more. You connect a tool once, and from then on your agents and flows can use it. Premium integrations, such as Slack, Gmail, Google Sheets, HubSpot, and Stripe, need a paid plan. You can browse what's available and start connecting from the [Genesis app builder](https://www.taskade.com/ai/apps).
 
 A few examples of what "read and update" looks like in practice:
 
@@ -62,13 +62,13 @@ The pattern is the same across all of them: the agent does the reading and the w
 
 You may run into the term **MCP** (Model Context Protocol). Here's the only explanation you need: it's a shared standard for plugging tools into AI, the way **USB-C is a shared standard for plugging devices into a laptop.**
 
-Before USB-C, every device had its own connector and you hunted for the right cable. Before a standard like MCP, every AI integration was a one-off custom job. MCP means a tool that speaks the standard can plug into your agents without a bespoke build — and it means Taskade can act as both a place that *uses* connected tools and a tool other AI systems can connect *to*. You don't have to think about any of this to get value; it's just why "connect tools" keeps getting easier. If you want the technical depth, it lives at [taskade.com/docs](https://www.taskade.com/docs).
+Before USB-C, every device had its own connector and you hunted for the right cable. Before a standard like MCP, every AI integration was a one-off custom job. MCP means a tool that speaks the standard can plug in without a bespoke build. Taskade uses it in both directions: an automation can call an external MCP server (on every plan), and other AI systems can connect *to* your workspace through the hosted Taskade MCP server (on every paid plan). You don't have to think about any of this to get value; it's just why "connect tools" keeps getting easier. If you want the technical depth, it lives at [taskade.com/docs](https://www.taskade.com/docs).
 
 ---
 
 ## Automate flows: describe it, don't build it
 
-Most automation tools hand you a blank canvas of nodes and arrows and wish you luck. That's a builder's tool. If you're an operator with a process to run, the last thing you want is to learn a flowcharting app to express "email me the new sign-ups every morning."
+Many automation tools start you on a blank canvas of nodes and arrows. That's a builder's tool. If you're an operator with a process to run, the last thing you want is to learn a flowcharting app to express "email me the new sign-ups every morning."
 
 **AI workflow automation** in Taskade flips that. You describe the process in plain English, and the workspace assembles the flow:
 

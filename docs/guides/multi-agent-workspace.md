@@ -130,7 +130,7 @@ Genesis is the prompt → working app loop. You describe what you want; you get 
 2. **Describe the outcome in plain English.** *"A research workspace where one agent gathers sources, a second drafts a brief, and a third reviews it before it's marked done."* Describe the result, not the schema.
 3. **Watch it build.** Genesis generates the projects, the agent roles, and the automations that connect them — a working multi-agent workspace, not a mockup.
 4. **Run it and refine.** Trigger the chain, watch the agents hand off (that's the run in the GIF above), then adjust a role or prompt in click-to-edit. Changes are live immediately.
-5. **Share or ship.** Invite your team into the same workspace, or publish the app on its own domain.
+5. **Share or ship.** Invite your team into the same workspace, or publish the app on its own domain (Pro plan and up).
 
 No engineers, no months-long project. An enterprise customer who built a production app this way put it bluntly: *"What I accomplished in a few weeks would have taken a team of 40+ and 18 months in the Fortune 500."* That's the point — **build without permission.**
 
@@ -140,7 +140,7 @@ No engineers, no months-long project. An enterprise customer who built a product
 
 Single-agent tools are good, and it's worth being clear about where.
 
-Assistant-style products — Lindy and similar — are excellent at being *one* capable agent: a personal helper that drafts emails, books meetings, and chains a few tool calls together. If your need is "give me a smart assistant for my own inbox and calendar," a focused single-agent tool may be the cleaner fit, and you should use it.
+Assistant-style products are excellent at being *one* capable agent: a personal helper that drafts emails, books meetings, and chains a few tool calls together. If your need is "give me a smart assistant for my own inbox and calendar," a focused single-agent tool may be the cleaner fit, and you should use it.
 
 The difference is shared ground. A single-agent assistant is **one agent acting for one person**, usually inside a chat or an inbox. A multi-agent workspace is **many agents working a shared body of projects, notes, and data** that the whole team — human and AI — operates from. When the work spans roles (research, drafting, review, follow-through) and needs to persist and compound, an assistant bolted onto a narrow surface starts re-explaining itself; a workspace remembers.
 
@@ -159,7 +159,7 @@ No. You describe the outcome in plain English through [Genesis](https://www.task
 **Can AI agents work alongside my human team?**
 Yes. Agents live in the same projects your team uses — they can be assigned tasks, comment, complete work, and trigger the next step right next to people.
 
-**How is this different from a single AI assistant like Lindy?**
+**How is this different from a single AI assistant?**
 A single assistant is one agent, usually for one person in a chat or inbox. A multi-agent workspace is a team of specialized agents working shared projects and data that persist and compound. See the honest comparison above.
 
 **What can the agents actually do besides talk?**

@@ -6,7 +6,7 @@ An **AI recruiting agent** reads incoming resumes, scores each one against the c
 
 [![Build an applicant tracker app with Taskade Genesis](../../media/apps/project-tracker.gif)](https://www.taskade.com/ai/apps)
 
-This page is about deploying **AI agents for recruiting** inside one workspace: what they do, a concrete agent-team you can copy, the outcomes to expect, and a walkthrough for building a working applicant tracker with [Genesis](https://www.taskade.com/ai/apps) — no engineers, no code.
+This page is about deploying **AI agents for recruiting** inside one workspace: what they do, a concrete agent-team you can copy, the outcomes to expect, and a walkthrough for building a working applicant tracker with [Taskade Genesis](https://www.taskade.com/ai/apps) — no engineers, no code.
 
 ---
 
@@ -107,7 +107,7 @@ Paste in your real rubric. Give the Outreach-Writer two or three example message
 Turn the handoffs into rules: *when a candidate is created → Screener runs*; *when status changes to Review → notify the hiring manager*; *when a candidate replies yes → Scheduler proposes times*. The team now runs without you nudging it.
 
 **5. Publish and share.**
-Genesis apps are hosted, with login built in. Share the tracker with your hiring team, give the hiring manager a filtered view, and — if you want a candidate-facing piece like an application form or status portal — Genesis can add auth, a custom domain, and even payments for paid assessments.
+Genesis apps are hosted, with login built in. Share the tracker with your hiring team, give the hiring manager a filtered view, and — if you want a candidate-facing piece like an application form or status portal — Genesis can add auth, a custom domain (Pro plan and up), and even payments for paid assessments.
 
 If you'd rather start from a structured base and layer agents on top, the [run hiring and applicant tracking](./run-hiring-applicant-tracking.md) guide walks through the same pipeline from a project-first angle.
 
@@ -164,7 +164,7 @@ Yes. Upload resumes as the candidate's record; the Screener reads the content, s
 A traditional applicant tracking system stores and moves candidates through stages. Taskade does that *and* gives you AI agents that act on the data — screening, writing, scheduling — plus the ability to [build the tracker itself with Genesis](https://www.taskade.com/ai/apps). It's the database, the agents, and the automations in one workspace.
 
 **Do I need to write code or set up integrations?**
-No. You describe the app in plain English and Genesis builds it. Taskade connects to 100+ tools (calendar, email, and more) when you want agents to act outside the workspace.
+No. You describe the app in plain English and Genesis builds it. Taskade connects to 100+ tools (calendar, email, and more) when you want agents to act outside the workspace. Premium integrations need a paid plan.
 
 **Can multiple recruiters use the same pipeline?**
 Yes — that's the point of a shared workspace. Everyone sees the same candidate records, the agents update them in real time, and you can give each person a filtered view (e.g., a hiring manager sees only their reqs).
@@ -177,16 +177,16 @@ Build the tracker for one open role, get the Screener's rubric right, then add t
 
 ---
 
-## Clone a ready-made app kit
+## Clone a ready-made App Kit
 
 Prefer to start from something that already works? Clone one of these live Taskade Genesis apps — agents and automations included — then make it yours.
 
-| App kit | What it does | |
+| App Kit | What it does | |
 |---|---|---|
 | **[Recruitment Workflow](https://www.taskade.com/share/apps/b3by4yg754xrdjut)** | Pipeline candidates and hire faster, application to offer. | [Clone →](https://www.taskade.com/share/apps/b3by4yg754xrdjut) |
 | **[HR Dashboard](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb)** | Manage headcount, reviews, and leave in one place. | [Clone →](https://www.taskade.com/share/apps/ml2bqs8nmql3h3zb) |
 
-Browse all of them in the [App Kits Gallery →](../genesis/app-kits.md).
+Browse all of them in the [clone-ready App Kits →](../genesis/app-kits.md).
 
 ---
 
