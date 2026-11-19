@@ -215,20 +215,20 @@ What that means in practice:
 > **Describe any business need in plain English. Watch Genesis create complete applications with AI agents, real-time data, and automation workflows. Your ideas become working software in minutes.**
 
 <div align="center">
-  <img src="media/screenshots/genesis-split-view.jpg" alt="Taskade Genesis shows the plan of a restaurant discovery app on the left and the live app with a map on the right." width="800">
+  <a href="https://www.taskade.com/apps"><img src="https://www.taskade.com/static_images/community-apps/l4hnpvbdossel5j2-project-portal-pro.webp" alt="Project Portal Pro, a client portal app built with Taskade Genesis, shows project progress, next deadlines, messages and files with sample data." width="720"></a>
 </div>
 
 <br>
 
 | Build Apps From One Prompt | AI Agents That Think | Workflows That Run |
 |:---:|:---:|:---:|
-| <img src="media/genesis/create-app.gif" width="280" alt="Taskade Genesis builds a team dashboard app from a prompt, then opens the projects table behind it."> | <img src="media/agents/agent-generator.gif" width="280" alt="A one-line description in Generate Your AI Agent becomes a social media planner agent with instructions and tools."> | <img src="media/automations/automation-flows.gif" width="280" alt="A one-line prompt becomes a five-step automation with a trigger and its actions."> |
+| <img src="https://www.taskade.com/static_images/marketing-dashboard.gif" width="280" alt="Taskade Genesis builds a marketing performance dashboard app from one prompt, then shows its projects, AI agents and automation flow."> | <img src="media/agents/agent-generator.gif" width="280" alt="A one-line description in Generate Your AI Agent becomes a social media planner agent with instructions and tools."> | <img src="media/automations/automation-flows.gif" width="280" alt="A one-line prompt becomes a five-step automation with a trigger and its actions."> |
 | Dashboards, CRMs, portals, and forms, generated in seconds | Agents that reason, plan, and execute tasks autonomously | Multi-step flows with triggers, actions, and branching |
 
 | Taskade App Factory | Model Selection | Publish & Share |
 |:---:|:---:|:---:|
-| <img src="media/screenshots/community-gallery.jpg" width="280" alt="A grid of live apps in the Taskade App Factory, such as an HR dashboard, a room booking dashboard and a QR code studio."> | <img src="media/screenshots/model-selector.jpg" width="280" alt="The model menu in the Taskade Genesis prompt box, with Auto recommended and Standard, Thinking and Reasoning modes."> | <img src="media/screenshots/app-publish.jpg" width="280" alt="The publish panel of an analytics dashboard app, with visibility, branding, password and custom domain settings."> |
-| Browse and clone App Kits from the Taskade App Factory | Frontier models from top AI labs | Publish live apps with custom branding and domains |
+| <a href="https://www.taskade.com/apps"><img src="https://www.taskade.com/static_images/blog/ai-app-factory/cover-2026-11-05.jpg" width="280" alt="Simple Store Manager, a Store and Inventory App Kit in the Taskade App Factory, with orders, clients and revenue on one screen."></a> | <img src="https://www.taskade.com/static_images/newsletter-gifs/posters/2026-10-16-nl-tsk1-auto-k7.webp" width="280" alt="The model menu in the Taskade Genesis prompt box, with TSK-Auto selected above TSK-Instant, TSK-Standard, TSK-Thinking and TSK-Reasoning."> | <img src="https://www.taskade.com/static_images/newsletter-gifs/2026-05-13-app-users-signin.gif" width="280" alt="A Taskade Genesis app shows its sign-in screen on a phone, next to the App Users tab in the app settings."> |
+| Browse and clone App Kits from the Taskade App Factory | Frontier models from top AI labs | Publish live apps with app sign-in. Custom domains on Pro and up |
 
 **What you can build with Genesis:**
 
@@ -590,8 +590,8 @@ Taskade bridges both paradigms defined by Andrej Karpathy:
 
 | Vibe Code an App | Pick Your AI Model | Publish & Own Your Page |
 |:---:|:---:|:---:|
-| <img src="media/genesis/click-to-edit.gif" width="280" alt="A portfolio app built with Taskade Genesis changes when you select an element and describe the edit."> | <img src="media/screenshots/model-selector.jpg" width="280" alt="The model menu in the Taskade Genesis prompt box, with Auto recommended and Standard, Thinking and Reasoning modes."> | <img src="media/genesis/publish-and-share.gif" width="280" alt="A published pet sitting app shows its Workspace DNA, then the creator page lists more of their apps."> |
-| Click-to-edit visual builder, no code required | Frontier models from top AI labs | Publish to the Taskade App Factory, custom domains, analytics |
+| <img src="media/genesis/click-to-edit.gif" width="280" alt="A portfolio app built with Taskade Genesis changes when you select an element and describe the edit."> | <img src="https://www.taskade.com/static_images/newsletter-gifs/posters/2026-10-16-nl-tsk1-auto-k7.webp" width="280" alt="The model menu in the Taskade Genesis prompt box, with TSK-Auto selected above TSK-Instant, TSK-Standard, TSK-Thinking and TSK-Reasoning."> | <a href="https://www.taskade.com/apps"><img src="https://www.taskade.com/static_images/community-apps/h8wjwd7pgzidhxmb-neon-crm-dashboard-pro.webp" width="280" alt="Neon CRM Pro, an App Kit in the Taskade App Factory, shows clients to contact today, pipeline value and a follow-up queue with sample data."></a> |
+| Click-to-edit visual builder, no code required | Frontier models from top AI labs | Publish to the Taskade App Factory, with analytics. Custom domains on Pro and up |
 
 ➡️ [**What is Vibe Coding →**](https://www.taskade.com/blog/what-is-vibe-coding) · [**Best Vibe Coding Tools →**](https://www.taskade.com/blog/best-vibe-coding-tools)
 
